@@ -96,7 +96,7 @@ if __name__ == "__main__":
         while True:
             try:
                 data = scraper.extract_info_of_single_page(page_number, car)
-                if not data:  # Stop scraping if no data is returned
+                if not data:  
                     break
                 print(f"Scraped page {page_number} for category {car}: {data}")
                 page_number += 1
