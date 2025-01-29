@@ -3,7 +3,8 @@ from selenium.common.exceptions import TimeoutException, NoSuchElementException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-
+import pandas as pd
+import numpy as np
 
 class CarScraper:
     def __init__(self, headless=True):
@@ -41,7 +42,7 @@ class CarScraper:
             print(f"Erreur de chargement de la page {page_number}")
             return []
 
-    def get_element_text(self, xpath, timeout=30):
+    def get_element_text(self, xpath, timeout=10):
         """Récupère le texte d'un élément identifié par un XPath."""
         try:
             WebDriverWait(self.driver, timeout).until(
@@ -50,7 +51,7 @@ class CarScraper:
             return self.driver.find_element(By.XPATH, xpath).text
         except (TimeoutException, NoSuchElementException):
             return "Non disponible"
-
+    
     def extract_car_details(self, car_url):
         """Extrait les détails d'une voiture donnée."""
         try:
@@ -58,19 +59,19 @@ class CarScraper:
             car_details = {
                 "Id de Voiture":self.get_element_text('//*[@id="car-detail-nav-detail"]/div[2]/div[2]/div/div[1]/div/div[1]/div[2]/p/span'),
                 "Nom": self.get_element_text('//a[@class="chakra-link css-y0wldb"]'),
-                "Modèle": self.get_element_text(
+                "Modele": self.get_element_text(
                     '//*[@id="car-detail-nav-detail"]/div[2]/div[2]/div/div[1]/div/div[3]/div[2]/p/a'
                 ),
                 "Prix": self.get_element_text(
                     '//*[@id="__next"]/div/main/div[2]/div[3]/div[4]/div/div/div/div[2]/div/div/div[1]/dl[1]/dd'
                 ),
-                "Kilométrage": self.get_element_text(
+                "Kilometrage": self.get_element_text(
                     '//*[@id="car-detail-nav-detail"]/div[2]/div[1]/div[1]/div/p'
                 ),
                 "Transmission": self.get_element_text(
                     '//*[@id="car-detail-nav-detail"]/div[2]/div[1]/div[4]/div/p'
                 ),
-                "Année": self.get_element_text(
+                "Annee": self.get_element_text(
                     '//*[@id="car-detail-nav-detail"]/div[2]/div[1]/div[2]/div/p'
                 ),
                 "Carburant": self.get_element_text(
@@ -80,13 +81,13 @@ class CarScraper:
                     '//*[@id="car-detail-nav-detail"]/div[2]/div[1]/div[3]/div/p'
                 ),
 
-                "Emission class": self.get_element_text(
+                "Emission_class": self.get_element_text(
                     '//*[@id="car-detail-nav-detail"]/div[2]/div[2]/div/div[2]/div/div[2]/div[2]/p'
                 ),
-                "Drive type": self.get_element_text(
+                "Drive_type": self.get_element_text(
                     '//*[@id="car-detail-nav-detail"]/div[2]/div[1]/div[6]/div/p'
                 ),
-                "Engine capacity": self.get_element_text(
+                "Engine_capacity": self.get_element_text(
                     '//*[@id="car-detail-nav-detail"]/div[2]/div[2]/div/div[2]/div/div[1]/div[2]/p'
                 ),
                 
@@ -105,6 +106,7 @@ class CarScraper:
                 
                 
             }
+            
             return car_details
         except Exception as e:
             print(f"Erreur lors de la récupération des détails : {e}")
@@ -119,6 +121,7 @@ class CarScraper:
 def main():
     scraper = CarScraper()
     try:
+        output = pd.DataFrame()
         i = 1
         while True:
             car_links = scraper.extract_car_links(i)
@@ -131,16 +134,22 @@ def main():
                     if details:
                         print("Détails de la voiture :")
                         for key, value in details.items():
-                            print(f"{key}: {value}")
+                            print(f"{key}:{value}")
+                        df_dictionary = pd.DataFrame([details])
+                        output = pd.concat([output, df_dictionary], ignore_index=True)
+                            #output.to_csv('data.csv')
+                            #print(output.head())
                     print("-" * 50)
                 except Exception as e:
                     print(f"Erreur lors de la récupération des informations de la voiture : {e}")
             i += 1
+            output.to_csv('data.csv',index=False)  
     except Exception as e:
         print(f"Erreur générale : {e}")
     finally:
         scraper.close()
 
+        
 
 
 if __name__ == "__main__":
