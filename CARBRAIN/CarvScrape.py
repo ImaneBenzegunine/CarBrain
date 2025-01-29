@@ -149,8 +149,6 @@ def main():
     finally:
         scraper.close()
 
-        
-
 
 if __name__ == "__main__":
     main()
