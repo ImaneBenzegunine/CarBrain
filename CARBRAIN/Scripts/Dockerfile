@@ -31,9 +31,13 @@ RUN pip install --no-cache-dir undetected-chromedriver selenium webdriver-manage
 # Copier ton script Python dans le conteneur
 COPY . /app
 WORKDIR /app
+RUN mkdir -p /app/CARBRAIN/data/input \
+            /app/CARBRAIN/data/output/csv \
+            /app/CARBRAIN/data/output/xlsx \
+            /app/CARBRAIN/Scripts/__pycache__
 
 # Installer les dépendances Python nécessaires
 RUN pip install -r requirements.txt
 
 # Commande pour exécuter ton script Python
-CMD ["python", "Class2.py"]
+CMD ["python", "AutoScrape.py"]

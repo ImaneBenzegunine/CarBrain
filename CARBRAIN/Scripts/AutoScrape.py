@@ -155,7 +155,7 @@ def main():
         while True:
             car_links = scraper.extract_car_links(i)
             if not car_links:  
-                print("No cars found on page {i}. Stopping.")
+                print(f"No cars found on page {i}. Stopping.")
                 break
             
             print(f"Number of cars on page {i}: {len(car_links)}")
