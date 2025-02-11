@@ -99,8 +99,25 @@ class CarScraper:
         for key, val in zip(Keys, Vals):
             if key.text == "Sièges" or key.text == "Portes":
                 donn[key.text] = val.text
+
+        #===> Consommation énergétique
+        WebDriverWait(self.driver, 30).until(
+            EC.presence_of_element_located((By.XPATH, '//*[@id="environment-details-section"]/div/div[2]/dl'))
+        )
+        ConsommationE = self.driver.find_element(By.XPATH, '//*[@id="environment-details-section"]/div/div[2]/dl')
+        TextDAta = ConsommationE.find_elements(By.TAG_NAME, 'dd')
+        chaine2 = " ".join(s.text for s in TextDAta) + " "
+
+        #===> Couleur et Garnissage Intérieur
+        WebDriverWait(self.driver, 30).until(
+            EC.presence_of_element_located((By.XPATH, '//*[@id="color-section"]/div/div[2]'))
+        )
+        CGI = self.driver.find_element(By.XPATH, '//*[@id="color-section"]/div/div[2]')
+        CGIText = CGI.find_elements(By.TAG_NAME, 'dd')
+        chaine3 = " ".join(s.text for s in CGIText) + " "
+
         return [CarName.text, CarModele.text, CarPrice.text, CarEtat.text, CarInfoDetMore[0], CarInfoDetMore[1], CarInfoDetMore[2], CarInfoDetMore[3], CarInfoDetMore[4],
-                 CarInfoDetMore[5], donn.get('Sièges', 'N/A'), donn.get('Portes', 'N/A'), chaine]
+                 CarInfoDetMore[5], donn.get('Sièges', 'N/A'), donn.get('Portes', 'N/A'), chaine, chaine2, chaine3]
     
     def verify_xlsx_file(self, path = PATH_AUTO_XLSX) :
         if os.path.exists(path):
@@ -113,13 +130,13 @@ class CarScraper:
                 os.remove(path)  # Supprimer le fichier corrompu
                 wb = Workbook()
                 ws = wb.active
-                ws.append(["car_name", "carModele", "CarPrice", "Etat", "Milieage", "Tran", 
-                           "Annee", "CarCar", "CarPui", "CarVen", "sieges", "seats", "Options", "link"])
+                ws.append(["CarName", "carModele", "CarPrice", "Etat", "Milieage", "Transmission", 
+                                "Annee", "Carburant", "CarPuissance", "CarVendeur", "Portes", "seats", "Options", "ConsommationEnergétique","CouleurGarnissageIntérieur","link"])
         else:
             wb = Workbook()
             ws = wb.active
-            ws.append(["car_name", "carModele", "CarPrice", "Etat", "Milieage", "Tran", 
-                           "Annee", "CarCar", "CarPui", "CarVen", "technical_details", "seats", "Options", "link"])
+            ws.append(["CarName", "carModele", "CarPrice", "Etat", "Milieage", "Transmission", 
+                                "Annee", "Carburant", "CarPuissance", "CarVendeur", "Portes", "seats", "Options", "ConsommationEnergétique","CouleurGarnissageIntérieur","link"])
             wb.save(path)
 
     def verify_csv_file(self, path = PATH_AUTO_CSV):
@@ -127,8 +144,8 @@ class CarScraper:
         if not os.path.exists(path):
             with open(path, mode='w', newline='', encoding='utf-8') as file:
                 writer = csv.writer(file)
-                writer.writerow(["car_name", "carModele", "CarPrice", "Etat", "Milieage", "Tran", 
-                                "Annee", "CarCar", "CarPui", "CarVen", "technical_details", "seats", "Options", "link"])
+                writer.writerow(["CarName", "carModele", "CarPrice", "Etat", "Milieage", "Transmission", 
+                                "Annee", "Carburant", "CarPuissance", "CarVendeur", "Portes", "seats", "Options", "ConsommationEnergétique","CouleurGarnissageIntérieur","link"])
 
 
     def save_car_details(self, car_url, path_xlsx = PATH_AUTO_XLSX, path_csv = PATH_AUTO_CSV) :

@@ -1,0 +1,92 @@
+[2025-02-09T22:09:20.045+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-02-09T22:09:20.071+0000] {taskinstance.py:2603} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: ETL.transform_data manual__2025-02-09T22:09:10.018401+00:00 [queued]>
+[2025-02-09T22:09:20.081+0000] {taskinstance.py:2603} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: ETL.transform_data manual__2025-02-09T22:09:10.018401+00:00 [queued]>
+[2025-02-09T22:09:20.082+0000] {taskinstance.py:2856} INFO - Starting attempt 1 of 2
+[2025-02-09T22:09:20.102+0000] {taskinstance.py:2879} INFO - Executing <Task(PythonOperator): transform_data> on 2025-02-09 22:09:10.018401+00:00
+[2025-02-09T22:09:20.115+0000] {warnings.py:112} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:70: DeprecationWarning: This process (pid=83) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2025-02-09T22:09:20.119+0000] {standard_task_runner.py:72} INFO - Started process 85 to run task
+[2025-02-09T22:09:20.118+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'ETL', 'transform_data', 'manual__2025-02-09T22:09:10.018401+00:00', '--job-id', '18', '--raw', '--subdir', 'DAGS_FOLDER/etl.py', '--cfg-path', '/tmp/tmpmwhjuelj']
+[2025-02-09T22:09:20.120+0000] {standard_task_runner.py:105} INFO - Job 18: Subtask transform_data
+[2025-02-09T22:09:20.205+0000] {task_command.py:467} INFO - Running <TaskInstance: ETL.transform_data manual__2025-02-09T22:09:10.018401+00:00 [running]> on host b33347fa3e64
+[2025-02-09T22:09:20.374+0000] {taskinstance.py:3122} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='ETL' AIRFLOW_CTX_TASK_ID='transform_data' AIRFLOW_CTX_EXECUTION_DATE='2025-02-09T22:09:10.018401+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-02-09T22:09:10.018401+00:00'
+[2025-02-09T22:09:20.377+0000] {logging_mixin.py:190} INFO - Task instance is in running state
+[2025-02-09T22:09:20.378+0000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2025-02-09T22:09:20.379+0000] {logging_mixin.py:190} INFO - Current task name:transform_data state:running start_date:2025-02-09 22:09:20.072337+00:00
+[2025-02-09T22:09:20.380+0000] {logging_mixin.py:190} INFO - Dag name:ETL and current dag run status:running
+[2025-02-09T22:09:20.381+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2025-02-09T22:09:20.575+0000] {warnings.py:112} WARNING - /opt/***/dags/etl.py:33: UserWarning: Could not infer format, so each element will be parsed individually, falling back to `dateutil`. To ensure parsing is consistent and as-expected, please specify a format.
+  dates_series = pd.to_datetime(dates_series, errors='coerce')
+
+[2025-02-09T22:09:20.582+0000] {warnings.py:112} WARNING - /opt/***/dags/etl.py:39: UserWarning: Could not infer format, so each element will be parsed individually, falling back to `dateutil`. To ensure parsing is consistent and as-expected, please specify a format.
+  dates_series = pd.to_datetime(dates_series, errors='coerce')
+
+[2025-02-09T22:09:20.594+0000] {python.py:240} INFO - Done. Returned value was:                  Etat  Milieage  ... CylindresV2 HorsePower
+0       Très bon prix    148773  ...      1655.0        163
+1       Très bon prix    207348  ...         NaN        136
+2       Très bon prix    221000  ...      1565.0        116
+3       Très bon prix    118431  ...      1035.0         68
+4       Très bon prix    133000  ...      1142.0         80
+5   Pas d'information    131860  ...         NaN        150
+6       Très bon prix    185414  ...      1362.0        109
+7   Pas d'information    131000  ...      1260.0        109
+8       Très bon prix    259000  ...      1485.0        150
+9       Très bon prix    187223  ...      1352.0         92
+10      Très bon prix    123000  ...      1049.0         69
+11      Très bon prix    199428  ...      1635.0        136
+12           Bon prix    170000  ...      1710.0        163
+13  Pas d'information    110000  ...      1475.0        102
+14           Bon prix     79196  ...         NaN         99
+15      Très bon prix     19599  ...      3980.0         83
+16  Pas d'information    294121  ...      1651.0        102
+17      Très bon prix    265700  ...      1895.0        211
+18      Très bon prix    226890  ...      1035.0         69
+19      Très bon prix    207348  ...         NaN        136
+20      Très bon prix    168000  ...      1586.0        136
+21      Très bon prix    113000  ...      1465.0        120
+22      Très bon prix    161029  ...      1315.0        160
+23      Très bon prix     77589  ...      1465.0        136
+24           Bon prix    120902  ...      1532.0        120
+25      Très bon prix    251054  ...      1539.0        116
+26       Prix correct    225200  ...      1299.0        110
+27           Bon prix     65000  ...      1267.0         77
+28      Très bon prix    108480  ...      2250.0        300
+29      Très bon prix     50907  ...         NaN        105
+30           Bon prix    160641  ...      1415.0        116
+31           Bon prix    100125  ...         NaN         86
+32      Très bon prix    142365  ...      1954.0        215
+33       Prix correct    145000  ...      1370.0        136
+34           Bon prix    182900  ...      1086.0         69
+35           Bon prix    220000  ...      1290.0        140
+36      Très bon prix     73436  ...      1644.0        177
+37      Très bon prix         0  ...         NaN        101
+38       Prix correct         0  ...         NaN        101
+39      Très bon prix    221000  ...      1565.0        116
+40       Prix correct     65055  ...      1125.0         80
+41      Très bon prix    148773  ...      1655.0        163
+42      Très bon prix    207348  ...         NaN        136
+43  Pas d'information    100326  ...      1050.0         75
+44      Très bon prix    118000  ...      1140.0         75
+45      Très bon prix     75000  ...      1067.0         69
+46      Très bon prix    128548  ...      1613.0        136
+47  Pas d'information    131000  ...      1260.0        109
+48      Très bon prix     19599  ...      3980.0         83
+49       Prix correct    189000  ...      1470.0        109
+50      Très bon prix    200240  ...      1610.0        131
+51      Très bon prix    118431  ...      1035.0         68
+52      Très bon prix    100063  ...      1265.0        105
+53      Très bon prix    149218  ...      1125.0         75
+54      Très bon prix    138000  ...      1440.0        102
+55      Très bon prix    118000  ...      1555.0        120
+
+[56 rows x 18 columns]
+[2025-02-09T22:09:20.722+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2025-02-09T22:09:20.723+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=ETL, task_id=transform_data, run_id=manual__2025-02-09T22:09:10.018401+00:00, execution_date=20250209T220910, start_date=20250209T220920, end_date=20250209T220920
+[2025-02-09T22:09:20.740+0000] {logging_mixin.py:190} INFO - Task instance in success state
+[2025-02-09T22:09:20.741+0000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: running
+[2025-02-09T22:09:20.742+0000] {logging_mixin.py:190} INFO - Dag name:ETL queued_at:2025-02-09 22:09:10.055893+00:00
+[2025-02-09T22:09:20.742+0000] {logging_mixin.py:190} INFO - Task hostname:b33347fa3e64 operator:PythonOperator
+[2025-02-09T22:09:20.786+0000] {local_task_job_runner.py:261} INFO - Task exited with return code 0
+[2025-02-09T22:09:20.820+0000] {taskinstance.py:3891} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2025-02-09T22:09:20.824+0000] {local_task_job_runner.py:240} INFO - ::endgroup::

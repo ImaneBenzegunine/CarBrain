@@ -1,0 +1,57 @@
+Etat,Milieage,Tran,CarCar,CarVen,technical_details,seats,fillcareName,Price,etatCategory,Month,Year,PuissanceV2,TransmissionV2,CylindréeV2,VitessesV2,CylindresV2,HorsePower
+Très bon prix,148773,Boîte manuelle,Diesel,Professionnel,7.0,5,CHEVROLET-ORLANDO,3990,3,7.0,2012.0,120,Boîte manuelle,1998,1,1655.0,163
+Très bon prix,207348,Boîte manuelle,Diesel,Professionnel,5.0,5,BMW-318,3990,3,3.0,2010.0,100,Boîte manuelle,1995,1,,136
+Très bon prix,221000,Boîte manuelle,Diesel,Professionnel,7.0,5,PEUGEOT-5008,4500,3,1.0,2016.0,85,Boîte manuelle,1560,8,1565.0,116
+Très bon prix,118431,Boîte manuelle,Essence,Professionnel,5.0,5,PEUGEOT-208,4950,3,4.0,2018.0,50,Boîte manuelle,1199,5,1035.0,68
+Très bon prix,133000,Boîte manuelle,Essence,Professionnel,5.0,3,VOLKSWAGEN-GOLF,5999,3,1.0,2010.0,59,Boîte manuelle,1390,5,1142.0,80
+Pas d'information,131860,Boîte automatique,Diesel,Professionnel,5.0,5,LAND ROVER-DISCOVERY SPORT,129901,0,2.0,2018.0,110,Boîte automatique,1999,1,,150
+Très bon prix,185414,Boîte manuelle,Diesel,Professionnel,4.0,3,VOLVO-C30,2250,3,6.0,2007.0,80,Boîte manuelle,1560,8,1362.0,109
+Pas d'information,131000,Boîte manuelle,Essence,Professionnel,5.0,5,PEUGEOT-PARTNER,1950,0,6.0,2004.0,80,Boîte manuelle,1587,8,1260.0,109
+Très bon prix,259000,Boîte automatique,Diesel,Professionnel,5.0,5,BMW-218,7450,3,5.0,2016.0,110,Boîte automatique,1995,1,1485.0,150
+Très bon prix,187223,Boîte manuelle,Diesel,Professionnel,5.0,5,CITROEN-C3 PICASSO,3000,3,7.0,2013.0,68,Boîte manuelle,1560,6,1352.0,92
+Très bon prix,123000,Boîte manuelle,Essence,Professionnel,5.0,3,SEAT-IBIZA,4450,3,9.0,2014.0,51,Boîte manuelle,1198,5,1049.0,69
+Très bon prix,199428,Boîte automatique,Diesel,Professionnel,5.0,5,BMW-318,10950,3,4.0,2015.0,100,Boîte automatique,1995,1,1635.0,136
+Bon prix,170000,Boîte automatique,Diesel,Professionnel,5.0,5,PEUGEOT-508,5950,2,6.0,2012.0,120,Boîte automatique,1997,1,1710.0,163
+Pas d'information,110000,Boîte manuelle,Essence,Professionnel,7.0,5,BMW-216,9999,0,6.0,2016.0,75,Boîte manuelle,1499,7,1475.0,102
+Bon prix,79196,Boîte manuelle,Essence,Professionnel,5.0,5,HYUNDAI-I30,7500,2,4.0,2013.0,73,Boîte manuelle,1396,7,,99
+Très bon prix,19599,Boîte manuelle,Essence,Professionnel,5.0,5,CITROEN-C3,10250,3,10.0,2022.0,61,Boîte manuelle,1199,6,3980.0,83
+Pas d'information,294121,Boîte manuelle,Diesel,Professionnel,5.0,4,VOLKSWAGEN-CADDY,3999,0,8.0,2014.0,75,Boîte manuelle,1598,7,1651.0,102
+Très bon prix,265700,Boîte automatique,Diesel,Professionnel,5.0,5,BMW-525,6800,3,1.0,2012.0,155,Boîte automatique,1995,1,1895.0,211
+Très bon prix,226890,Boîte manuelle,Essence,Professionnel,5.0,3,TOYOTA-YARIS,1950,3,2.0,2006.0,51,Boîte manuelle,998,5,1035.0,69
+Très bon prix,207348,Boîte manuelle,Diesel,Professionnel,5.0,5,BMW-318,3990,3,3.0,2010.0,100,Boîte manuelle,1995,1,,136
+Très bon prix,168000,Boîte manuelle,Diesel,Professionnel,5.0,5,OPEL-ZAFIRA TOURER,4950,3,12.0,2015.0,100,Boîte manuelle,1598,1,1586.0,136
+Très bon prix,113000,Boîte automatique,Diesel,Professionnel,5.0,5,SKODA-SUPERB,150001,3,12.0,2018.0,88,Boîte automatique,1598,8,1465.0,120
+Très bon prix,161029,Boîte manuelle,Essence,Professionnel,4.0,2,AUDI-TT,6900,3,1.0,2011.0,118,Boîte manuelle,1798,1,1315.0,160
+Très bon prix,77589,Boîte automatique,Diesel,Professionnel,5.0,4,ALFA ROMEO-GIULIA,217501,3,2.0,2020.0,100,Boîte automatique,2143,1,1465.0,136
+Bon prix,120902,Boîte manuelle,Diesel,Professionnel,5.0,5,VOLVO-V40,10450,2,6.0,2016.0,88,Boîte manuelle,1969,8,1532.0,120
+Très bon prix,251054,Boîte manuelle,Diesel,Professionnel,7.0,5,VOLKSWAGEN-TOURAN,8990,3,6.0,2017.0,85,Boîte manuelle,1598,8,1539.0,116
+Prix correct,225200,Boîte manuelle,Diesel,Professionnel,5.0,5,VOLKSWAGEN-GOLF,8500,1,7.0,2016.0,81,Boîte manuelle,1598,8,1299.0,110
+Bon prix,65000,Boîte manuelle,Diesel,Professionnel,5.0,5,KIA-VENGA,6490,2,11.0,2012.0,57,Boîte manuelle,1396,5,1267.0,77
+Très bon prix,108480,50 km,Electrique/Essence,Professionnel,5.0,5,AUDI-Q5,27995,3,12.0,2020.0,221,Boîte automatique,1984,2,2250.0,300
+Très bon prix,50907,-,Electrique/Essence,Professionnel,5.0,5,HYUNDAI-KONA,164901,3,6.0,2020.0,77,Boîte automatique,1580,7,,105
+Bon prix,160641,Boîte manuelle,Diesel,Professionnel,5.0,5,KIA-SPORTAGE,6950,2,10.0,2011.0,85,Boîte manuelle,1685,8,1415.0,116
+Bon prix,100125,Boîte manuelle,Essence,Professionnel,,5,HYUNDAI-I20,6500,2,1.0,2014.0,63,Boîte manuelle,1248,6,,86
+Très bon prix,142365,Boîte automatique,Diesel,Professionnel,5.0,5,VOLVO-V60,11800,3,2.0,2014.0,158,Boîte automatique,2400,1,1954.0,215
+Prix correct,145000,Boîte manuelle,Essence,Professionnel,4.0,3,BMW-116,8900,1,11.0,2012.0,100,Boîte manuelle,1598,1,1370.0,136
+Bon prix,182900,Boîte manuelle,Essence,Professionnel,4.0,3,OPEL-ADAM,3950,2,3.0,2013.0,51,Boîte manuelle,1229,5,1086.0,69
+Bon prix,220000,Boîte automatique,Essence,Professionnel,5.0,5,VOLKSWAGEN-GOLF,8250,2,5.0,2013.0,103,Boîte automatique,1395,1,1290.0,140
+Très bon prix,73436,Boîte automatique,Diesel,Professionnel,5.0,5,PEUGEOT-3008,199501,3,11.0,2018.0,130,Boîte automatique,1997,1,1644.0,177
+Très bon prix,0,Boîte manuelle,Essence,Professionnel,,5,PEUGEOT-208,149751,3,,,74,Boîte manuelle,1199,7,,101
+Prix correct,0,Boîte manuelle,Essence,Professionnel,5.0,5,CITROEN-C3,149901,1,,,74,Boîte manuelle,1199,7,,101
+Très bon prix,221000,Boîte manuelle,Diesel,Professionnel,7.0,5,PEUGEOT-5008,4500,3,1.0,2016.0,85,Boîte manuelle,1560,8,1565.0,116
+Prix correct,65055,Boîte manuelle,Essence,Professionnel,5.0,5,MAZDA-2,3950,1,12.0,2007.0,59,Boîte manuelle,1388,5,1125.0,80
+Très bon prix,148773,Boîte manuelle,Diesel,Professionnel,7.0,5,CHEVROLET-ORLANDO,3990,3,7.0,2012.0,120,Boîte manuelle,1998,1,1655.0,163
+Très bon prix,207348,Boîte manuelle,Diesel,Professionnel,5.0,5,BMW-318,3990,3,3.0,2010.0,100,Boîte manuelle,1995,1,,136
+Pas d'information,100326,Boîte manuelle,Essence,Professionnel,5.0,5,DACIA-SANDERO,1000,0,10.0,2012.0,55,Boîte manuelle,1149,5,1050.0,75
+Très bon prix,118000,Boîte manuelle,Diesel,Professionnel,5.0,5,PEUGEOT-208,5990,3,1.0,2016.0,55,Boîte manuelle,1560,5,1140.0,75
+Très bon prix,75000,Boîte manuelle,Essence,Professionnel,5.0,5,VOLKSWAGEN-POLO,6990,3,3.0,2013.0,51,Boîte manuelle,1198,5,1067.0,69
+Très bon prix,128548,Boîte manuelle,Diesel,Professionnel,5.0,5,OPEL-INSIGNIA,7250,3,3.0,2016.0,100,Boîte manuelle,1598,1,1613.0,136
+Pas d'information,131000,Boîte manuelle,Essence,Professionnel,5.0,5,PEUGEOT-PARTNER,1950,0,6.0,2004.0,80,Boîte manuelle,1587,8,1260.0,109
+Très bon prix,19599,Boîte manuelle,Essence,Professionnel,5.0,5,CITROEN-C3,10250,3,10.0,2022.0,61,Boîte manuelle,1199,6,3980.0,83
+Prix correct,189000,Boîte automatique,Diesel,Professionnel,5.0,5,MERCEDES-BENZ-B 180,2750,1,6.0,2005.0,80,Boîte automatique,1991,8,1470.0,109
+Très bon prix,200240,Boîte manuelle,Diesel,Professionnel,5.0,5,OPEL-INSIGNIA,3600,3,3.0,2013.0,96,Boîte manuelle,1956,9,1610.0,131
+Très bon prix,118431,Boîte manuelle,Essence,Professionnel,5.0,5,PEUGEOT-208,4950,3,4.0,2018.0,50,Boîte manuelle,1199,5,1035.0,68
+Très bon prix,100063,Boîte manuelle,Diesel,Professionnel,5.0,5,SKODA-RAPID/SPACEBACK,7450,3,8.0,2015.0,77,Boîte manuelle,1598,7,1265.0,105
+Très bon prix,149218,Boîte manuelle,Essence,Professionnel,5.0,5,MAZDA-2,2950,3,6.0,2007.0,55,Boîte manuelle,1242,5,1125.0,75
+Très bon prix,138000,Boîte manuelle,Essence,Professionnel,5.0,5,BMW-216,9950,3,1.0,2018.0,75,Boîte manuelle,1499,7,1440.0,102
+Très bon prix,118000,Boîte manuelle,Essence,Professionnel,4.0,2,PEUGEOT-308,5990,3,1.0,2011.0,88,Boîte manuelle,1598,8,1555.0,120
