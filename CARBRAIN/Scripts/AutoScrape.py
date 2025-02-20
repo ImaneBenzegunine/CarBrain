@@ -25,9 +25,9 @@ class CarScraper:
             EC.presence_of_all_elements_located((By.CLASS_NAME, "ListItem_wrapper__TxHWu"))
         )
     
-    def extract_car_links(self, page_number):
+    def extract_car_links(self, page_number,car_brands):
         """Extract car links from a given page."""
-        website = f"https://www.autoscout24.be/fr/lst?atype=C&cy=B&desc=0&page={page_number}&search_id=a5i2bcp2m1&sort=standard&source=listpage_pagination&ustate=N%2CU"
+        website = f"https://www.autoscout24.be/fr/lst/{car_brands}?atype=C&cy=D%2CA%2CB&damaged_listing=exclude&desc=0&powertype=kw&search_id=vlwxlzc89k&sort=standard&source=listpage_pagination&ustate=N%2CU&page={page_number}"
         self.open_page(website)
         cars_sections = self.driver.find_elements(By.CLASS_NAME, "ListItem_wrapper__TxHWu")
         links = []
@@ -166,23 +166,27 @@ class CarScraper:
 
 def main():
     scraper = CarScraper()
-
+    car_brands = [
+        "BMW", "Mercedes-Benz", "Volkswagen", "Audi", "Toyota", 
+        "MINI", "Porsche", "Renault", "Peugeot", "Ford"
+    ]
     try:
-        i = 1
-        while True:
-            car_links = scraper.extract_car_links(i)
-            if not car_links:  
-                print(f"No cars found on page {i}. Stopping.")
-                break
-            
-            print(f"Number of cars on page {i}: {len(car_links)}")
-            
-            for car_url in car_links:
-                try:
-                    scraper.save_car_details(car_url)
-                except Exception as e:
-                    print(f"Error while retrieving car information: {e}")
-            i += 1
+        for brand in car_brands:
+            i = 1
+            while True:
+                car_links = scraper.extract_car_links(i, brand)
+                if not car_links:  
+                    print(f"No cars found for {brand} on page {i}. Moving to the next brand.")
+                    break
+                
+                print(f"Number of cars for {brand} on page {i}: {len(car_links)}")
+                
+                for car_url in car_links:
+                    try:
+                        scraper.save_car_details(car_url)
+                    except Exception as e:
+                        print(f"Error while retrieving car information for {brand} on page {i}: {e}")
+                i += 1
 
     except Exception as e:
         print(f"General error: {e}")

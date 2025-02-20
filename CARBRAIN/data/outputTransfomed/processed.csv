@@ -1,398 +1,398 @@
- Etat, Milieage, Carburant, CarVendeur, Portes, seats,fillcareName,Price,etatCategory,Milieage, Month, Year,Puissance,TransmissionV2,Cylindrée,Vitesses,Cylindres,HorsePower,ClasseEmission,Typedecarburant,Consommationdecarburant,ÉmissionsdeCO2
-Très bon prix,250 000 km,Diesel,Professionnel,5.0,5.0,FIAT-FIORINO,1450,3,250000,3.0,2010.0,55,Boîte manuelle,1248.0,5,1090.0,75,Euro 4,Diesel,4.5,123.0
-Bon prix,27 500 km,Electrique,Professionnel,5.0,4.0,AUDI-E-TRON GT,599501,2,27500,9.0,2021.0,350,Boîte automatique,,3,2254.0,476,,Électrique,,0.0
-Très bon prix,73 409 km,Essence,Professionnel,5.0,3.0,VOLKSWAGEN-GOLF,4000,3,73409,2.0,2006.0,55,Boîte manuelle,1390.0,5,1154.0,75,Euro 4,Essence,6.8,166.0
-Très bon prix,142 000 km,Diesel,Professionnel,5.0,5.0,CITROEN-C4 CACTUS,6450,3,142000,7.0,2015.0,73,Boîte manuelle,1560.0,7,1145.0,99,Euro 6b,Diesel,3.4,90.0
-Très bon prix,22 700 km,Electrique,Professionnel,5.0,5.0,AUDI-Q8 E-TRON,689501,3,22700,9.0,2023.0,300,Boîte automatique,,3,2585.0,408,,Électrique,,0.0
-Pas d'information,91 000 km,Diesel,Professionnel,5.0,5.0,MERCEDES-BENZ-C 200,195001,0,91000,7.0,2023.0,120,Boîte automatique,1993.0,1,1780.0,163,Euro 6e,Diesel,,
-Bon prix,100 063 km,Diesel,Professionnel,5.0,5.0,SKODA-RAPID/SPACEBACK,7450,2,100063,8.0,2015.0,77,Boîte manuelle,1598.0,7,1265.0,105,Euro 5,Diesel,4.4,114.0
-Prix correct,174 715 km,Diesel,Professionnel,5.0,5.0,BMW-116,6450,1,174715,3.0,2011.0,85,Boîte manuelle,1995.0,8,1380.0,116,Euro 5,Diesel,4.5,118.0
-Bon prix,96 000 km,Essence,Professionnel,5.0,5.0,CITROEN-C3,5250,2,96000,5.0,2013.0,50,Boîte manuelle,999.0,5,1048.0,68,Euro 5,Essence,4.3,99.0
-Pas d'information,2 450 km,Essence,Professionnel,5.0,5.0,OMODA-5,292001,0,2450,10.0,2024.0,107,Boîte automatique,1598.0,1,,145,Euro 6,Essence,,168.0
-Prix correct,147 837 km,Essence,Professionnel,5.0,3.0,TOYOTA-AYGO,2750,1,147837,2.0,2006.0,50,Boîte manuelle,998.0,5,3790.0,68,Euro 4,Essence,4.6,109.0
-Bon prix,167 000 km,Diesel,Professionnel,5.0,5.0,BMW-318,10990,2,167000,10.0,2015.0,100,Boîte manuelle,1995.0,1,1645.0,136,Euro 6b,Diesel,4.5,117.0
-Très bon prix,115 000 km,Diesel,Professionnel,2.0,4.0,FORD-TRANSIT CONNECT,4500,3,115000,11.0,2012.0,55,Boîte manuelle,1753.0,5,1529.0,75,Euro 5,Diesel,6.0,159.0
-Très bon prix,118 000 km,Essence,Professionnel,5.0,5.0,CITROEN-BERLINGO,7450,3,118000,4.0,2018.0,81,Boîte manuelle,1199.0,8,1395.0,110,Euro 6,Essence,5.1,
-Très bon prix,127 000 km,Diesel,Professionnel,5.0,5.0,SEAT-LEON,7999,3,127000,12.0,2014.0,77,Boîte manuelle,1598.0,7,1331.0,105,Euro 5,Diesel,3.8,99.0
-Prix correct,70 000 km,Essence,Professionnel,4.0,5.0,PEUGEOT-107,3490,1,70000,12.0,2008.0,50,Boîte manuelle,998.0,5,3875.0,68,Euro 4,Essence,4.5,
-Très bon prix,148 000 km,Diesel,Professionnel,5.0,5.0,HYUNDAI-I20,7890,3,148000,11.0,2017.0,55,Boîte manuelle,1120.0,5,1143.0,75,Euro 6b,Diesel,,
-Très bon prix,150 000 km,Diesel,Professionnel,5.0,5.0,TOYOTA-RAV 4,12700,3,150000,2.0,2016.0,105,Boîte manuelle,1995.0,1,1535.0,143,Euro 6c,Diesel,4.7,
-Très bon prix,45 835 km,Essence,Professionnel,5.0,4.0,BMW-M3,69900,3,45835,8.0,2021.0,375,Boîte automatique,2993.0,3,,510,Euro 6d,Essence,,229.0
-Bon prix,27 500 km,Electrique,Professionnel,5.0,4.0,AUDI-E-TRON GT,599501,2,27500,9.0,2021.0,350,Boîte automatique,,3,2254.0,476,,Électrique,,0.0
-Prix correct,124 372 km,Diesel,Professionnel,5.0,4.0,BMW-118,129901,1,124372,9.0,2015.0,110,Boîte automatique,1995.0,1,,150,Euro 6,Diesel,,99.0
-Très bon prix,75 000 km,Diesel,Professionnel,5.0,5.0,PEUGEOT-2008,9450,3,75000,2.0,2017.0,73,Boîte manuelle,1560.0,7,1235.0,99,Euro 6b,Diesel,3.7,97.0
-Prix correct,176 000 km,Diesel,Professionnel,5.0,3.0,AUDI-A3,7900,1,176000,2.0,2014.0,81,Boîte manuelle,1598.0,8,1305.0,110,,Diesel,3.8,
-Très bon prix,97 803 km,Essence,Professionnel,5.0,5.0,FORD-FIESTA,5950,3,97803,1.0,2013.0,44,Boîte manuelle,1242.0,4,4965.0,60,Euro 5,Essence,5.7,124.0
-Très bon prix,90 000 km,Essence,Professionnel,5.0,5.0,SKODA-FABIA,3950,3,90000,4.0,2013.0,44,Boîte manuelle,1198.0,4,1090.0,60,Euro 5,Essence,5.7,99.0
-Très bon prix,185 000 km,Diesel,Professionnel,5.0,4.0,BMW-318,9950,3,185000,4.0,2015.0,100,Boîte manuelle,1995.0,1,1485.0,136,Euro 6b,Diesel,4.3,119.0
-Prix correct,265 761 km,Diesel,Professionnel,5.0,3.0,FORD-FIESTA,3990,1,265761,5.0,2013.0,70,Boîte manuelle,1560.0,7,1108.0,95,Euro 5,Diesel,3.6,95.0
-Très bon prix,134 000 km,Essence,Professionnel,5.0,5.0,BMW-116,10750,3,134000,1.0,2019.0,80,Boîte manuelle,1499.0,8,1380.0,109,Euro 6,Essence,5.9,
-Bon prix,50 000 km,Essence,Professionnel,5.0,5.0,FORD-FIESTA,6900,2,50000,1.0,2012.0,60,Boîte manuelle,1242.0,6,1100.0,82,Euro 5,Essence,,129.0
-Bon prix,78 000 km,Diesel,Professionnel,5.0,5.0,VOLVO-XC60,16900,2,78000,3.0,2015.0,100,Boîte manuelle,1984.0,1,1716.0,136,Euro 5,Diesel,,139.0
-Prix correct,182 521 km,Diesel,Professionnel,5.0,5.0,AUDI-A3,8950,1,182521,7.0,2013.0,77,Boîte manuelle,1598.0,7,1385.0,105,Euro 5,Diesel,3.8,99.0
-Prix correct,200 000 km,Diesel,Professionnel,5.0,4.0,JAGUAR-XF,7450,1,200000,2.0,2012.0,120,Boîte automatique,2179.0,1,1735.0,163,Euro 5,Diesel,4.9,129.0
-Pas d'information,267 563 km,Diesel,Professionnel,7.0,5.0,AUDI-Q7,18900,0,267563,12.0,2015.0,155,Boîte automatique,2967.0,1,2070.0,211,Euro 6b,Diesel,5.5,144.0
-Très bon prix,154 000 km,Essence,Professionnel,5.0,3.0,FORD-FIESTA,2990,3,154000,12.0,2009.0,44,Boîte manuelle,1250.0,4,,60,Euro 4,Essence,,
-Bon prix,51 900 km,Essence,Professionnel,5.0,3.0,VOLKSWAGEN-GOLF,10950,2,51900,2.0,2016.0,63,Boîte manuelle,1197.0,6,1205.0,86,Euro 6b,Essence,4.9,113.0
-Prix correct,82 604 km,Essence,Professionnel,5.0,3.0,VOLKSWAGEN-GOLF,7900,1,82604,5.0,2009.0,59,Boîte manuelle,1390.0,5,1155.0,80,Euro 5,Essence,6.4,149.0
-Très bon prix,89 879 km,Essence,Professionnel,5.0,4.0,DACIA-LOGAN,2950,3,89879,7.0,2013.0,55,Boîte manuelle,1149.0,5,1050.0,75,Euro 5,Essence,5.9,135.0
-Très bon prix,168 060 km,Diesel,Professionnel,4.0,3.0,LAND ROVER-RANGE ROVER EVOQUE,105001,3,168060,7.0,2012.0,110,Boîte manuelle,2179.0,1,1595.0,150,Euro 5,Diesel,4.9,133.0
-Très bon prix,12 km,Essence,Professionnel,5.0,5.0,MG-ZS,192501,3,12,1.0,2025.0,78,Boîte automatique,1498.0,7,1495.0,106,Euro 6e,,,156.0
-Très bon prix,73 409 km,Essence,Professionnel,5.0,3.0,VOLKSWAGEN-GOLF,4000,3,73409,2.0,2006.0,55,Boîte manuelle,1390.0,5,1154.0,75,Euro 4,Essence,6.8,166.0
-Très bon prix,20 041 km,Essence,Professionnel,5.0,5.0,FORD-FOCUS,16499,3,20041,7.0,2020.0,92,Boîte manuelle,998.0,9,1395.0,125,Euro 6d,Essence,5.1,117.0
-Très bon prix,83 761 km,Essence,Professionnel,5.0,5.0,JEEP-COMPASS,13989,3,83761,1.0,2020.0,103,Boîte manuelle,1368.0,1,1505.0,140,Euro 6,Essence,6.8,148.0
-Prix correct,57 km,Essence,Professionnel,5.0,5.0,AUDI-RS3,739951,1,57,1.0,2025.0,294,Boîte automatique,2480.0,2,1640.0,400,Euro 6,Essence,,213.0
-Pas d'information,116 982 km,Essence,Professionnel,4.0,3.0,FERRARI-GTC4 LUSSO,147500,0,116982,6.0,2018.0,507,Boîte automatique,6262.0,5,1920.0,689,Euro 6b,,15.0,350.0
-Très bon prix,80 000 km,Essence,Professionnel,5.0,5.0,OPEL-ASTRA,9750,3,80000,7.0,2020.0,81,Boîte manuelle,1199.0,8,1413.0,110,,Essence,4.6,
-Prix correct,145 000 km,Diesel,Professionnel,5.0,5.0,LAND ROVER-DISCOVERY SPORT,10950,1,145000,8.0,2016.0,110,Boîte manuelle,1999.0,1,1775.0,150,Euro 6b,Diesel,5.3,123.0
-Bon prix,133 000 km,Diesel,Professionnel,5.0,3.0,AUDI-A3,7450,2,133000,1.0,2011.0,77,Boîte manuelle,1598.0,7,1295.0,105,Euro 5,Diesel,4.1,109.0
-Bon prix,78 000 km,Essence,Professionnel,5.0,5.0,OPEL-KARL,6490,2,78000,8.0,2015.0,55,Boîte manuelle,999.0,5,1034.0,75,Euro 6b,Essence,4.5,104.0
-Bon prix,30 205 km,Electrique/Essence,Professionnel,,5.0,AUDI-A3,24950,2,30205,12.0,2020.0,150,Boîte automatique,1395.0,1,,204,,Électrique,,
-Bon prix,118 000 km,Essence,Professionnel,4.0,2.0,MINI-COOPER CABRIO,7450,2,118000,1.0,2012.0,72,Boîte manuelle,1598.0,7,1235.0,98,Euro 5,Essence,5.7,133.0
-Très bon prix,40 671 km,Essence,Professionnel,5.0,5.0,MERCEDES-BENZ-GLA 180,17950,3,40671,3.0,2017.0,90,Boîte manuelle,1595.0,9,1295.0,122,Euro 6,Essence,5.7,133.0
-Bon prix,97 426 km,Diesel,Professionnel,5.0,5.0,FORD-FIESTA,5480,2,97426,2.0,2011.0,51,Boîte manuelle,1399.0,5,1132.0,69,Euro 5,Diesel,4.0,107.0
-Prix correct,122 268 km,Diesel,Professionnel,5.0,5.0,BMW-116,10999,1,122268,9.0,2016.0,85,Boîte manuelle,1496.0,8,1395.0,116,Euro 6b,Diesel,4.0,104.0
-Bon prix,138 290 km,Essence,Professionnel,5.0,5.0,SEAT-ATECA,13990,2,138290,8.0,2018.0,110,Boîte manuelle,1395.0,1,1359.0,150,Euro 6b,Essence,5.4,123.0
-Très bon prix,45 966 km,Electrique,Professionnel,4.0,5.0,PORSCHE-TAYCAN,699951,3,45966,1.0,2023.0,280,Boîte automatique,,2,2245.0,381,,Électrique,,0.0
-Prix correct,49 452 km,Essence,Professionnel,4.0,3.0,RENAULT-TWINGO,3600,1,49452,6.0,2005.0,43,Boîte manuelle,1149.0,4,4915.0,58,Euro 4,Essence,5.8,138.0
-Très bon prix,99 000 km,Electrique,Professionnel,5.0,5.0,NISSAN-LEAF,5900,3,99000,1.0,2013.0,80,Boîte automatique,,8,1613.0,109,Euro 6,Électrique,,0.0
-Bon prix,164 072 km,Diesel,Professionnel,5.0,5.0,MERCEDES-BENZ-C 200,7950,2,164072,12.0,2011.0,100,Boîte manuelle,2143.0,1,1635.0,136,Euro 5,Diesel,5.2,127.0
-Pas d'information,186 210 km,Diesel,Professionnel,5.0,5.0,CITROEN-C4 PICASSO,3990,0,186210,10.0,2012.0,82,Boîte manuelle,1560.0,8,1505.0,111,Euro 5,Diesel,5.1,132.0
-Très bon prix,142 000 km,Diesel,Professionnel,5.0,5.0,CITROEN-C4 CACTUS,6450,3,142000,7.0,2015.0,73,Boîte manuelle,1560.0,7,1145.0,99,Euro 6b,Diesel,3.4,90.0
-Très bon prix,77 372 km,Essence,Professionnel,5.0,5.0,VOLKSWAGEN-TIGUAN,15250,3,77372,4.0,2017.0,92,Boîte manuelle,1395.0,9,1490.0,125,Euro 6b,Essence,6.0,135.0
-Bon prix,63 600 km,Essence,Professionnel,5.0,5.0,RENAULT-MEGANE,11950,2,63600,4.0,2018.0,97,Boîte manuelle,1197.0,9,1280.0,132,Euro 6b,Essence,5.3,119.0
-Très bon prix,91 000 km,Essence,Professionnel,5.0,5.0,KIA-STONIC,11600,3,91000,5.0,2019.0,74,Boîte manuelle,1368.0,7,1160.0,101,Euro 6d,,5.5,127.0
-Bon prix,149 764 km,Diesel,Professionnel,5.0,5.0,BMW-116,12490,2,149764,3.0,2016.0,85,Boîte automatique,1496.0,8,1425.0,116,Euro 6b,Diesel,4.0,96.0
-Bon prix,130 000 km,Essence,Professionnel,4.0,3.0,MINI-ONE,6450,2,130000,1.0,2015.0,55,Boîte manuelle,1598.0,5,1145.0,75,Euro 6b,Essence,5.4,122.0
-Très bon prix,91 015 km,Diesel,Professionnel,5.0,5.0,JAGUAR-E-PACE,15950,3,91015,7.0,2020.0,110,Boîte manuelle,1999.0,1,1775.0,150,Euro 6d,Diesel,5.4,143.0
-Bon prix,274 216 km,Diesel,Professionnel,5.0,5.0,PEUGEOT-508,4250,2,274216,6.0,2015.0,84,Boîte manuelle,1560.0,8,1609.0,114,Euro 5,Diesel,4.2,110.0
-Très bon prix,42 476 km,Essence,Professionnel,4.0,2.0,BMW-M4,67995,3,42476,3.0,2021.0,375,Boîte automatique,2993.0,3,1800.0,510,Euro 6d,Essence,10.2,234.0
-Bon prix,62 681 km,Essence,Professionnel,5.0,5.0,OPEL-CORSA,10490,2,62681,9.0,2020.0,74,Boîte manuelle,1199.0,7,1165.0,101,Euro 6d,Essence,4.3,99.0
-Très bon prix,117 002 km,Diesel,Professionnel,,,PEUGEOT-508,14290,3,117002,6.0,2020.0,96,Boîte automatique,1499.0,9,,131,Euro 6d,Diesel,,98.0
-Très bon prix,104 910 km,Diesel,Professionnel,5.0,5.0,PEUGEOT-RIFTER,15450,3,104910,3.0,2020.0,96,Boîte manuelle,1499.0,9,1405.0,131,Euro 6,Diesel,4.4,113.0
-Très bon prix,3 000 km,Electrique/Essence,Professionnel,5.0,5.0,MAZDA-MX-30,269051,3,3000,11.0,2024.0,125,Boîte automatique,,1,,170,Euro 6d,Essence,,21.0
-Prix correct,220 265 km,Diesel,Professionnel,2.0,5.0,HYUNDAI-H-1,9990,1,220265,6.0,2016.0,100,Boîte manuelle,2497.0,1,2036.0,136,Euro 5,Diesel,7.6,199.0
-Très bon prix,9 735 km,Essence,Professionnel,5.0,5.0,VOLKSWAGEN-TAIGO,21950,3,9735,10.0,2022.0,81,Boîte automatique,999.0,8,1261.0,110,Euro 6d,Essence,,111.0
-Pas d'information,58 263 km,Essence,Professionnel,5.0,5.0,FORD-FOCUS,10690,0,58263,4.0,2018.0,110,Boîte manuelle,1498.0,1,1350.0,150,Euro 6,Essence,5.5,127.0
-Prix correct,152 000 km,Essence,Professionnel,5.0,5.0,MERCEDES-BENZ-A 180,12999,1,152000,2.0,2014.0,90,Boîte automatique,1595.0,9,1395.0,122,Euro 6b,,4.0,112.0
-Prix correct,106 209 km,Diesel,Professionnel,5.0,4.0,VOLKSWAGEN-PASSAT,16499,1,106209,8.0,2018.0,103,Boîte manuelle,1598.0,1,1444.0,140,Euro 6b,Diesel,4.0,103.0
-Prix correct,61 562 km,Essence,Professionnel,5.0,4.0,HYUNDAI-I10,3990,1,61562,9.0,2008.0,49,Boîte manuelle,1086.0,4,,67,Euro 4,Essence,,119.0
-Très bon prix,83 850 km,Diesel,Professionnel,5.0,5.0,BMW-216,13990,3,83850,2.0,2020.0,85,Boîte manuelle,1496.0,8,1575.0,116,Euro 6d,Diesel,,104.0
-Très bon prix,22 700 km,Electrique,Professionnel,5.0,5.0,AUDI-Q8 E-TRON,689501,3,22700,9.0,2023.0,300,Boîte automatique,,3,2585.0,408,,Électrique,,0.0
-Pas d'information,45 978 km,Electrique/Essence,Professionnel,4.0,2.0,POLESTAR-1,899501,0,45978,3.0,2020.0,448,Boîte automatique,1969.0,4,2350.0,609,Euro 6d,Électrique,1.3,15.0
-Bon prix,15 748 km,Essence,Professionnel,5.0,5.0,JEEP-RENEGADE,12950,2,15748,1.0,2017.0,81,Boîte manuelle,1598.0,8,1346.0,110,Euro 6b,Essence,6.0,141.0
-Très bon prix,83 000 km,Diesel,Professionnel,5.0,5.0,JAGUAR-F-PACE,17450,3,83000,9.0,2017.0,132,Boîte automatique,1999.0,1,1775.0,179,Euro 6b,Diesel,5.3,139.0
-Bon prix,35 500 km,Electrique,Professionnel,5.0,5.0,DS AUTOMOBILES-DS 3 CROSSBACK,19950,2,35500,7.0,2022.0,100,Boîte automatique,,1,1525.0,136,,Électrique,,0.0
-Très bon prix,9 800 km,Electrique/Essence,Professionnel,5.0,4.0,AUDI-A8,869991,3,9800,10.0,2023.0,330,Boîte automatique,2995.0,3,2035.0,449,Euro 6e,Essence,,45.0
-Prix correct,3 293 km,Essence,Professionnel,5.0,3.0,FORD-FIESTA,23499,1,3293,12.0,2020.0,147,Boîte manuelle,1496.0,1,,200,Euro 6d,Essence,6.6,149.0
-Bon prix,12 006 km,Essence,Professionnel,4.0,5.0,CITROEN-C1,5500,2,12006,3.0,2011.0,50,Boîte manuelle,998.0,5,,68,Euro 5,Essence,,103.0
-Très bon prix,49 000 km,Essence,Professionnel,5.0,4.0,ALFA ROMEO-GIULIA,49990,3,49000,4.0,2019.0,375,Boîte automatique,2891.0,3,1695.0,510,Euro 6d,Essence,9.1,206.0
-Pas d'information,140 000 km,Essence,Professionnel,5.0,3.0,AUDI-A3,10990,0,140000,1.0,2013.0,90,Boîte manuelle,1395.0,9,1250.0,122,Euro 5,Essence,5.2,120.0
-Très bon prix,85 000 km,Diesel,Professionnel,5.0,5.0,PEUGEOT-3008,16990,3,85000,9.0,2020.0,96,Boîte manuelle,1499.0,9,1566.0,131,Euro 6d,Diesel,3.9,104.0
-Très bon prix,144 000 km,Essence,Professionnel,5.0,5.0,BMW-120,16950,3,144000,2.0,2018.0,135,Boîte automatique,1998.0,1,1455.0,184,,Essence,5.5,
-Très bon prix,83 981 km,Diesel,Professionnel,5.0,4.0,MERCEDES-BENZ-C 200,15250,3,83981,4.0,2016.0,100,Boîte manuelle,1598.0,1,1485.0,136,Euro 6b,Diesel,3.9,101.0
-Bon prix,100 000 km,Essence,Professionnel,5.0,5.0,RENAULT-MEGANE,5990,2,100000,7.0,2012.0,81,Boîte manuelle,1598.0,8,1290.0,110,Euro 5,Essence,6.9,159.0
-Très bon prix,118 000 km,CNG,Professionnel,4.0,3.0,VOLKSWAGEN-UP!,4400,3,118000,8.0,2013.0,50,Boîte manuelle,999.0,5,1031.0,68,Euro 6b,,2.9,79.0
-Très bon prix,14 764 km,Essence,Professionnel,5.0,5.0,OPEL-CORSA,129951,3,14764,1.0,2022.0,55,Boîte manuelle,1199.0,5,,75,Euro 6,Essence,,118.0
-Bon prix,130 656 km,Essence,Professionnel,4.0,3.0,FIAT-500,7490,2,130656,4.0,2012.0,99,Boîte manuelle,1368.0,9,4930.0,135,Euro 5,,6.5,155.0
-Prix correct,220 256 km,Diesel,Professionnel,5.0,5.0,VOLVO-V60,13000,1,220256,7.0,2019.0,110,Boîte automatique,1969.0,1,1695.0,150,Euro 6d,Diesel,4.4,117.0
-Très bon prix,45 298 km,Essence,Professionnel,5.0,5.0,CITROEN-C3,9490,3,45298,5.0,2021.0,61,Boîte manuelle,1199.0,6,1055.0,83,Euro 6d,Essence,4.2,97.0
-Très bon prix,153 830 km,Electrique/Diesel,Professionnel,5.0,4.0,MERCEDES-BENZ-C 300,15990,3,153830,11.0,2016.0,150,Boîte automatique,2143.0,1,1715.0,204,Euro 6b,Électrique,3.6,94.0
-Pas d'information,91 000 km,Diesel,Professionnel,5.0,5.0,MERCEDES-BENZ-C 200,195001,0,91000,7.0,2023.0,120,Boîte automatique,1993.0,1,1780.0,163,Euro 6e,Diesel,,
-Très bon prix,158 000 km,Diesel,Professionnel,5.0,5.0,MASERATI-LEVANTE,27499,3,158000,8.0,2017.0,202,Boîte automatique,2987.0,2,2205.0,275,Euro 6b,Diesel,7.2,189.0
-Très bon prix,120 000 km,Diesel,Professionnel,5.0,5.0,VOLVO-V60,99501,3,120000,12.0,2016.0,88,Boîte manuelle,1969.0,8,1679.0,120,Euro 6b,Diesel,3.9,104.0
-Pas d'information,80 000 km,Electrique/Essence,Professionnel,5.0,4.0,BMW-330,16499,0,80000,3.0,2016.0,135,Boîte automatique,1998.0,1,1570.0,184,Euro 6b,Électrique,5.5,45.0
-Très bon prix,140 000 km,Diesel,Professionnel,4.0,5.0,AUDI-A5,13490,3,140000,3.0,2014.0,110,Boîte manuelle,1968.0,1,1590.0,150,Euro 5,Diesel,4.5,119.0
-Pas d'information,199 950 km,Diesel,Professionnel,5.0,5.0,SEAT-IBIZA,3650,0,199950,1.0,2011.0,55,Boîte manuelle,1199.0,5,1190.0,75,,Diesel,3.9,102.0
-Bon prix,82 922 km,Diesel,Professionnel,5.0,5.0,VOLVO-XC60,15990,2,82922,6.0,2015.0,100,Boîte manuelle,1984.0,1,1716.0,136,Euro 5,Diesel,5.3,139.0
-Bon prix,54 181 km,Diesel,Professionnel,5.0,4.0,AUDI-A6,359501,2,54181,1.0,2021.0,120,Boîte automatique,1968.0,1,1715.0,163,Euro 6d,Diesel,4.4,116.0
-Prix correct,143 011 km,Diesel,Professionnel,5.0,4.0,MERCEDES-BENZ-A 180,21990,1,143011,2.0,2020.0,85,Boîte automatique,1461.0,8,1455.0,116,Euro 6d,Diesel,4.2,103.0
-Prix correct,170 220 km,Essence,Professionnel,5.0,5.0,DACIA-DUSTER,5900,1,170220,1.0,2015.0,92,Boîte manuelle,1198.0,9,1235.0,125,Euro 5,Essence,6.0,140.0
-Très bon prix,186 960 km,Essence,Professionnel,5.0,5.0,KIA-SOUL,2990,3,186960,7.0,2010.0,91,Boîte manuelle,1591.0,9,1170.0,124,Euro 5,Essence,6.5,
-Bon prix,74 030 km,Essence,Professionnel,5.0,5.0,HYUNDAI-TUCSON,14500,2,74030,12.0,2017.0,97,Boîte manuelle,1591.0,9,1379.0,132,Euro 6b,Essence,6.3,147.0
-Prix correct,150 757 km,Essence,Professionnel,5.0,5.0,OPEL-MOKKA,7950,1,150757,5.0,2016.0,103,Boîte manuelle,1364.0,1,1335.0,140,Euro 6b,Essence,6.0,139.0
-Pas d'information,43 000 km,Electrique/Essence,Professionnel,5.0,5.0,MG-EHS,18500,0,43000,5.0,2021.0,119,Boîte automatique,1490.0,1,1775.0,162,Euro 6d,Électrique,4.0,
-Très bon prix,8 097 km,Electrique/Essence,Professionnel,,5.0,RENAULT-ARKANA,30950,3,8097,6.0,2024.0,120,Boîte automatique,1598.0,1,,163,Euro 6d,Électrique,,111.0
-Prix correct,212 000 km,Diesel,Professionnel,5.0,5.0,MERCEDES-BENZ-ML 250,16950,1,212000,5.0,2012.0,150,Boîte automatique,2143.0,1,2150.0,204,Euro 6b,Diesel,5.8,154.0
-Très bon prix,35 865 km,Essence,Professionnel,5.0,5.0,PEUGEOT-208,122001,3,35865,11.0,2022.0,55,Boîte manuelle,1199.0,5,1055.0,75,Euro 6d,,4.1,94.0
-Bon prix,101 637 km,Diesel,Professionnel,,,VOLVO-V60,189001,2,101637,1.0,2019.0,110,,,1,,150,,Diesel,,138.0
-Bon prix,86 000 km,Essence,Professionnel,5.0,5.0,OPEL-GRANDLAND X,11950,2,86000,1.0,2018.0,96,Boîte manuelle,1199.0,9,1350.0,131,Euro 6b,Essence,5.1,117.0
-Bon prix,114 316 km,Diesel,Professionnel,5.0,5.0,SEAT-IBIZA,5990,2,114316,8.0,2015.0,55,Boîte manuelle,1199.0,5,1205.0,75,Euro 5,Diesel,,89.0
-Bon prix,100 063 km,Diesel,Professionnel,5.0,5.0,SKODA-RAPID/SPACEBACK,7450,2,100063,8.0,2015.0,77,Boîte manuelle,1598.0,7,1265.0,105,Euro 5,Diesel,4.4,114.0
-Bon prix,114 316 km,Diesel,Professionnel,5.0,5.0,SEAT-IBIZA,5990,2,114316,8.0,2015.0,55,Boîte manuelle,1199.0,5,1205.0,75,Euro 5,Diesel,,89.0
-Pas d'information,280 314 km,Diesel,Professionnel,5.0,5.0,MERCEDES-BENZ-A 180,7400,0,280314,3.0,2013.0,80,Boîte manuelle,1461.0,8,1395.0,109,Euro 6b,Diesel,3.8,98.0
-Très bon prix,83 675 km,Essence,Professionnel,5.0,5.0,PEUGEOT-3008,148901,3,83675,10.0,2020.0,96,Boîte manuelle,1199.0,9,,131,Euro 6,Essence,,
-Très bon prix,49 000 km,Essence,Professionnel,5.0,5.0,CITROEN-BERLINGO,134951,3,49000,12.0,2019.0,81,Boîte manuelle,1199.0,8,1505.0,110,Euro 6d,Essence,5.5,125.0
-Bon prix,124 000 km,Essence,Professionnel,5.0,5.0,MAZDA-CX-3,119501,2,124000,2.0,2017.0,88,Boîte manuelle,1998.0,8,1155.0,120,Euro 6b,Essence,5.9,137.0
-Très bon prix,53 077 km,Essence,Professionnel,5.0,5.0,PEUGEOT-PARTNER,12490,3,53077,3.0,2017.0,81,Boîte manuelle,1199.0,8,,110,Euro 6,Essence,,119.0
-Prix correct,110 002 km,Essence,Professionnel,5.0,3.0,OPEL-CORSA,7750,1,110002,3.0,2018.0,66,Boîte manuelle,1398.0,6,1120.0,90,Euro 6b,Essence,5.2,120.0
-Très bon prix,34 760 km,Essence,Professionnel,2.0,5.0,CITROEN-C3,99001,3,34760,6.0,2020.0,61,Boîte manuelle,1199.0,6,1055.0,83,Euro 6d,,4.2,97.0
-Bon prix,120 000 km,Diesel,Professionnel,5.0,5.0,LAND ROVER-RANGE ROVER EVOQUE,14950,2,120000,11.0,2017.0,110,Boîte automatique,1999.0,1,1675.0,150,Euro 6b,Diesel,5.1,134.0
-Bon prix,120 000 km,Diesel,Professionnel,5.0,5.0,JAGUAR-F-PACE,169501,2,120000,9.0,2016.0,132,Boîte automatique,1999.0,1,1775.0,179,Euro 6b,Diesel,5.3,139.0
-Très bon prix,120 000 km,Essence,Professionnel,5.0,5.0,SEAT-LEON,13399,3,120000,1.0,2021.0,96,Boîte manuelle,1498.0,9,1318.0,131,Euro 6d,Essence,5.1,117.0
-Prix correct,109 761 km,Diesel,Professionnel,5.0,4.0,AUDI-A6,22750,1,109761,1.0,2018.0,110,Boîte automatique,1968.0,1,1735.0,150,Euro 6b,Diesel,4.2,109.0
-Bon prix,99 000 km,Diesel,Professionnel,5.0,5.0,LAND ROVER-RANGE ROVER EVOQUE,19900,2,99000,4.0,2017.0,132,Boîte automatique,1999.0,1,1690.0,179,Euro 6d,Diesel,,
-Bon prix,126 000 km,Essence,Professionnel,5.0,5.0,FORD-B-MAX,5950,2,126000,3.0,2016.0,74,Boîte manuelle,998.0,7,1279.0,101,Euro 6b,Essence,4.9,114.0
-Très bon prix,11 133 km,Essence,Professionnel,5.0,5.0,KIA-STONIC,208001,3,11133,4.0,2023.0,88,Boîte automatique,1000.0,8,1150.0,120,,Essence,,129.0
-Bon prix,138 000 km,Essence,Professionnel,5.0,3.0,OPEL-ASTRA,7999,2,138000,3.0,2016.0,88,Boîte manuelle,1364.0,8,1408.0,120,Euro 6b,Essence,6.2,146.0
-Bon prix,67 000 km,Diesel,Professionnel,5.0,5.0,PEUGEOT-208,13900,2,67000,11.0,2022.0,75,Boîte manuelle,1499.0,7,1165.0,102,Euro 6d,Diesel,3.3,86.0
-Très bon prix,144 210 km,Diesel,Professionnel,5.0,5.0,CITROEN-BERLINGO,7500,3,144210,7.0,2015.0,73,Boîte manuelle,1560.0,7,1374.0,99,Euro 6b,Diesel,4.3,113.0
-Bon prix,24 775 km,Essence,Professionnel,5.0,5.0,VOLKSWAGEN-T-CROSS,229901,2,24775,3.0,2024.0,85,Boîte automatique,999.0,8,,116,Euro 6d,Essence,,1.0
-Prix correct,174 715 km,Diesel,Professionnel,5.0,5.0,BMW-116,6450,1,174715,3.0,2011.0,85,Boîte manuelle,1995.0,8,1380.0,116,Euro 5,Diesel,4.5,118.0
-Bon prix,189 000 km,Diesel,Professionnel,5.0,5.0,BMW-X1,9950,2,189000,4.0,2014.0,100,Boîte automatique,1995.0,1,1570.0,136,Euro 5,Diesel,5.0,132.0
-Pas d'information,162 083 km,Diesel,Professionnel,5.0,5.0,LAND ROVER-DISCOVERY SPORT,11950,0,162083,6.0,2016.0,110,Boîte manuelle,1999.0,1,1775.0,150,Euro 6b,Diesel,5.1,134.0
-Prix correct,65 000 km,Essence,Professionnel,5.0,4.0,AUDI-S4,37900,1,65000,7.0,2019.0,260,Boîte automatique,2995.0,2,1705.0,354,Euro 6d,Essence,7.5,
-Bon prix,145 000 km,Diesel,Professionnel,5.0,5.0,VOLKSWAGEN-POLO,10450,2,145000,6.0,2018.0,70,Boîte manuelle,1598.0,7,1280.0,95,Euro 6b,Diesel,3.8,99.0
-Pas d'information,18 415 km,LPG,Professionnel,,5.0,DACIA-JOGGER,14500,0,18415,5.0,2022.0,81,Boîte manuelle,990.0,8,,110,,,5.6,127.0
-Bon prix,73 000 km,Essence,Professionnel,5.0,5.0,CITROEN-C4,7300,2,73000,5.0,2015.0,70,Boîte manuelle,1397.0,7,1275.0,95,Euro 5,Essence,6.1,140.0
-Très bon prix,42 930 km,Essence,Professionnel,5.0,5.0,AUDI-A3,169991,3,42930,5.0,2019.0,85,Boîte automatique,999.0,8,1275.0,116,Euro 6d,,5.1,117.0
-Bon prix,74 201 km,Essence,Professionnel,5.0,5.0,HYUNDAI-I10,6999,2,74201,1.0,2014.0,49,Boîte manuelle,1000.0,4,,67,Euro 5,Essence,,108.0
-Très bon prix,14 104 km,Electrique,Professionnel,,,POLESTAR-2,349001,3,14104,7.0,2023.0,170,,,1,,231,,,,0.0
-Prix correct,168 800 km,Diesel,Professionnel,5.0,5.0,VOLKSWAGEN-GOLF,10950,1,168800,10.0,2015.0,77,Boîte manuelle,1598.0,7,1295.0,105,Euro 5,Diesel,3.8,99.0
-Très bon prix,0 km,Electrique,Professionnel,5.0,5.0,MERCEDES-BENZ-EQA,469901,3,0,1.0,2025.0,168,,,1,,228,,,,0.0
-Très bon prix,66 523 km,Essence,Professionnel,5.0,5.0,PEUGEOT-208,135001,3,66523,2.0,2023.0,75,Boîte manuelle,1199.0,7,,102,Euro 6,Essence,5.0,113.0
-Bon prix,69 950 km,Diesel,Professionnel,4.0,2.0,JEEP-WRANGLER,299501,2,69950,4.0,2017.0,147,Boîte automatique,2777.0,1,1945.0,200,,Diesel,8.8,
-Très bon prix,22 193 km,Essence,Professionnel,5.0,5.0,VOLKSWAGEN-T-ROC,20995,3,22193,5.0,2021.0,110,Boîte manuelle,1498.0,1,1330.0,150,Euro 6d,Essence,5.2,119.0
-Bon prix,50 549 km,Diesel,Professionnel,5.0,5.0,BMW-X1,239951,2,50549,6.0,2019.0,140,Boîte automatique,1995.0,1,1690.0,190,Euro 6e,Diesel,4.8,126.0
-Bon prix,91 717 km,Diesel,Professionnel,5.0,5.0,VOLVO-V40,124501,2,91717,1.0,2019.0,88,Boîte manuelle,1969.0,8,1532.0,120,Euro 6d,Diesel,3.4,89.0
-Prix correct,175 600 km,Diesel,Professionnel,5.0,3.0,FORD-FIESTA,2290,1,175600,4.0,2008.0,50,Boîte manuelle,1399.0,5,1132.0,68,Euro 4,Diesel,4.5,119.0
-Prix correct,131 000 km,Diesel,Professionnel,5.0,5.0,VOLKSWAGEN-TIGUAN,16950,1,131000,2.0,2017.0,110,Boîte manuelle,1968.0,1,1568.0,150,Euro 6b,Diesel,4.7,123.0
-Pas d'information,128 825 km,Diesel,Professionnel,5.0,5.0,AUDI-A6,26999,0,128825,1.0,2017.0,140,Boîte automatique,1968.0,1,1800.0,190,Euro 6b,Diesel,4.4,115.0
-Bon prix,96 000 km,Essence,Professionnel,5.0,5.0,CITROEN-C3,5250,2,96000,5.0,2013.0,50,Boîte manuelle,999.0,5,1048.0,68,Euro 5,Essence,4.3,99.0
-Prix correct,110 077 km,Essence,Professionnel,5.0,5.0,NISSAN-X-TRAIL,13400,1,110077,1.0,2016.0,120,Boîte manuelle,1600.0,1,1430.0,163,,Essence,,149.0
-Pas d'information,109 100 km,Essence,Professionnel,4.0,2.0,PEUGEOT-207,6750,0,109100,1.0,2013.0,88,Boîte manuelle,1598.0,8,1417.0,120,Euro 5,Essence,6.4,149.0
-Très bon prix,175 000 km,Essence,Professionnel,5.0,5.0,BMW-X3,19900,3,175000,1.0,2019.0,135,Boîte automatique,1998.0,1,1810.0,184,Euro 6d,Essence,6.6,151.0
-Très bon prix,104 110 km,Electrique/Essence,Professionnel,4.0,5.0,PORSCHE-PANAMERA,55995,3,104110,8.0,2018.0,340,Boîte automatique,2894.0,3,2245.0,462,Euro 6b,Électrique,2.5,56.0
-Bon prix,111 000 km,Diesel,Professionnel,5.0,4.0,BMW-116,169001,2,111000,11.0,2021.0,85,Boîte manuelle,1496.0,8,1450.0,116,Euro 6d,Diesel,,120.0
-Pas d'information,129 568 km,Diesel,Professionnel,7.0,5.0,LAND ROVER-DISCOVERY SPORT,17990,0,129568,11.0,2018.0,110,Boîte automatique,1999.0,1,1785.0,150,Euro 6d,Diesel,6.4,169.0
-Bon prix,105 238 km,Diesel,Professionnel,5.0,5.0,VOLKSWAGEN-PASSAT VARIANT,14950,2,105238,6.0,2018.0,88,Boîte automatique,1598.0,8,1500.0,120,Euro 6b,Diesel,4.0,103.0
-Pas d'information,100 570 km,Essence,Professionnel,5.0,5.0,OPEL-CORSA,7950,0,100570,5.0,2019.0,74,Boîte manuelle,1364.0,7,1163.0,101,Euro 6d,,5.2,122.0
-Bon prix,88 223 km,Essence,Professionnel,5.0,4.0,MERCEDES-BENZ-CLA 180,17250,2,88223,12.0,2018.0,90,Boîte manuelle,1595.0,9,1295.0,122,Euro 6d,,6.7,152.0
-Pas d'information,74 343 km,Essence,Professionnel,5.0,5.0,CITROEN-C4 X,17700,0,74343,1.0,2021.0,96,Boîte automatique,1199.0,9,1353.0,131,Euro 6d,Essence,,132.0
-Prix correct,112 120 km,Diesel,Professionnel,5.0,5.0,HYUNDAI-TUCSON,16990,1,112120,9.0,2017.0,100,Boîte manuelle,1995.0,1,1587.0,136,Euro 6,Diesel,5.2,120.0
-Prix correct,185 607 km,Diesel,Professionnel,5.0,5.0,AUDI-A3,10990,1,185607,11.0,2016.0,81,Boîte manuelle,1598.0,8,1350.0,110,Euro 6b,Diesel,4.0,107.0
-Bon prix,34 780 km,Electrique/Essence,Professionnel,5.0,5.0,AUDI-Q5,359951,2,34780,11.0,2020.0,185,Boîte automatique,1984.0,1,2105.0,252,Euro 6d,Électrique,2.0,46.0
-Bon prix,74 000 km,Essence,Professionnel,5.0,5.0,BMW-X1,219501,2,74000,9.0,2020.0,100,Boîte automatique,1499.0,1,1510.0,136,Euro 6d,,5.6,127.0
-Très bon prix,52 230 km,Essence,Professionnel,5.0,5.0,AUDI-A1,159901,3,52230,10.0,2019.0,70,Boîte manuelle,999.0,7,,95,Euro 6d,Essence,,128.0
-Pas d'information,79 000 km,Essence,Professionnel,4.0,5.0,MERCEDES-BENZ-AMG GT,84900,0,79000,6.0,2019.0,470,Boîte automatique,3982.0,4,2120.0,639,,Essence,11.3,
-Bon prix,133 808 km,Diesel,Professionnel,5.0,5.0,VOLKSWAGEN-POLO,8950,2,133808,6.0,2017.0,55,Boîte manuelle,1422.0,5,1152.0,75,Euro 6b,Diesel,,88.0
-Prix correct,160 000 km,Diesel,Professionnel,5.0,5.0,BMW-X3,6950,1,160000,11.0,2009.0,100,Boîte manuelle,1995.0,1,1815.0,136,Euro 5,Diesel,6.2,165.0
-Pas d'information,2 450 km,Essence,Professionnel,5.0,5.0,OMODA-5,292001,0,2450,10.0,2024.0,107,Boîte automatique,1598.0,1,,145,Euro 6,Essence,,168.0
-Très bon prix,122 000 km,Essence,Professionnel,5.0,5.0,MINI-COOPER S COUNTRYMAN,9400,3,122000,10.0,2012.0,135,Boîte manuelle,1598.0,1,1455.0,184,Euro 5,,6.7,157.0
-Bon prix,9 km,Essence,Professionnel,5.0,5.0,CUPRA-LEON,31950,2,9,10.0,2024.0,110,Boîte automatique,1498.0,1,1416.0,150,Euro 6d,Essence,5.0,115.0
-Très bon prix,96 500 km,Diesel,Professionnel,5.0,5.0,VOLKSWAGEN-PASSAT VARIANT,14990,3,96500,3.0,2018.0,88,Boîte manuelle,1598.0,8,1485.0,120,,Diesel,,105.0
-Pas d'information,125 000 km,Diesel,Professionnel,5.0,5.0,KIA-CEED SW / CEE'D SW,8990,0,125000,11.0,2015.0,81,Boîte manuelle,1582.0,8,1420.0,110,Euro 6b,Diesel,3.9,102.0
-Pas d'information,131 929 km,Electrique/Essence,Professionnel,4.0,5.0,OPEL-AMPERA,79501,0,131929,3.0,2012.0,111,Boîte automatique,1398.0,1,1732.0,151,Euro 5,Électrique,1.2,27.0
-Bon prix,10 km,Essence,Professionnel,5.0,5.0,MG-ZS,194901,2,10,11.0,2024.0,78,Boîte manuelle,1498.0,7,,106,Euro 6d,Essence,,156.0
-Prix correct,176 876 km,Essence,Professionnel,5.0,4.0,VOLKSWAGEN-TIGUAN,8990,1,176876,6.0,2012.0,118,Boîte manuelle,1390.0,1,,160,Euro 5,Essence,,178.0
-Très bon prix,154 886 km,Essence,Professionnel,5.0,5.0,BMW-X3,14900,3,154886,2.0,2017.0,135,Boîte manuelle,1997.0,1,1795.0,184,Euro 6b,Essence,7.7,180.0
-Bon prix,136 061 km,Diesel,Professionnel,3.0,5.0,FORD-TRANSIT CUSTOM,139901,2,136061,3.0,2018.0,96,Boîte manuelle,1997.0,9,2070.0,131,Euro 6b,Diesel,6.4,167.0
-Très bon prix,15 000 km,Essence,Professionnel,4.0,2.0,BMW-M2,64990,3,15000,3.0,2024.0,353,Boîte automatique,2993.0,3,1805.0,480,Euro 6e,Essence,,
-Bon prix,189 840 km,Essence,Professionnel,5.0,5.0,TOYOTA-YARIS,4000,2,189840,4.0,2011.0,51,Boîte manuelle,998.0,5,3960.0,69,Euro 5,Essence,5.0,115.0
-Prix correct,121 768 km,Diesel,Professionnel,5.0,5.0,TOYOTA-RAV 4,13999,1,121768,5.0,2015.0,91,Boîte manuelle,1998.0,9,1535.0,124,Euro 5,Diesel,5.2,137.0
-Bon prix,66 000 km,Essence,Professionnel,5.0,5.0,MAZDA-CX-3,14499,2,66000,1.0,2017.0,88,Boîte manuelle,1998.0,8,1155.0,120,Euro 6b,Essence,5.9,137.0
-Pas d'information,34 932 km,Electrique/Essence,Professionnel,5.0,4.0,DS AUTOMOBILES-DS 9,299951,0,34932,7.0,2022.0,165,Boîte automatique,1598.0,1,1839.0,224,Euro 6d,Électrique,1.6,37.0
-Pas d'information,249 000 km,Diesel,Professionnel,5.0,3.0,FORD-FIESTA,2950,0,249000,12.0,2009.0,66,Boîte manuelle,1560.0,6,1149.0,90,Euro 4,Diesel,4.2,110.0
-Bon prix,15 km,Diesel,Professionnel,5.0,4.0,FORD-RANGER RAPTOR,604481,2,15,1.0,2025.0,154,Boîte automatique,1996.0,1,2511.0,209,Euro 6d,Diesel,,278.0
-Prix correct,175 000 km,Diesel,Professionnel,4.0,2.0,AUDI-A5,9250,1,175000,4.0,2009.0,140,Boîte manuelle,2698.0,1,1550.0,190,Euro 5,Diesel,1.8,159.0
-Bon prix,96 000 km,Diesel,Professionnel,5.0,5.0,MERCEDES-BENZ-CLA 180,17950,2,96000,8.0,2018.0,90,Boîte automatique,1595.0,9,1330.0,122,Euro 6d,Diesel,6.3,146.0
-Prix correct,147 837 km,Essence,Professionnel,5.0,3.0,TOYOTA-AYGO,2750,1,147837,2.0,2006.0,50,Boîte manuelle,998.0,5,3790.0,68,Euro 4,Essence,4.6,109.0
-Bon prix,12 590 km,Diesel,Professionnel,5.0,5.0,MAZDA-CX-60,45500,2,12590,2.0,2024.0,147,Boîte automatique,3283.0,1,1980.0,200,Euro 6,Diesel,,130.0
-Pas d'information,48 489 km,Essence,Professionnel,2.0,2.0,ASTON MARTIN-VANTAGE,99950,0,48489,5.0,2015.0,321,Boîte automatique,4735.0,3,1630.0,436,Euro 6,Essence,,296.0
-Très bon prix,36 395 km,Essence,Professionnel,5.0,5.0,RENAULT-GRAND SCENIC,14990,3,36395,12.0,2020.0,85,Boîte manuelle,1332.0,8,1565.0,116,Euro 6d,Essence,6.0,137.0
-Prix correct,125 000 km,Essence,Professionnel,5.0,5.0,OPEL-INSIGNIA,6450,1,125000,2.0,2009.0,103,Boîte manuelle,1796.0,1,1503.0,140,Euro 5,Essence,7.6,179.0
-Très bon prix,39 418 km,Essence,Professionnel,5.0,4.0,JAGUAR-XE,18990,3,39418,6.0,2017.0,147,Boîte automatique,1997.0,1,,200,Euro 6,Essence,,144.0
-Très bon prix,30 315 km,Electrique,Professionnel,5.0,5.0,MERCEDES-BENZ-EQA 250,32990,3,30315,1.0,2022.0,140,,,1,,190,Euro 6,,,0.0
-Prix correct,125 099 km,Diesel,Professionnel,5.0,4.0,BMW-318,12990,1,125099,1.0,2015.0,105,Boîte manuelle,1995.0,1,1485.0,143,Euro 5,Diesel,4.3,118.0
-Très bon prix,124 990 km,Essence,Professionnel,5.0,5.0,BMW-116,10990,3,124990,6.0,2016.0,80,Boîte manuelle,1499.0,8,1380.0,109,Euro 6b,,5.3,116.0
-Pas d'information,90 208 km,Diesel,Professionnel,7.0,5.0,VOLKSWAGEN-TIGUAN ALLSPACE,239951,0,90208,2.0,2020.0,110,Boîte manuelle,1968.0,1,,150,Euro 6d,Diesel,,
-Bon prix,107 000 km,Diesel,Professionnel,5.0,5.0,HYUNDAI-I40,10990,2,107000,1.0,2017.0,85,Boîte manuelle,1685.0,8,1530.0,116,Euro 6b,Diesel,5.0,118.0
-Prix correct,45 000 km,Diesel,Professionnel,5.0,5.0,BMW-X1,189501,1,45000,11.0,2018.0,85,Boîte manuelle,1496.0,8,1555.0,116,Euro 6d,Diesel,4.5,118.0
-Bon prix,214 805 km,Diesel,Professionnel,5.0,5.0,HYUNDAI-I40,4990,2,214805,2.0,2012.0,85,Boîte manuelle,1685.0,8,1485.0,116,Euro 5,Diesel,4.6,113.0
-Bon prix,66 000 km,Essence,Professionnel,5.0,5.0,MAZDA-CX-3,14499,2,66000,1.0,2017.0,88,Boîte manuelle,1998.0,8,1155.0,120,Euro 6b,Essence,5.9,137.0
-Prix correct,70 516 km,Essence,Professionnel,5.0,5.0,OPEL-CORSA,7999,1,70516,4.0,2017.0,51,Boîte manuelle,1229.0,5,,69,Euro 6,Essence,5.4,126.0
-Bon prix,60 751 km,Essence,Professionnel,5.0,5.0,AUDI-Q2,22990,2,60751,8.0,2020.0,110,Boîte automatique,1498.0,1,1365.0,150,Euro 6d,,5.2,119.0
-Prix correct,162 500 km,Essence,Professionnel,4.0,3.0,MINI-COOPER S,6900,1,162500,7.0,2003.0,120,Boîte manuelle,1598.0,1,1215.0,163,Euro 4,,,
-Bon prix,24 190 km,Essence,Professionnel,5.0,5.0,NISSAN-MICRA,11940,2,24190,6.0,2020.0,74,Boîte manuelle,999.0,7,1135.0,101,Euro 6,Essence,4.5,103.0
-Très bon prix,20 250 km,Essence,Professionnel,4.0,2.0,AUDI-A5,15990,3,20250,2.0,2011.0,118,Boîte automatique,1798.0,1,1655.0,160,Euro 5,Essence,7.5,174.0
-Très bon prix,74 825 km,Electrique/Essence,Professionnel,5.0,5.0,PORSCHE-PANAMERA,59995,3,74825,1.0,2018.0,340,Boîte automatique,2894.0,3,2265.0,462,Euro 6b,Électrique,2.5,59.0
-Bon prix,167 000 km,Diesel,Professionnel,5.0,5.0,BMW-318,10990,2,167000,10.0,2015.0,100,Boîte manuelle,1995.0,1,1645.0,136,Euro 6b,Diesel,4.5,117.0
-Très bon prix,20 250 km,Essence,Professionnel,4.0,2.0,AUDI-A5,15990,3,20250,2.0,2011.0,118,Boîte automatique,1798.0,1,1655.0,160,Euro 5,Essence,7.5,174.0
-Très bon prix,74 825 km,Electrique/Essence,Professionnel,5.0,5.0,PORSCHE-PANAMERA,59995,3,74825,1.0,2018.0,340,Boîte automatique,2894.0,3,2265.0,462,Euro 6b,Électrique,2.5,59.0
-Très bon prix,30 705 km,Electrique,Professionnel,4.0,5.0,DACIA-SPRING,107401,3,30705,11.0,2022.0,33,,,3,,45,Euro 6,Électrique,,0.0
-Très bon prix,70 000 km,Essence,Professionnel,5.0,5.0,AUDI-A3,15990,3,70000,3.0,2020.0,85,Boîte manuelle,999.0,8,1265.0,116,,Essence,5.0,
-Prix correct,145 828 km,Diesel,Professionnel,5.0,5.0,RENAULT-KANGOO,69991,1,145828,9.0,2014.0,55,Boîte manuelle,1461.0,5,1395.0,75,Euro 5,Diesel,4.6,119.0
-Très bon prix,79 452 km,Essence,Professionnel,5.0,5.0,AUDI-Q2,15950,3,79452,8.0,2018.0,85,Boîte manuelle,999.0,8,1205.0,116,Euro 6,Essence,5.3,
-Pas d'information,136 832 km,Essence,Professionnel,5.0,5.0,ALFA ROMEO-GIULIETTA,9950,0,136832,3.0,2013.0,125,Boîte automatique,1368.0,1,1310.0,170,Euro 5,,5.2,121.0
-Prix correct,120 000 km,Diesel,Professionnel,5.0,5.0,VOLKSWAGEN-TIGUAN,24990,1,120000,11.0,2018.0,110,Boîte automatique,1968.0,1,1635.0,150,Euro 6,Diesel,4.8,126.0
-Bon prix,54 254 km,Essence,Professionnel,5.0,5.0,VOLVO-V40,12990,2,54254,9.0,2014.0,132,Boîte automatique,1596.0,1,1375.0,179,Euro 5,,6.1,143.0
-Très bon prix,43 000 km,Essence,Professionnel,5.0,5.0,VOLVO-XC40,23999,3,43000,1.0,2022.0,95,Boîte manuelle,1477.0,9,1509.0,129,Euro 6d,Essence,6.3,142.0
-Prix correct,100 000 km,Diesel,Professionnel,5.0,5.0,AUDI-A4,189001,1,100000,1.0,2018.0,110,Boîte automatique,1968.0,1,1600.0,150,Euro 6b,Diesel,4.1,102.0
-Pas d'information,74 993 km,Essence,Professionnel,5.0,4.0,BMW-114,9990,0,74993,12.0,2012.0,75,Boîte manuelle,1598.0,7,,102,Euro 5,Essence,,129.0
-Prix correct,198 000 km,Essence,Professionnel,5.0,5.0,FORD-C-MAX,3950,1,198000,1.0,2013.0,74,Boîte manuelle,998.0,7,1391.0,101,Euro 5,Essence,5.1,117.0
-Très bon prix,14 000 km,Essence,Professionnel,4.0,5.0,OPEL-KARL,8450,3,14000,9.0,2019.0,54,Boîte manuelle,999.0,5,1038.0,73,Euro 6d,,4.8,110.0
-Bon prix,15 km,Electrique/Essence,Professionnel,7.0,5.0,PEUGEOT-5008,349001,2,15,1.0,2025.0,100,Boîte automatique,1199.0,1,1780.0,136,Euro 6d,Électrique,5.7,130.0
-Bon prix,106 221 km,Diesel,Professionnel,5.0,5.0,MERCEDES-BENZ-GLC 220,31250,2,106221,6.0,2019.0,120,Boîte automatique,2143.0,1,1865.0,163,Euro 6c,Diesel,6.1,161.0
-Très bon prix,24 000 km,Essence,Professionnel,4.0,2.0,FIAT-500C,7999,3,24000,10.0,2016.0,51,Boîte manuelle,1242.0,5,4905.0,69,Euro 6b,,4.9,115.0
-Bon prix,90 369 km,Diesel,Professionnel,5.0,5.0,HONDA-HR-V,12995,2,90369,3.0,2017.0,88,Boîte manuelle,1597.0,8,1324.0,120,Euro 6b,Diesel,4.1,108.0
-Bon prix,26 500 km,Electrique/Essence,Professionnel,5.0,5.0,BMW-X1,279001,2,26500,5.0,2021.0,162,Boîte automatique,1499.0,1,1820.0,220,Euro 6,Électrique,1.9,43.0
-Très bon prix,118 000 km,Essence,Professionnel,5.0,5.0,CITROEN-BERLINGO,7450,3,118000,4.0,2018.0,81,Boîte manuelle,1199.0,8,1395.0,110,Euro 6,Essence,5.1,
-Prix correct,30 000 km,Essence,Professionnel,5.0,5.0,VOLKSWAGEN-POLO,14950,1,30000,9.0,2020.0,59,Boîte manuelle,999.0,5,1130.0,80,Euro 6d,Essence,4.7,106.0
-Bon prix,110 519 km,Diesel,Professionnel,5.0,5.0,AUDI-A3,15799,2,110519,2.0,2019.0,85,Boîte manuelle,1598.0,8,,116,Euro 6,Diesel,,
-Très bon prix,40 372 km,Electrique/Essence,Professionnel,5.0,5.0,RENAULT-ARKANA,22995,3,40372,4.0,2022.0,103,Boîte automatique,1598.0,1,1477.0,140,Euro 6d,Essence,,110.0
-Prix correct,223 256 km,Essence,Professionnel,5.0,5.0,AUDI-A4,75021,1,223256,3.0,2014.0,125,Boîte manuelle,1798.0,1,1470.0,170,Euro 6b,Essence,6.1,141.0
-Très bon prix,177 456 km,Diesel,Professionnel,5.0,5.0,MERCEDES-BENZ-B 180,14950,3,177456,3.0,2019.0,85,Boîte automatique,1461.0,8,1485.0,116,Euro 6d,Diesel,3.8,104.0
-Bon prix,82 079 km,Essence,Professionnel,5.0,5.0,AUDI-A1,169901,2,82079,4.0,2020.0,70,Boîte automatique,999.0,7,,95,Euro 6d,Essence,4.8,139.0
-Prix correct,71 300 km,Electrique/Essence,Professionnel,5.0,5.0,BMW-530,38250,1,71300,5.0,2021.0,215,Boîte automatique,1998.0,2,1845.0,292,Euro 6d,Essence,,33.0
-Bon prix,115 803 km,Diesel,Professionnel,5.0,5.0,AUDI-Q3,24990,2,115803,8.0,2020.0,110,Boîte automatique,1968.0,1,,150,Euro 6,Diesel,,153.0
-Bon prix,55 001 km,Diesel,Professionnel,5.0,5.0,SKODA-SCALA,179901,2,55001,11.0,2020.0,85,Boîte automatique,1598.0,8,,116,Euro 6d,Diesel,4.1,106.0
-Pas d'information,212 159 km,Diesel,Professionnel,5.0,5.0,VOLKSWAGEN-GOLF,4750,0,212159,9.0,2007.0,77,Boîte manuelle,1896.0,7,1549.0,105,,Diesel,,135.0
-Prix correct,48 558 km,Essence,Professionnel,5.0,5.0,FIAT-TIPO,9790,1,48558,3.0,2018.0,70,Boîte manuelle,1368.0,7,1270.0,95,Euro 6b,,5.7,132.0
-Bon prix,83 700 km,Essence,Professionnel,5.0,5.0,KIA-CEED / CEE'D,12250,2,83700,9.0,2019.0,74,Boîte manuelle,1368.0,7,1352.0,101,Euro 6d,,5.4,126.0
-Bon prix,53 800 km,Essence,Professionnel,5.0,4.0,MERCEDES-BENZ-CLA 180,17700,2,53800,10.0,2016.0,90,Boîte manuelle,1595.0,9,1395.0,122,Euro 6b,Essence,5.4,128.0
-Prix correct,112 159 km,Diesel,Professionnel,5.0,5.0,VOLKSWAGEN-ARTEON,219501,1,112159,8.0,2019.0,110,Boîte manuelle,1968.0,1,,150,Euro 6c,Diesel,3.9,115.0
-Très bon prix,23 819 km,Essence,Professionnel,5.0,5.0,AUDI-A1,189901,3,23819,1.0,2023.0,70,Boîte manuelle,999.0,7,,95,Euro 6d,Essence,4.7,124.0
-Très bon prix,61 317 km,Essence,Professionnel,5.0,5.0,OPEL-CROSSLAND X,11989,3,61317,6.0,2020.0,81,Boîte manuelle,1199.0,8,1245.0,110,Euro 6,Essence,4.7,108.0
-Bon prix,77 535 km,Diesel,Professionnel,5.0,4.0,MERCEDES-BENZ-E 220,23500,2,77535,1.0,2016.0,120,Boîte automatique,2143.0,1,1735.0,163,Euro 6b,Diesel,4.3,110.0
-Prix correct,122 000 km,Essence,Professionnel,5.0,5.0,KIA-CEED SW / CEE'D SW,6950,1,122000,4.0,2013.0,73,Boîte manuelle,1396.0,7,1308.0,99,,Essence,6.5,
-Très bon prix,59 000 km,Essence,Professionnel,5.0,4.0,VOLKSWAGEN-GOLF SPORTSVAN,14750,3,59000,10.0,2017.0,81,Boîte automatique,1197.0,8,,110,Euro 6,Essence,,119.0
-Très bon prix,115 000 km,Diesel,Professionnel,2.0,4.0,FORD-TRANSIT CONNECT,4500,3,115000,11.0,2012.0,55,Boîte manuelle,1753.0,5,1529.0,75,Euro 5,Diesel,6.0,159.0
-Bon prix,47 126 km,Essence,Professionnel,5.0,5.0,PEUGEOT-408,23900,2,47126,3.0,2023.0,96,Boîte automatique,1199.0,9,1512.0,131,Euro 6d,Essence,4.0,
-Bon prix,170 164 km,Diesel,Professionnel,5.0,5.0,RENAULT-KADJAR,10450,2,170164,9.0,2016.0,81,Boîte manuelle,1461.0,8,1455.0,110,Euro 6b,Diesel,3.8,99.0
-Prix correct,133 100 km,Essence,Professionnel,5.0,5.0,VOLKSWAGEN-POLO GTI,16900,1,133100,4.0,2018.0,147,Boîte automatique,1984.0,1,1355.0,200,Euro 6b,Essence,5.9,134.0
-Prix correct,197 856 km,Diesel,Professionnel,4.0,5.0,AUDI-A7,15890,1,197856,1.0,2013.0,150,Boîte automatique,2967.0,1,1770.0,204,Euro 5,Diesel,5.1,135.0
-Bon prix,141 862 km,Diesel,Professionnel,5.0,5.0,BMW-318,189501,2,141862,1.0,2020.0,100,Boîte manuelle,1995.0,1,1650.0,136,Euro 6d,Diesel,,136.0
-Pas d'information,165 000 km,Essence,Professionnel,5.0,5.0,BMW-435,21900,0,165000,5.0,2014.0,225,Boîte automatique,2979.0,2,1585.0,306,Euro 6d,Essence,7.6,
-Très bon prix,91 350 km,Diesel,Professionnel,4.0,5.0,AUDI-A5,26500,3,91350,8.0,2020.0,120,Boîte automatique,1968.0,1,1595.0,163,Euro 6d,Diesel,3.7,98.0
-Bon prix,97 519 km,Essence,Professionnel,5.0,5.0,AUDI-A1,147501,2,97519,9.0,2019.0,85,Boîte manuelle,999.0,8,,116,Euro 6,Essence,,124.0
-Pas d'information,196 120 km,Diesel,Professionnel,5.0,5.0,VOLKSWAGEN-GOLF,14990,0,196120,9.0,2017.0,85,Boîte manuelle,1598.0,8,1301.0,116,Euro 6b,Diesel,4.1,109.0
-Très bon prix,129 000 km,Diesel,Professionnel,5.0,5.0,SKODA-SUPERB,11490,3,129000,7.0,2014.0,103,Boîte manuelle,1968.0,1,1569.0,140,Euro 5,Diesel,,134.0
-Bon prix,134 980 km,Essence,Professionnel,5.0,4.0,BMW-320,12700,2,134980,3.0,2014.0,135,Boîte manuelle,1997.0,1,1475.0,184,Euro 6b,Essence,6.1,144.0
-Prix correct,135 283 km,Diesel,Professionnel,5.0,5.0,VOLVO-V60,169501,1,135283,1.0,2019.0,110,Boîte automatique,1969.0,1,1695.0,150,Euro 6d,Diesel,4.4,117.0
-Très bon prix,91 000 km,Essence,Professionnel,5.0,5.0,OPEL-ZAFIRA,12990,3,91000,3.0,2018.0,103,Boîte manuelle,1364.0,1,1628.0,140,Euro 6b,Essence,6.4,148.0
-Bon prix,99 196 km,Essence,Professionnel,,5.0,BMW-118,169501,2,99196,10.0,2020.0,103,Boîte manuelle,1499.0,1,,140,Euro 6,Essence,,
-Bon prix,78 444 km,Essence,Professionnel,5.0,4.0,AUDI-A3,23990,2,78444,7.0,2021.0,81,Boîte automatique,999.0,8,1360.0,110,Euro 6d,Essence,4.3,98.0
-Très bon prix,5 333 km,Essence,Professionnel,5.0,5.0,CITROEN-C3,155501,3,5333,1.0,2025.0,75,Boîte manuelle,1199.0,7,1151.0,102,Euro 6,Essence,5.6,124.0
-Bon prix,85 546 km,Diesel,Professionnel,7.0,4.0,OPEL-ZAFIRA LIFE,24990,2,85546,1.0,2021.0,104,Boîte manuelle,1997.0,1,1823.0,141,Euro 6d,Diesel,5.3,139.0
-Très bon prix,52 000 km,Essence,Professionnel,5.0,5.0,SEAT-ATECA,14490,3,52000,8.0,2017.0,85,Boîte manuelle,999.0,8,,116,Euro 6,Essence,5.2,119.0
-Très bon prix,70 000 km,Diesel,Professionnel,5.0,4.0,MERCEDES-BENZ-CLA 180,27490,3,70000,1.0,2020.0,85,Boîte automatique,1461.0,8,1490.0,116,Euro 6d,Diesel,3.8,100.0
-Très bon prix,127 000 km,Diesel,Professionnel,5.0,5.0,SEAT-LEON,7999,3,127000,12.0,2014.0,77,Boîte manuelle,1598.0,7,1331.0,105,Euro 5,Diesel,3.8,99.0
-Bon prix,112 002 km,Diesel,Professionnel,5.0,5.0,NISSAN-QASHQAI,15400,2,112002,1.0,2018.0,96,Boîte automatique,1600.0,9,1419.0,131,,Diesel,,128.0
-Prix correct,129 613 km,Essence,Professionnel,5.0,4.0,BMW-318,7499,1,129613,3.0,2006.0,95,Boîte manuelle,1995.0,9,1435.0,129,Euro 4,Essence,7.3,175.0
-Bon prix,73 763 km,Electrique/Essence,Professionnel,5.0,5.0,MG-EHS,199901,2,73763,5.0,2022.0,119,Boîte automatique,1490.0,1,1775.0,162,,Électrique,,43.0
-Prix correct,24 200 km,Essence,Professionnel,5.0,4.0,BMW-320,438901,1,24200,10.0,2023.0,135,Boîte automatique,1998.0,1,1590.0,184,Euro 6e,,6.2,155.0
-Très bon prix,129 000 km,Essence,Professionnel,5.0,5.0,VOLKSWAGEN-POLO,3650,3,129000,7.0,2008.0,44,Boîte manuelle,1198.0,4,1014.0,60,Euro 4,Essence,5.8,138.0
-Bon prix,98 630 km,Electrique/Essence,Professionnel,5.0,5.0,MERCEDES-BENZ-GLC 350,329901,2,98630,12.0,2017.0,155,Boîte automatique,1991.0,1,2040.0,211,Euro 6b,Électrique,2.5,64.0
-Bon prix,72 000 km,Essence,Professionnel,5.0,5.0,AUDI-A3,163991,2,72000,5.0,2017.0,85,Boîte automatique,999.0,8,1315.0,116,Euro 6b,Essence,4.7,107.0
-Très bon prix,131 931 km,Diesel,Professionnel,5.0,5.0,MITSUBISHI-OUTLANDER,9990,3,131931,3.0,2013.0,103,Boîte manuelle,2268.0,1,,140,Euro 5,Diesel,,163.0
-Bon prix,90 350 km,Essence,Professionnel,5.0,5.0,FIAT-TIPO,9499,2,90350,10.0,2019.0,70,Boîte manuelle,1368.0,7,1280.0,95,Euro 6d,Essence,5.8,132.0
-Très bon prix,35 801 km,Essence,Professionnel,4.0,5.0,PEUGEOT-108,8900,3,35801,3.0,2021.0,53,Boîte manuelle,998.0,5,3942.0,72,Euro 6,Essence,3.7,85.0
-Prix correct,169 000 km,Essence,Professionnel,5.0,5.0,AUDI-A3,7990,1,169000,1.0,2010.0,92,Boîte manuelle,1390.0,9,1300.0,125,Euro 5,,5.8,119.0
-Très bon prix,67 570 km,Electrique/Essence,Professionnel,5.0,4.0,BMW-530,419501,3,67570,3.0,2022.0,135,Boîte automatique,1998.0,1,,184,Euro 6,Électrique,,39.0
-Très bon prix,30 000 km,Essence,Professionnel,5.0,5.0,CITROEN-C3,14990,3,30000,11.0,2023.0,81,Boîte automatique,1199.0,8,1090.0,110,Euro 6d,Essence,,
-Très bon prix,108 598 km,Diesel,Professionnel,5.0,5.0,AUDI-Q5,244951,3,108598,1.0,2020.0,110,Boîte manuelle,1968.0,1,,150,Euro 6d,Diesel,,
-Prix correct,74 801 km,Essence,Professionnel,5.0,5.0,PEUGEOT-2008,84901,1,74801,2.0,2017.0,60,Boîte manuelle,1199.0,6,1120.0,82,Euro 6b,Essence,4.9,114.0
-Prix correct,49 000 km,Essence,Professionnel,5.0,4.0,BMW-218,299501,1,49000,6.0,2022.0,100,Boîte automatique,1499.0,1,1450.0,136,Euro 6e,,5.0,
-Prix correct,88 000 km,Essence,Professionnel,5.0,4.0,MERCEDES-BENZ-CLA 180,18490,1,88000,3.0,2017.0,90,Boîte manuelle,1595.0,9,1395.0,122,Euro 6b,Essence,5.0,128.0
-Bon prix,14 543 km,Essence,Professionnel,5.0,4.0,MERCEDES-BENZ-CLA 180,234901,2,14543,9.0,2019.0,100,Boîte manuelle,1332.0,1,,136,Euro 6d,Essence,,123.0
-Prix correct,89 500 km,Diesel,Professionnel,5.0,4.0,BMW-116,16450,1,89500,10.0,2018.0,85,Boîte manuelle,1496.0,8,,116,Euro 6,Diesel,,114.0
-Très bon prix,148 000 km,Diesel,Professionnel,5.0,5.0,HYUNDAI-I20,7890,3,148000,11.0,2017.0,55,Boîte manuelle,1120.0,5,1143.0,75,Euro 6b,Diesel,,
-Bon prix,0 km,Electrique/Essence,Professionnel,5.0,5.0,MG-ZS,249851,2,0,,,143,Boîte automatique,1500.0,1,,194,Euro 6,Électrique,,115.0
-Très bon prix,41 559 km,Essence,Professionnel,5.0,5.0,VOLKSWAGEN-GOLF,13990,3,41559,3.0,2017.0,92,Boîte manuelle,1395.0,9,1225.0,125,Euro 6b,,5.2,120.0
-Bon prix,57 351 km,Essence,Professionnel,5.0,5.0,ALFA ROMEO-GIULIETTA,15990,2,57351,2.0,2021.0,88,Boîte manuelle,1368.0,8,1280.0,120,Euro 6d,Essence,,
-Très bon prix,40 958 km,Essence,Professionnel,5.0,5.0,AUDI-Q3,259901,3,40958,2.0,2020.0,110,Boîte automatique,1498.0,1,,150,Euro 6d,Essence,,154.0
-Bon prix,89 990 km,Diesel,Professionnel,5.0,4.0,ALFA ROMEO-GIULIA,17999,2,89990,3.0,2018.0,110,Boîte automatique,2143.0,1,1520.0,150,Euro 6b,Diesel,4.2,109.0
-Bon prix,58 000 km,Electrique/Essence,Professionnel,5.0,5.0,BMW-530,379001,2,58000,11.0,2021.0,215,Boîte automatique,1998.0,2,1975.0,292,Euro 6,Électrique,1.8,42.0
-Très bon prix,152 900 km,Essence,Professionnel,5.0,5.0,VOLKSWAGEN-GOLF R,17500,3,152900,12.0,2009.0,199,Boîte automatique,1984.0,1,1541.0,271,Euro 6,Essence,8.4,195.0
-Très bon prix,16 199 km,Essence,Professionnel,5.0,5.0,BMW-M3,869001,3,16199,4.0,2024.0,375,Boîte automatique,3000.0,3,,510,Euro 6d,Essence,,233.0
-Bon prix,187 000 km,Electrique,Professionnel,5.0,5.0,TESLA-MODEL S,21950,2,187000,6.0,2015.0,278,Boîte automatique,,2,1900.0,378,Euro 6d,Électrique,,0.0
-Bon prix,59 910 km,Essence,Professionnel,5.0,5.0,AUDI-RS Q3,57990,2,59910,2.0,2022.0,294,Boîte automatique,2480.0,2,1775.0,400,Euro 6d,Essence,8.8,201.0
-Très bon prix,3 086 km,Electrique/Essence,Professionnel,5.0,5.0,PEUGEOT-3008,339901,3,3086,5.0,2024.0,100,Boîte automatique,1199.0,1,,136,Euro 6d,Essence,,125.0
-Très bon prix,30 604 km,Essence,Professionnel,5.0,5.0,OPEL-CROSSLAND,139691,3,30604,8.0,2022.0,81,Boîte manuelle,1199.0,8,1254.0,110,Euro 6,Essence,5.8,108.0
-Bon prix,10 731 km,Essence,Professionnel,2.0,2.0,MAZDA-MX-5,22990,2,10731,4.0,2018.0,118,Boîte manuelle,1998.0,1,1065.0,160,Euro 6b,Essence,,154.0
-Pas d'information,153 000 km,Essence,Professionnel,4.0,3.0,RENAULT-TWINGO,4950,0,153000,2.0,2008.0,56,Boîte automatique,1149.0,5,1025.0,76,Euro 4,Essence,5.7,135.0
-Prix correct,67 544 km,Essence,Professionnel,5.0,5.0,RENAULT-MEGANE,11850,1,67544,5.0,2017.0,97,Boîte manuelle,1197.0,9,1368.0,132,Euro 6b,Essence,5.3,119.0
-Prix correct,25 866 km,Essence,Professionnel,5.0,5.0,BMW-X1,384991,1,25866,5.0,2023.0,100,Boîte automatique,1499.0,1,1575.0,136,Euro 6e,Essence,,145.0
-Prix correct,66 729 km,Essence,Professionnel,5.0,5.0,HYUNDAI-TUCSON,19995,1,66729,8.0,2020.0,97,Boîte manuelle,1591.0,9,,132,Euro 6d,Essence,6.8,153.0
-Prix correct,138 088 km,Diesel,Professionnel,5.0,5.0,VOLKSWAGEN-SHARAN,10499,1,138088,2.0,2012.0,100,Boîte manuelle,1968.0,1,1774.0,136,Euro 5,Diesel,5.5,143.0
-Très bon prix,286 509 km,Diesel,Professionnel,5.0,5.0,MERCEDES-BENZ-C 200,2900,3,286509,4.0,2008.0,100,Boîte manuelle,2148.0,1,1605.0,136,Euro 4,Diesel,5.9,154.0
-Prix correct,70 000 km,Essence,Professionnel,4.0,5.0,PEUGEOT-107,3490,1,70000,12.0,2008.0,50,Boîte manuelle,998.0,5,3875.0,68,Euro 4,Essence,4.5,
-Pas d'information,133 000 km,Diesel,Professionnel,5.0,5.0,AUDI-A3,13750,0,133000,3.0,2016.0,81,Boîte manuelle,1598.0,8,1385.0,110,Euro 6b,Diesel,4.0,105.0
-Bon prix,77 000 km,Essence,Professionnel,5.0,5.0,VOLKSWAGEN-ARTEON,229951,2,77000,7.0,2019.0,110,Boîte automatique,1498.0,1,1556.0,150,Euro 6d,Essence,6.1,139.0
-Très bon prix,56 678 km,Diesel,Professionnel,5.0,5.0,VOLKSWAGEN-GOLF VARIANT,149901,3,56678,3.0,2020.0,85,Boîte manuelle,1598.0,8,,116,Euro 6d,Diesel,,133.0
-Très bon prix,37 389 km,Essence,Professionnel,5.0,5.0,VOLKSWAGEN-GOLF,237901,3,37389,1.0,2022.0,110,Boîte automatique,1498.0,1,,150,Euro 6,Essence,,126.0
-Bon prix,61 162 km,Diesel,Professionnel,5.0,5.0,DS AUTOMOBILES-DS 7 CROSSBACK,20950,2,61162,10.0,2019.0,96,Boîte automatique,1499.0,9,,131,Euro 6,Diesel,,105.0
-Pas d'information,46 736 km,Essence,Professionnel,5.0,5.0,MERCEDES-BENZ-GLA 180,268901,0,46736,6.0,2022.0,100,Boîte automatique,1332.0,1,,136,Euro 6d,Essence,,152.0
-Prix correct,63 000 km,Essence,Professionnel,5.0,5.0,VOLKSWAGEN-GOLF GTI,22490,1,63000,8.0,2017.0,169,Boîte automatique,1984.0,1,1364.0,230,Euro 6b,Essence,6.4,148.0
-Prix correct,101 000 km,Essence,Professionnel,5.0,5.0,MERCEDES-BENZ-A 180,16990,1,101000,1.0,2017.0,90,Boîte manuelle,1595.0,9,1360.0,122,Euro 6,Essence,5.2,
-Pas d'information,5 km,Essence,Professionnel,,,PEUGEOT-208,149901,0,5,,,74,Boîte manuelle,1199.0,7,,101,Euro 6,Essence,,117.0
-Bon prix,111 526 km,Essence,Professionnel,5.0,5.0,PEUGEOT-308,10995,2,111526,9.0,2018.0,96,Boîte manuelle,1199.0,9,1164.0,131,Euro 6d,Essence,,120.0
-Très bon prix,206 798 km,Diesel,Professionnel,5.0,5.0,RENAULT-SCENIC,1650,3,206798,5.0,2009.0,96,Boîte manuelle,1870.0,9,1505.0,131,Euro 4,Diesel,6.0,160.0
-Très bon prix,190 000 km,Diesel,Professionnel,5.0,5.0,AUDI-A7,199501,3,190000,3.0,2017.0,140,Boîte automatique,2967.0,1,1900.0,190,Euro 6,Diesel,5.3,138.0
-Prix correct,108 000 km,Diesel,Professionnel,5.0,4.0,AUDI-A4,13490,1,108000,1.0,2014.0,100,Boîte manuelle,1968.0,1,1500.0,136,Euro 5,Diesel,,104.0
-Prix correct,139 880 km,Diesel,Professionnel,5.0,5.0,KIA-OPTIMA,139901,1,139880,7.0,2017.0,99,Boîte automatique,1685.0,9,,135,Euro 6,Diesel,,120.0
-Pas d'information,5 468 km,Essence,Professionnel,2.0,2.0,HONDA-NSX,237500,0,5468,1.0,2019.0,373,Boîte automatique,3493.0,3,1725.0,507,Euro 6b,Essence,5.7,130.0
-Très bon prix,54 176 km,Essence,Professionnel,2.0,2.0,TOYOTA-SUPRA,59995,3,54176,11.0,2019.0,375,Boîte automatique,2998.0,3,,510,Euro 6d,Essence,,170.0
-Bon prix,51 000 km,Essence,Professionnel,5.0,2.0,BMW-220,35950,2,51000,2.0,2022.0,135,Boîte automatique,1998.0,1,,184,Euro 6,Essence,,
-Prix correct,34 265 km,Essence,Professionnel,5.0,5.0,DACIA-SANDERO,13990,1,34265,11.0,2022.0,67,Boîte manuelle,999.0,6,,91,,Essence,,128.0
-Bon prix,57 227 km,Essence,Professionnel,5.0,5.0,BMW-216,17995,2,57227,3.0,2020.0,80,Boîte manuelle,1499.0,8,1490.0,109,Euro 6d,Essence,,150.0
-Très bon prix,150 000 km,Diesel,Professionnel,5.0,5.0,TOYOTA-RAV 4,12700,3,150000,2.0,2016.0,105,Boîte manuelle,1995.0,1,1535.0,143,Euro 6c,Diesel,4.7,
-Bon prix,166 000 km,Diesel,Professionnel,5.0,5.0,CITROEN-GRAND C4 PICASSO,11000,2,166000,5.0,2019.0,110,Boîte manuelle,1997.0,1,1560.0,150,,Diesel,4.1,107.0
-Prix correct,82 590 km,Diesel,Professionnel,5.0,5.0,MERCEDES-BENZ-GLC 220,32000,1,82590,3.0,2019.0,125,Boîte automatique,2143.0,1,1845.0,170,Euro 6c,Diesel,6.2,165.0
-Bon prix,237 000 km,Essence,Professionnel,5.0,5.0,MERCEDES-BENZ-GLA 180,13750,2,237000,11.0,2018.0,90,Boîte manuelle,1595.0,9,1395.0,122,Euro 6d,Essence,6.9,158.0
-Très bon prix,286 509 km,Diesel,Professionnel,5.0,5.0,MERCEDES-BENZ-C 200,2900,3,286509,4.0,2008.0,100,Boîte manuelle,2148.0,1,1605.0,136,Euro 4,Diesel,5.9,154.0
-Pas d'information,210 000 km,Diesel,Professionnel,5.0,5.0,PEUGEOT-PARTNER,4990,0,210000,4.0,2013.0,68,Boîte manuelle,1560.0,6,1395.0,92,Euro 5,Diesel,4.7,
-Bon prix,101 475 km,Essence,Professionnel,5.0,5.0,JEEP-RENEGADE,12890,2,101475,3.0,2019.0,88,Boîte manuelle,1000.0,8,1320.0,120,,Essence,,138.0
-Bon prix,87 500 km,Essence,Professionnel,5.0,4.0,BMW-218,23490,2,87500,4.0,2021.0,100,Boîte automatique,1499.0,1,1450.0,136,Euro 6d,,6.0,114.0
-Pas d'information,104 925 km,Electrique/Diesel,Professionnel,5.0,4.0,MERCEDES-BENZ-S 300,36890,0,104925,4.0,2015.0,150,Boîte automatique,2143.0,1,,204,,Électrique,,99.0
-Prix correct,119 000 km,Diesel,Professionnel,5.0,5.0,BMW-X1,189501,1,119000,1.0,2020.0,85,Boîte manuelle,1496.0,8,1555.0,116,Euro 6d,Diesel,4.1,107.0
-Très bon prix,42 219 km,Essence,Professionnel,5.0,5.0,PEUGEOT-2008,18990,3,42219,2.0,2021.0,96,Boîte automatique,1199.0,9,,131,Euro 6d,Essence,,133.0
-Bon prix,57 227 km,Essence,Professionnel,5.0,5.0,BMW-216,17995,2,57227,3.0,2020.0,80,Boîte manuelle,1499.0,8,1490.0,109,Euro 6d,Essence,,150.0
-Prix correct,310 154 km,Electrique/Essence,Professionnel,5.0,5.0,TOYOTA-AURIS,6950,1,310154,3.0,2014.0,73,Boîte automatique,1798.0,7,1535.0,99,Euro 5,Électrique,3.9,92.0
-Bon prix,10 064 km,Essence,Professionnel,5.0,5.0,VOLKSWAGEN-GOLF R,43950,2,10064,10.0,2023.0,235,Boîte automatique,1984.0,2,,320,Euro 6d,Essence,,
-Très bon prix,45 610 km,Essence,Professionnel,4.0,2.0,FORD-MUSTANG,298901,3,45610,2.0,2020.0,213,Boîte manuelle,2261.0,2,1737.0,290,Euro 6d,Essence,9.0,199.0
-Très bon prix,37 120 km,Electrique/Essence,Professionnel,5.0,5.0,TOYOTA-C-HR,22990,3,37120,8.0,2023.0,72,Boîte automatique,1798.0,7,,98,Euro 6d,Essence,,55.0
-Bon prix,99 771 km,Diesel,Professionnel,5.0,5.0,VOLKSWAGEN-T-CROSS,18950,2,99771,10.0,2020.0,70,Boîte automatique,1598.0,7,,95,Euro 6d,Diesel,4.2,110.0
-Très bon prix,34 877 km,Essence,Professionnel,5.0,4.0,PEUGEOT-208,14490,3,34877,1.0,2022.0,74,Boîte manuelle,1199.0,7,,101,Euro 6d,Essence,,118.0
-Bon prix,39 000 km,Diesel,Professionnel,5.0,4.0,AUDI-A3,209991,2,39000,1.0,2020.0,85,Boîte automatique,1598.0,8,1365.0,116,Euro 6d,Diesel,3.9,103.0
-Très bon prix,50 838 km,Essence,Professionnel,,5.0,AUDI-Q2,24990,3,50838,3.0,2023.0,110,Boîte automatique,1498.0,1,1305.0,150,,Essence,,
-Très bon prix,45 835 km,Essence,Professionnel,5.0,4.0,BMW-M3,69900,3,45835,8.0,2021.0,375,Boîte automatique,2993.0,3,,510,Euro 6d,Essence,,229.0
-Bon prix,39 000 km,Diesel,Professionnel,5.0,4.0,AUDI-A3,209991,2,39000,1.0,2020.0,85,Boîte automatique,1598.0,8,1365.0,116,Euro 6d,Diesel,3.9,103.0
-Très bon prix,50 838 km,Essence,Professionnel,,5.0,AUDI-Q2,24990,3,50838,3.0,2023.0,110,Boîte automatique,1498.0,1,1305.0,150,,Essence,,
-Bon prix,265 579 km,Essence,Professionnel,5.0,5.0,VOLVO-V90,16400,2,265579,5.0,2018.0,223,Boîte automatique,1969.0,2,2050.0,303,Euro 6d,Essence,2.2,49.0
-Bon prix,62 497 km,Diesel,Professionnel,5.0,4.0,MERCEDES-BENZ-CLA 180,295001,2,62497,6.0,2020.0,85,Boîte automatique,1461.0,8,1400.0,116,Euro 6d,Diesel,4.5,100.0
-Bon prix,75 995 km,Essence,Professionnel,7.0,5.0,PEUGEOT-5008,21250,2,75995,2.0,2021.0,96,Boîte automatique,1199.0,9,1578.0,131,Euro 6d,Essence,5.2,120.0
-Prix correct,43 000 km,Essence,Professionnel,5.0,5.0,PEUGEOT-208,14500,1,43000,8.0,2020.0,74,Boîte manuelle,1199.0,7,1165.0,101,Euro 6d,Essence,4.3,98.0
-Très bon prix,147 910 km,CNG,Professionnel,5.0,5.0,VOLKSWAGEN-CADDY,10999,3,147910,6.0,2017.0,81,Boîte automatique,1395.0,8,1576.0,110,Euro 6b,,6.8,120.0
-Bon prix,17 251 km,Essence,Professionnel,5.0,5.0,VOLKSWAGEN-TAIGO,184901,2,17251,2.0,2023.0,70,Boîte manuelle,999.0,7,,95,Euro 6d,Essence,,123.0
-Prix correct,41 960 km,Electrique/Essence,Professionnel,,5.0,RENAULT-AUSTRAL,299501,1,41960,2.0,2023.0,147,Boîte automatique,1199.0,1,,200,,Électrique,,
-Bon prix,72 451 km,Essence,Professionnel,5.0,4.0,JAGUAR-XE,219991,2,72451,3.0,2019.0,147,Boîte automatique,1997.0,1,1540.0,200,Euro 6b,,6.3,144.0
-Bon prix,84 000 km,Diesel,Professionnel,5.0,5.0,HYUNDAI-KONA,14990,2,84000,10.0,2020.0,85,Boîte manuelle,1598.0,8,1318.0,116,Euro 6d,Diesel,4.1,111.0
-Prix correct,159 000 km,Diesel,Professionnel,5.0,5.0,VOLKSWAGEN-TIGUAN,22500,1,159000,2.0,2018.0,110,Boîte automatique,1968.0,1,1673.0,150,Euro 6b,Diesel,5.7,149.0
-Très bon prix,64 685 km,Essence,Professionnel,5.0,5.0,FORD-KUGA,19490,3,64685,5.0,2022.0,110,Boîte manuelle,1499.0,1,1493.0,150,Euro 6,Essence,5.5,119.0
-Très bon prix,55 401 km,Electrique/Essence,Professionnel,5.0,5.0,AUDI-Q5,429991,3,55401,10.0,2021.0,195,Boîte automatique,1984.0,1,2150.0,265,Euro 6d,Électrique,1.8,36.0
-Très bon prix,158 364 km,Essence,Professionnel,5.0,5.0,BMW-X3,9980,3,158364,12.0,2011.0,135,Boîte manuelle,1995.0,1,1790.0,184,Euro 5,Essence,5.6,149.0
-Prix correct,100 482 km,Essence,Professionnel,5.0,5.0,VOLKSWAGEN-ARTEON,19450,1,100482,8.0,2018.0,110,Boîte manuelle,1498.0,1,1556.0,150,Euro 6d,,6.0,136.0
-Très bon prix,15 000 km,Essence,Professionnel,5.0,5.0,PEUGEOT-3008,22990,3,15000,9.0,2022.0,96,Boîte automatique,1199.0,9,1478.0,131,Euro 6d,Essence,5.1,146.0
-Prix correct,115 000 km,Essence,Professionnel,5.0,3.0,TOYOTA-YARIS,4490,1,115000,8.0,2009.0,69,Boîte manuelle,998.0,6,1010.0,94,Euro 4,Essence,5.0,119.0
-Très bon prix,55 178 km,Essence,Professionnel,5.0,5.0,OPEL-CROSSLAND,129901,3,55178,9.0,2022.0,61,Boîte manuelle,1199.0,6,,83,Euro 6d,Essence,,106.0
-Prix correct,124 372 km,Diesel,Professionnel,5.0,4.0,BMW-118,129901,1,124372,9.0,2015.0,110,Boîte automatique,1995.0,1,,150,Euro 6,Diesel,,99.0
-Très bon prix,55 178 km,Essence,Professionnel,5.0,5.0,OPEL-CROSSLAND,129901,3,55178,9.0,2022.0,61,Boîte manuelle,1199.0,6,,83,Euro 6d,Essence,,106.0
-Pas d'information,161 km,Essence,Professionnel,5.0,5.0,AUDI-RS6,1520001,0,161,6.0,2024.0,463,Boîte automatique,3996.0,4,2150.0,630,Euro 6d,,12.3,280.0
-Très bon prix,99 800 km,Electrique/Essence,Professionnel,5.0,5.0,LAND ROVER-RANGE ROVER,49950,3,99800,5.0,2019.0,221,Boîte automatique,1997.0,2,2342.0,300,Euro 6d,Électrique,5.0,79.0
-Bon prix,28 027 km,Essence,Professionnel,5.0,5.0,FORD-FIESTA,23890,2,28027,9.0,2023.0,147,Boîte manuelle,1499.0,1,1164.0,200,Euro 6,Essence,6.4,145.0
-Très bon prix,96 000 km,Diesel,Professionnel,5.0,5.0,VOLVO-V60 CROSS COUNTRY,259991,3,96000,5.0,2020.0,110,Boîte automatique,1969.0,1,1867.0,150,Euro 6d,Diesel,5.1,135.0
-Très bon prix,73 399 km,Essence,Professionnel,5.0,5.0,RENAULT-CLIO,114501,3,73399,1.0,2021.0,67,Boîte manuelle,999.0,6,1165.0,91,Euro 6d,Essence,,100.0
-Très bon prix,63 581 km,Diesel,Professionnel,5.0,4.0,BMW-518,259901,3,63581,5.0,2020.0,110,Boîte automatique,1995.0,1,,150,Euro 6d,Diesel,,
-Bon prix,66 318 km,Essence,Professionnel,5.0,5.0,OPEL-CROSSLAND X,12999,2,66318,7.0,2018.0,81,Boîte automatique,1199.0,8,1289.0,110,Euro 6,Essence,5.5,125.0
-Prix correct,174 250 km,Essence,Professionnel,5.0,5.0,BMW-118,6490,1,174250,6.0,2010.0,105,Boîte manuelle,1995.0,1,1350.0,143,Euro 5,Essence,6.1,143.0
-Bon prix,77 000 km,Essence,Professionnel,5.0,5.0,SEAT-IBIZA,119901,2,77000,11.0,2020.0,70,Boîte manuelle,999.0,7,1134.0,95,Euro 6d,Essence,4.6,104.0
-Bon prix,90 000 km,Diesel,Professionnel,5.0,4.0,MERCEDES-BENZ-E 220,21990,2,90000,11.0,2015.0,125,Boîte automatique,2143.0,1,1735.0,170,Euro 6b,Diesel,5.1,135.0
-Bon prix,32 101 km,Essence,Professionnel,5.0,5.0,NISSAN-QASHQAI,18900,2,32101,1.0,2020.0,103,Boîte manuelle,1300.0,1,1375.0,140,,Essence,,130.0
-Très bon prix,58 000 km,Diesel,Professionnel,5.0,5.0,BMW-318,249991,3,58000,11.0,2020.0,110,Boîte automatique,1995.0,1,1660.0,150,Euro 6d,Diesel,4.2,111.0
-Prix correct,193 273 km,Diesel,Professionnel,5.0,5.0,MERCEDES-BENZ-B 180,9850,1,193273,4.0,2016.0,80,Boîte manuelle,1461.0,8,1395.0,109,Euro 6b,Diesel,3.6,107.0
-Pas d'information,31 820 km,Essence,Professionnel,5.0,5.0,MERCEDES-BENZ-GLB 180,282901,0,31820,11.0,2022.0,100,Boîte automatique,1332.0,1,,136,Euro 6d,Essence,,159.0
-Pas d'information,118 226 km,Essence,Professionnel,5.0,5.0,AUDI-RS6,79999,0,118226,9.0,2020.0,441,Boîte automatique,3996.0,4,2150.0,600,Euro 6d,Essence,11.5,263.0
-Très bon prix,86 802 km,Diesel,Professionnel,5.0,,OPEL-INSIGNIA,169501,3,86802,8.0,2021.0,90,Boîte automatique,1496.0,9,,122,Euro 6,Diesel,4.1,109.0
-Bon prix,50 163 km,Diesel,Professionnel,5.0,5.0,RENAULT-MEGANE,17900,2,50163,4.0,2021.0,85,Boîte automatique,1461.0,8,1422.0,116,Euro 6,Diesel,3.9,104.0
-Très bon prix,43 968 km,Electrique/Essence,Professionnel,5.0,5.0,VOLVO-XC40,279951,3,43968,6.0,2020.0,192,,,1,,261,,Électrique,,41.0
+Etat,Milieage,Carburant,CarVendeur,Portes,seats,fillcareName,Price,etatCategory,Month,Year,Puissance,TransmissionV2,Cylindrée,Vitesses,Cylindres,HorsePower,ClasseEmission,Typedecarburant,Consommationdecarburant,ÉmissionsdeCO2
+Très bon prix,250000,Diesel,Professionnel,5.0,5.0,FIAT-FIORINO,1450,3,3.0,2010.0,55,Boîte manuelle,1248.0,5,1090.0,75,Euro 4,Diesel,4.5,123.0
+Bon prix,27500,Electrique,Professionnel,5.0,4.0,AUDI-E-TRON GT,599501,2,9.0,2021.0,350,Boîte automatique,,3,2254.0,476,,Électrique,,0.0
+Très bon prix,73409,Essence,Professionnel,5.0,3.0,VOLKSWAGEN-GOLF,4000,3,2.0,2006.0,55,Boîte manuelle,1390.0,5,1154.0,75,Euro 4,Essence,6.8,166.0
+Très bon prix,142000,Diesel,Professionnel,5.0,5.0,CITROEN-C4 CACTUS,6450,3,7.0,2015.0,73,Boîte manuelle,1560.0,7,1145.0,99,Euro 6b,Diesel,3.4,90.0
+Très bon prix,22700,Electrique,Professionnel,5.0,5.0,AUDI-Q8 E-TRON,689501,3,9.0,2023.0,300,Boîte automatique,,3,2585.0,408,,Électrique,,0.0
+Pas d'information,91000,Diesel,Professionnel,5.0,5.0,MERCEDES-BENZ-C 200,195001,0,7.0,2023.0,120,Boîte automatique,1993.0,1,1780.0,163,Euro 6e,Diesel,,
+Bon prix,100063,Diesel,Professionnel,5.0,5.0,SKODA-RAPID/SPACEBACK,7450,2,8.0,2015.0,77,Boîte manuelle,1598.0,7,1265.0,105,Euro 5,Diesel,4.4,114.0
+Prix correct,174715,Diesel,Professionnel,5.0,5.0,BMW-116,6450,1,3.0,2011.0,85,Boîte manuelle,1995.0,8,1380.0,116,Euro 5,Diesel,4.5,118.0
+Bon prix,96000,Essence,Professionnel,5.0,5.0,CITROEN-C3,5250,2,5.0,2013.0,50,Boîte manuelle,999.0,5,1048.0,68,Euro 5,Essence,4.3,99.0
+Pas d'information,2450,Essence,Professionnel,5.0,5.0,OMODA-5,292001,0,10.0,2024.0,107,Boîte automatique,1598.0,1,,145,Euro 6,Essence,,168.0
+Prix correct,147837,Essence,Professionnel,5.0,3.0,TOYOTA-AYGO,2750,1,2.0,2006.0,50,Boîte manuelle,998.0,5,3790.0,68,Euro 4,Essence,4.6,109.0
+Bon prix,167000,Diesel,Professionnel,5.0,5.0,BMW-318,10990,2,10.0,2015.0,100,Boîte manuelle,1995.0,1,1645.0,136,Euro 6b,Diesel,4.5,117.0
+Très bon prix,115000,Diesel,Professionnel,2.0,4.0,FORD-TRANSIT CONNECT,4500,3,11.0,2012.0,55,Boîte manuelle,1753.0,5,1529.0,75,Euro 5,Diesel,6.0,159.0
+Très bon prix,118000,Essence,Professionnel,5.0,5.0,CITROEN-BERLINGO,7450,3,4.0,2018.0,81,Boîte manuelle,1199.0,8,1395.0,110,Euro 6,Essence,5.1,
+Très bon prix,127000,Diesel,Professionnel,5.0,5.0,SEAT-LEON,7999,3,12.0,2014.0,77,Boîte manuelle,1598.0,7,1331.0,105,Euro 5,Diesel,3.8,99.0
+Prix correct,70000,Essence,Professionnel,4.0,5.0,PEUGEOT-107,3490,1,12.0,2008.0,50,Boîte manuelle,998.0,5,3875.0,68,Euro 4,Essence,4.5,
+Très bon prix,148000,Diesel,Professionnel,5.0,5.0,HYUNDAI-I20,7890,3,11.0,2017.0,55,Boîte manuelle,1120.0,5,1143.0,75,Euro 6b,Diesel,,
+Très bon prix,150000,Diesel,Professionnel,5.0,5.0,TOYOTA-RAV 4,12700,3,2.0,2016.0,105,Boîte manuelle,1995.0,1,1535.0,143,Euro 6c,Diesel,4.7,
+Très bon prix,45835,Essence,Professionnel,5.0,4.0,BMW-M3,69900,3,8.0,2021.0,375,Boîte automatique,2993.0,3,,510,Euro 6d,Essence,,229.0
+Bon prix,27500,Electrique,Professionnel,5.0,4.0,AUDI-E-TRON GT,599501,2,9.0,2021.0,350,Boîte automatique,,3,2254.0,476,,Électrique,,0.0
+Prix correct,124372,Diesel,Professionnel,5.0,4.0,BMW-118,129901,1,9.0,2015.0,110,Boîte automatique,1995.0,1,,150,Euro 6,Diesel,,99.0
+Très bon prix,75000,Diesel,Professionnel,5.0,5.0,PEUGEOT-2008,9450,3,2.0,2017.0,73,Boîte manuelle,1560.0,7,1235.0,99,Euro 6b,Diesel,3.7,97.0
+Prix correct,176000,Diesel,Professionnel,5.0,3.0,AUDI-A3,7900,1,2.0,2014.0,81,Boîte manuelle,1598.0,8,1305.0,110,,Diesel,3.8,
+Très bon prix,97803,Essence,Professionnel,5.0,5.0,FORD-FIESTA,5950,3,1.0,2013.0,44,Boîte manuelle,1242.0,4,4965.0,60,Euro 5,Essence,5.7,124.0
+Très bon prix,90000,Essence,Professionnel,5.0,5.0,SKODA-FABIA,3950,3,4.0,2013.0,44,Boîte manuelle,1198.0,4,1090.0,60,Euro 5,Essence,5.7,99.0
+Très bon prix,185000,Diesel,Professionnel,5.0,4.0,BMW-318,9950,3,4.0,2015.0,100,Boîte manuelle,1995.0,1,1485.0,136,Euro 6b,Diesel,4.3,119.0
+Prix correct,265761,Diesel,Professionnel,5.0,3.0,FORD-FIESTA,3990,1,5.0,2013.0,70,Boîte manuelle,1560.0,7,1108.0,95,Euro 5,Diesel,3.6,95.0
+Très bon prix,134000,Essence,Professionnel,5.0,5.0,BMW-116,10750,3,1.0,2019.0,80,Boîte manuelle,1499.0,8,1380.0,109,Euro 6,Essence,5.9,
+Bon prix,50000,Essence,Professionnel,5.0,5.0,FORD-FIESTA,6900,2,1.0,2012.0,60,Boîte manuelle,1242.0,6,1100.0,82,Euro 5,Essence,,129.0
+Bon prix,78000,Diesel,Professionnel,5.0,5.0,VOLVO-XC60,16900,2,3.0,2015.0,100,Boîte manuelle,1984.0,1,1716.0,136,Euro 5,Diesel,,139.0
+Prix correct,182521,Diesel,Professionnel,5.0,5.0,AUDI-A3,8950,1,7.0,2013.0,77,Boîte manuelle,1598.0,7,1385.0,105,Euro 5,Diesel,3.8,99.0
+Prix correct,200000,Diesel,Professionnel,5.0,4.0,JAGUAR-XF,7450,1,2.0,2012.0,120,Boîte automatique,2179.0,1,1735.0,163,Euro 5,Diesel,4.9,129.0
+Pas d'information,267563,Diesel,Professionnel,7.0,5.0,AUDI-Q7,18900,0,12.0,2015.0,155,Boîte automatique,2967.0,1,2070.0,211,Euro 6b,Diesel,5.5,144.0
+Très bon prix,154000,Essence,Professionnel,5.0,3.0,FORD-FIESTA,2990,3,12.0,2009.0,44,Boîte manuelle,1250.0,4,,60,Euro 4,Essence,,
+Bon prix,51900,Essence,Professionnel,5.0,3.0,VOLKSWAGEN-GOLF,10950,2,2.0,2016.0,63,Boîte manuelle,1197.0,6,1205.0,86,Euro 6b,Essence,4.9,113.0
+Prix correct,82604,Essence,Professionnel,5.0,3.0,VOLKSWAGEN-GOLF,7900,1,5.0,2009.0,59,Boîte manuelle,1390.0,5,1155.0,80,Euro 5,Essence,6.4,149.0
+Très bon prix,89879,Essence,Professionnel,5.0,4.0,DACIA-LOGAN,2950,3,7.0,2013.0,55,Boîte manuelle,1149.0,5,1050.0,75,Euro 5,Essence,5.9,135.0
+Très bon prix,168060,Diesel,Professionnel,4.0,3.0,LAND ROVER-RANGE ROVER EVOQUE,105001,3,7.0,2012.0,110,Boîte manuelle,2179.0,1,1595.0,150,Euro 5,Diesel,4.9,133.0
+Très bon prix,12,Essence,Professionnel,5.0,5.0,MG-ZS,192501,3,1.0,2025.0,78,Boîte automatique,1498.0,7,1495.0,106,Euro 6e,,,156.0
+Très bon prix,73409,Essence,Professionnel,5.0,3.0,VOLKSWAGEN-GOLF,4000,3,2.0,2006.0,55,Boîte manuelle,1390.0,5,1154.0,75,Euro 4,Essence,6.8,166.0
+Très bon prix,20041,Essence,Professionnel,5.0,5.0,FORD-FOCUS,16499,3,7.0,2020.0,92,Boîte manuelle,998.0,9,1395.0,125,Euro 6d,Essence,5.1,117.0
+Très bon prix,83761,Essence,Professionnel,5.0,5.0,JEEP-COMPASS,13989,3,1.0,2020.0,103,Boîte manuelle,1368.0,1,1505.0,140,Euro 6,Essence,6.8,148.0
+Prix correct,57,Essence,Professionnel,5.0,5.0,AUDI-RS3,739951,1,1.0,2025.0,294,Boîte automatique,2480.0,2,1640.0,400,Euro 6,Essence,,213.0
+Pas d'information,116982,Essence,Professionnel,4.0,3.0,FERRARI-GTC4 LUSSO,147500,0,6.0,2018.0,507,Boîte automatique,6262.0,5,1920.0,689,Euro 6b,,15.0,350.0
+Très bon prix,80000,Essence,Professionnel,5.0,5.0,OPEL-ASTRA,9750,3,7.0,2020.0,81,Boîte manuelle,1199.0,8,1413.0,110,,Essence,4.6,
+Prix correct,145000,Diesel,Professionnel,5.0,5.0,LAND ROVER-DISCOVERY SPORT,10950,1,8.0,2016.0,110,Boîte manuelle,1999.0,1,1775.0,150,Euro 6b,Diesel,5.3,123.0
+Bon prix,133000,Diesel,Professionnel,5.0,3.0,AUDI-A3,7450,2,1.0,2011.0,77,Boîte manuelle,1598.0,7,1295.0,105,Euro 5,Diesel,4.1,109.0
+Bon prix,78000,Essence,Professionnel,5.0,5.0,OPEL-KARL,6490,2,8.0,2015.0,55,Boîte manuelle,999.0,5,1034.0,75,Euro 6b,Essence,4.5,104.0
+Bon prix,30205,Electrique/Essence,Professionnel,,5.0,AUDI-A3,24950,2,12.0,2020.0,150,Boîte automatique,1395.0,1,,204,,Électrique,,
+Bon prix,118000,Essence,Professionnel,4.0,2.0,MINI-COOPER CABRIO,7450,2,1.0,2012.0,72,Boîte manuelle,1598.0,7,1235.0,98,Euro 5,Essence,5.7,133.0
+Très bon prix,40671,Essence,Professionnel,5.0,5.0,MERCEDES-BENZ-GLA 180,17950,3,3.0,2017.0,90,Boîte manuelle,1595.0,9,1295.0,122,Euro 6,Essence,5.7,133.0
+Bon prix,97426,Diesel,Professionnel,5.0,5.0,FORD-FIESTA,5480,2,2.0,2011.0,51,Boîte manuelle,1399.0,5,1132.0,69,Euro 5,Diesel,4.0,107.0
+Prix correct,122268,Diesel,Professionnel,5.0,5.0,BMW-116,10999,1,9.0,2016.0,85,Boîte manuelle,1496.0,8,1395.0,116,Euro 6b,Diesel,4.0,104.0
+Bon prix,138290,Essence,Professionnel,5.0,5.0,SEAT-ATECA,13990,2,8.0,2018.0,110,Boîte manuelle,1395.0,1,1359.0,150,Euro 6b,Essence,5.4,123.0
+Très bon prix,45966,Electrique,Professionnel,4.0,5.0,PORSCHE-TAYCAN,699951,3,1.0,2023.0,280,Boîte automatique,,2,2245.0,381,,Électrique,,0.0
+Prix correct,49452,Essence,Professionnel,4.0,3.0,RENAULT-TWINGO,3600,1,6.0,2005.0,43,Boîte manuelle,1149.0,4,4915.0,58,Euro 4,Essence,5.8,138.0
+Très bon prix,99000,Electrique,Professionnel,5.0,5.0,NISSAN-LEAF,5900,3,1.0,2013.0,80,Boîte automatique,,8,1613.0,109,Euro 6,Électrique,,0.0
+Bon prix,164072,Diesel,Professionnel,5.0,5.0,MERCEDES-BENZ-C 200,7950,2,12.0,2011.0,100,Boîte manuelle,2143.0,1,1635.0,136,Euro 5,Diesel,5.2,127.0
+Pas d'information,186210,Diesel,Professionnel,5.0,5.0,CITROEN-C4 PICASSO,3990,0,10.0,2012.0,82,Boîte manuelle,1560.0,8,1505.0,111,Euro 5,Diesel,5.1,132.0
+Très bon prix,142000,Diesel,Professionnel,5.0,5.0,CITROEN-C4 CACTUS,6450,3,7.0,2015.0,73,Boîte manuelle,1560.0,7,1145.0,99,Euro 6b,Diesel,3.4,90.0
+Très bon prix,77372,Essence,Professionnel,5.0,5.0,VOLKSWAGEN-TIGUAN,15250,3,4.0,2017.0,92,Boîte manuelle,1395.0,9,1490.0,125,Euro 6b,Essence,6.0,135.0
+Bon prix,63600,Essence,Professionnel,5.0,5.0,RENAULT-MEGANE,11950,2,4.0,2018.0,97,Boîte manuelle,1197.0,9,1280.0,132,Euro 6b,Essence,5.3,119.0
+Très bon prix,91000,Essence,Professionnel,5.0,5.0,KIA-STONIC,11600,3,5.0,2019.0,74,Boîte manuelle,1368.0,7,1160.0,101,Euro 6d,,5.5,127.0
+Bon prix,149764,Diesel,Professionnel,5.0,5.0,BMW-116,12490,2,3.0,2016.0,85,Boîte automatique,1496.0,8,1425.0,116,Euro 6b,Diesel,4.0,96.0
+Bon prix,130000,Essence,Professionnel,4.0,3.0,MINI-ONE,6450,2,1.0,2015.0,55,Boîte manuelle,1598.0,5,1145.0,75,Euro 6b,Essence,5.4,122.0
+Très bon prix,91015,Diesel,Professionnel,5.0,5.0,JAGUAR-E-PACE,15950,3,7.0,2020.0,110,Boîte manuelle,1999.0,1,1775.0,150,Euro 6d,Diesel,5.4,143.0
+Bon prix,274216,Diesel,Professionnel,5.0,5.0,PEUGEOT-508,4250,2,6.0,2015.0,84,Boîte manuelle,1560.0,8,1609.0,114,Euro 5,Diesel,4.2,110.0
+Très bon prix,42476,Essence,Professionnel,4.0,2.0,BMW-M4,67995,3,3.0,2021.0,375,Boîte automatique,2993.0,3,1800.0,510,Euro 6d,Essence,10.2,234.0
+Bon prix,62681,Essence,Professionnel,5.0,5.0,OPEL-CORSA,10490,2,9.0,2020.0,74,Boîte manuelle,1199.0,7,1165.0,101,Euro 6d,Essence,4.3,99.0
+Très bon prix,117002,Diesel,Professionnel,,,PEUGEOT-508,14290,3,6.0,2020.0,96,Boîte automatique,1499.0,9,,131,Euro 6d,Diesel,,98.0
+Très bon prix,104910,Diesel,Professionnel,5.0,5.0,PEUGEOT-RIFTER,15450,3,3.0,2020.0,96,Boîte manuelle,1499.0,9,1405.0,131,Euro 6,Diesel,4.4,113.0
+Très bon prix,3000,Electrique/Essence,Professionnel,5.0,5.0,MAZDA-MX-30,269051,3,11.0,2024.0,125,Boîte automatique,,1,,170,Euro 6d,Essence,,21.0
+Prix correct,220265,Diesel,Professionnel,2.0,5.0,HYUNDAI-H-1,9990,1,6.0,2016.0,100,Boîte manuelle,2497.0,1,2036.0,136,Euro 5,Diesel,7.6,199.0
+Très bon prix,9735,Essence,Professionnel,5.0,5.0,VOLKSWAGEN-TAIGO,21950,3,10.0,2022.0,81,Boîte automatique,999.0,8,1261.0,110,Euro 6d,Essence,,111.0
+Pas d'information,58263,Essence,Professionnel,5.0,5.0,FORD-FOCUS,10690,0,4.0,2018.0,110,Boîte manuelle,1498.0,1,1350.0,150,Euro 6,Essence,5.5,127.0
+Prix correct,152000,Essence,Professionnel,5.0,5.0,MERCEDES-BENZ-A 180,12999,1,2.0,2014.0,90,Boîte automatique,1595.0,9,1395.0,122,Euro 6b,,4.0,112.0
+Prix correct,106209,Diesel,Professionnel,5.0,4.0,VOLKSWAGEN-PASSAT,16499,1,8.0,2018.0,103,Boîte manuelle,1598.0,1,1444.0,140,Euro 6b,Diesel,4.0,103.0
+Prix correct,61562,Essence,Professionnel,5.0,4.0,HYUNDAI-I10,3990,1,9.0,2008.0,49,Boîte manuelle,1086.0,4,,67,Euro 4,Essence,,119.0
+Très bon prix,83850,Diesel,Professionnel,5.0,5.0,BMW-216,13990,3,2.0,2020.0,85,Boîte manuelle,1496.0,8,1575.0,116,Euro 6d,Diesel,,104.0
+Très bon prix,22700,Electrique,Professionnel,5.0,5.0,AUDI-Q8 E-TRON,689501,3,9.0,2023.0,300,Boîte automatique,,3,2585.0,408,,Électrique,,0.0
+Pas d'information,45978,Electrique/Essence,Professionnel,4.0,2.0,POLESTAR-1,899501,0,3.0,2020.0,448,Boîte automatique,1969.0,4,2350.0,609,Euro 6d,Électrique,1.3,15.0
+Bon prix,15748,Essence,Professionnel,5.0,5.0,JEEP-RENEGADE,12950,2,1.0,2017.0,81,Boîte manuelle,1598.0,8,1346.0,110,Euro 6b,Essence,6.0,141.0
+Très bon prix,83000,Diesel,Professionnel,5.0,5.0,JAGUAR-F-PACE,17450,3,9.0,2017.0,132,Boîte automatique,1999.0,1,1775.0,179,Euro 6b,Diesel,5.3,139.0
+Bon prix,35500,Electrique,Professionnel,5.0,5.0,DS AUTOMOBILES-DS 3 CROSSBACK,19950,2,7.0,2022.0,100,Boîte automatique,,1,1525.0,136,,Électrique,,0.0
+Très bon prix,9800,Electrique/Essence,Professionnel,5.0,4.0,AUDI-A8,869991,3,10.0,2023.0,330,Boîte automatique,2995.0,3,2035.0,449,Euro 6e,Essence,,45.0
+Prix correct,3293,Essence,Professionnel,5.0,3.0,FORD-FIESTA,23499,1,12.0,2020.0,147,Boîte manuelle,1496.0,1,,200,Euro 6d,Essence,6.6,149.0
+Bon prix,12006,Essence,Professionnel,4.0,5.0,CITROEN-C1,5500,2,3.0,2011.0,50,Boîte manuelle,998.0,5,,68,Euro 5,Essence,,103.0
+Très bon prix,49000,Essence,Professionnel,5.0,4.0,ALFA ROMEO-GIULIA,49990,3,4.0,2019.0,375,Boîte automatique,2891.0,3,1695.0,510,Euro 6d,Essence,9.1,206.0
+Pas d'information,140000,Essence,Professionnel,5.0,3.0,AUDI-A3,10990,0,1.0,2013.0,90,Boîte manuelle,1395.0,9,1250.0,122,Euro 5,Essence,5.2,120.0
+Très bon prix,85000,Diesel,Professionnel,5.0,5.0,PEUGEOT-3008,16990,3,9.0,2020.0,96,Boîte manuelle,1499.0,9,1566.0,131,Euro 6d,Diesel,3.9,104.0
+Très bon prix,144000,Essence,Professionnel,5.0,5.0,BMW-120,16950,3,2.0,2018.0,135,Boîte automatique,1998.0,1,1455.0,184,,Essence,5.5,
+Très bon prix,83981,Diesel,Professionnel,5.0,4.0,MERCEDES-BENZ-C 200,15250,3,4.0,2016.0,100,Boîte manuelle,1598.0,1,1485.0,136,Euro 6b,Diesel,3.9,101.0
+Bon prix,100000,Essence,Professionnel,5.0,5.0,RENAULT-MEGANE,5990,2,7.0,2012.0,81,Boîte manuelle,1598.0,8,1290.0,110,Euro 5,Essence,6.9,159.0
+Très bon prix,118000,CNG,Professionnel,4.0,3.0,VOLKSWAGEN-UP!,4400,3,8.0,2013.0,50,Boîte manuelle,999.0,5,1031.0,68,Euro 6b,,2.9,79.0
+Très bon prix,14764,Essence,Professionnel,5.0,5.0,OPEL-CORSA,129951,3,1.0,2022.0,55,Boîte manuelle,1199.0,5,,75,Euro 6,Essence,,118.0
+Bon prix,130656,Essence,Professionnel,4.0,3.0,FIAT-500,7490,2,4.0,2012.0,99,Boîte manuelle,1368.0,9,4930.0,135,Euro 5,,6.5,155.0
+Prix correct,220256,Diesel,Professionnel,5.0,5.0,VOLVO-V60,13000,1,7.0,2019.0,110,Boîte automatique,1969.0,1,1695.0,150,Euro 6d,Diesel,4.4,117.0
+Très bon prix,45298,Essence,Professionnel,5.0,5.0,CITROEN-C3,9490,3,5.0,2021.0,61,Boîte manuelle,1199.0,6,1055.0,83,Euro 6d,Essence,4.2,97.0
+Très bon prix,153830,Electrique/Diesel,Professionnel,5.0,4.0,MERCEDES-BENZ-C 300,15990,3,11.0,2016.0,150,Boîte automatique,2143.0,1,1715.0,204,Euro 6b,Électrique,3.6,94.0
+Pas d'information,91000,Diesel,Professionnel,5.0,5.0,MERCEDES-BENZ-C 200,195001,0,7.0,2023.0,120,Boîte automatique,1993.0,1,1780.0,163,Euro 6e,Diesel,,
+Très bon prix,158000,Diesel,Professionnel,5.0,5.0,MASERATI-LEVANTE,27499,3,8.0,2017.0,202,Boîte automatique,2987.0,2,2205.0,275,Euro 6b,Diesel,7.2,189.0
+Très bon prix,120000,Diesel,Professionnel,5.0,5.0,VOLVO-V60,99501,3,12.0,2016.0,88,Boîte manuelle,1969.0,8,1679.0,120,Euro 6b,Diesel,3.9,104.0
+Pas d'information,80000,Electrique/Essence,Professionnel,5.0,4.0,BMW-330,16499,0,3.0,2016.0,135,Boîte automatique,1998.0,1,1570.0,184,Euro 6b,Électrique,5.5,45.0
+Très bon prix,140000,Diesel,Professionnel,4.0,5.0,AUDI-A5,13490,3,3.0,2014.0,110,Boîte manuelle,1968.0,1,1590.0,150,Euro 5,Diesel,4.5,119.0
+Pas d'information,199950,Diesel,Professionnel,5.0,5.0,SEAT-IBIZA,3650,0,1.0,2011.0,55,Boîte manuelle,1199.0,5,1190.0,75,,Diesel,3.9,102.0
+Bon prix,82922,Diesel,Professionnel,5.0,5.0,VOLVO-XC60,15990,2,6.0,2015.0,100,Boîte manuelle,1984.0,1,1716.0,136,Euro 5,Diesel,5.3,139.0
+Bon prix,54181,Diesel,Professionnel,5.0,4.0,AUDI-A6,359501,2,1.0,2021.0,120,Boîte automatique,1968.0,1,1715.0,163,Euro 6d,Diesel,4.4,116.0
+Prix correct,143011,Diesel,Professionnel,5.0,4.0,MERCEDES-BENZ-A 180,21990,1,2.0,2020.0,85,Boîte automatique,1461.0,8,1455.0,116,Euro 6d,Diesel,4.2,103.0
+Prix correct,170220,Essence,Professionnel,5.0,5.0,DACIA-DUSTER,5900,1,1.0,2015.0,92,Boîte manuelle,1198.0,9,1235.0,125,Euro 5,Essence,6.0,140.0
+Très bon prix,186960,Essence,Professionnel,5.0,5.0,KIA-SOUL,2990,3,7.0,2010.0,91,Boîte manuelle,1591.0,9,1170.0,124,Euro 5,Essence,6.5,
+Bon prix,74030,Essence,Professionnel,5.0,5.0,HYUNDAI-TUCSON,14500,2,12.0,2017.0,97,Boîte manuelle,1591.0,9,1379.0,132,Euro 6b,Essence,6.3,147.0
+Prix correct,150757,Essence,Professionnel,5.0,5.0,OPEL-MOKKA,7950,1,5.0,2016.0,103,Boîte manuelle,1364.0,1,1335.0,140,Euro 6b,Essence,6.0,139.0
+Pas d'information,43000,Electrique/Essence,Professionnel,5.0,5.0,MG-EHS,18500,0,5.0,2021.0,119,Boîte automatique,1490.0,1,1775.0,162,Euro 6d,Électrique,4.0,
+Très bon prix,8097,Electrique/Essence,Professionnel,,5.0,RENAULT-ARKANA,30950,3,6.0,2024.0,120,Boîte automatique,1598.0,1,,163,Euro 6d,Électrique,,111.0
+Prix correct,212000,Diesel,Professionnel,5.0,5.0,MERCEDES-BENZ-ML 250,16950,1,5.0,2012.0,150,Boîte automatique,2143.0,1,2150.0,204,Euro 6b,Diesel,5.8,154.0
+Très bon prix,35865,Essence,Professionnel,5.0,5.0,PEUGEOT-208,122001,3,11.0,2022.0,55,Boîte manuelle,1199.0,5,1055.0,75,Euro 6d,,4.1,94.0
+Bon prix,101637,Diesel,Professionnel,,,VOLVO-V60,189001,2,1.0,2019.0,110,,,1,,150,,Diesel,,138.0
+Bon prix,86000,Essence,Professionnel,5.0,5.0,OPEL-GRANDLAND X,11950,2,1.0,2018.0,96,Boîte manuelle,1199.0,9,1350.0,131,Euro 6b,Essence,5.1,117.0
+Bon prix,114316,Diesel,Professionnel,5.0,5.0,SEAT-IBIZA,5990,2,8.0,2015.0,55,Boîte manuelle,1199.0,5,1205.0,75,Euro 5,Diesel,,89.0
+Bon prix,100063,Diesel,Professionnel,5.0,5.0,SKODA-RAPID/SPACEBACK,7450,2,8.0,2015.0,77,Boîte manuelle,1598.0,7,1265.0,105,Euro 5,Diesel,4.4,114.0
+Bon prix,114316,Diesel,Professionnel,5.0,5.0,SEAT-IBIZA,5990,2,8.0,2015.0,55,Boîte manuelle,1199.0,5,1205.0,75,Euro 5,Diesel,,89.0
+Pas d'information,280314,Diesel,Professionnel,5.0,5.0,MERCEDES-BENZ-A 180,7400,0,3.0,2013.0,80,Boîte manuelle,1461.0,8,1395.0,109,Euro 6b,Diesel,3.8,98.0
+Très bon prix,83675,Essence,Professionnel,5.0,5.0,PEUGEOT-3008,148901,3,10.0,2020.0,96,Boîte manuelle,1199.0,9,,131,Euro 6,Essence,,
+Très bon prix,49000,Essence,Professionnel,5.0,5.0,CITROEN-BERLINGO,134951,3,12.0,2019.0,81,Boîte manuelle,1199.0,8,1505.0,110,Euro 6d,Essence,5.5,125.0
+Bon prix,124000,Essence,Professionnel,5.0,5.0,MAZDA-CX-3,119501,2,2.0,2017.0,88,Boîte manuelle,1998.0,8,1155.0,120,Euro 6b,Essence,5.9,137.0
+Très bon prix,53077,Essence,Professionnel,5.0,5.0,PEUGEOT-PARTNER,12490,3,3.0,2017.0,81,Boîte manuelle,1199.0,8,,110,Euro 6,Essence,,119.0
+Prix correct,110002,Essence,Professionnel,5.0,3.0,OPEL-CORSA,7750,1,3.0,2018.0,66,Boîte manuelle,1398.0,6,1120.0,90,Euro 6b,Essence,5.2,120.0
+Très bon prix,34760,Essence,Professionnel,2.0,5.0,CITROEN-C3,99001,3,6.0,2020.0,61,Boîte manuelle,1199.0,6,1055.0,83,Euro 6d,,4.2,97.0
+Bon prix,120000,Diesel,Professionnel,5.0,5.0,LAND ROVER-RANGE ROVER EVOQUE,14950,2,11.0,2017.0,110,Boîte automatique,1999.0,1,1675.0,150,Euro 6b,Diesel,5.1,134.0
+Bon prix,120000,Diesel,Professionnel,5.0,5.0,JAGUAR-F-PACE,169501,2,9.0,2016.0,132,Boîte automatique,1999.0,1,1775.0,179,Euro 6b,Diesel,5.3,139.0
+Très bon prix,120000,Essence,Professionnel,5.0,5.0,SEAT-LEON,13399,3,1.0,2021.0,96,Boîte manuelle,1498.0,9,1318.0,131,Euro 6d,Essence,5.1,117.0
+Prix correct,109761,Diesel,Professionnel,5.0,4.0,AUDI-A6,22750,1,1.0,2018.0,110,Boîte automatique,1968.0,1,1735.0,150,Euro 6b,Diesel,4.2,109.0
+Bon prix,99000,Diesel,Professionnel,5.0,5.0,LAND ROVER-RANGE ROVER EVOQUE,19900,2,4.0,2017.0,132,Boîte automatique,1999.0,1,1690.0,179,Euro 6d,Diesel,,
+Bon prix,126000,Essence,Professionnel,5.0,5.0,FORD-B-MAX,5950,2,3.0,2016.0,74,Boîte manuelle,998.0,7,1279.0,101,Euro 6b,Essence,4.9,114.0
+Très bon prix,11133,Essence,Professionnel,5.0,5.0,KIA-STONIC,208001,3,4.0,2023.0,88,Boîte automatique,1000.0,8,1150.0,120,,Essence,,129.0
+Bon prix,138000,Essence,Professionnel,5.0,3.0,OPEL-ASTRA,7999,2,3.0,2016.0,88,Boîte manuelle,1364.0,8,1408.0,120,Euro 6b,Essence,6.2,146.0
+Bon prix,67000,Diesel,Professionnel,5.0,5.0,PEUGEOT-208,13900,2,11.0,2022.0,75,Boîte manuelle,1499.0,7,1165.0,102,Euro 6d,Diesel,3.3,86.0
+Très bon prix,144210,Diesel,Professionnel,5.0,5.0,CITROEN-BERLINGO,7500,3,7.0,2015.0,73,Boîte manuelle,1560.0,7,1374.0,99,Euro 6b,Diesel,4.3,113.0
+Bon prix,24775,Essence,Professionnel,5.0,5.0,VOLKSWAGEN-T-CROSS,229901,2,3.0,2024.0,85,Boîte automatique,999.0,8,,116,Euro 6d,Essence,,1.0
+Prix correct,174715,Diesel,Professionnel,5.0,5.0,BMW-116,6450,1,3.0,2011.0,85,Boîte manuelle,1995.0,8,1380.0,116,Euro 5,Diesel,4.5,118.0
+Bon prix,189000,Diesel,Professionnel,5.0,5.0,BMW-X1,9950,2,4.0,2014.0,100,Boîte automatique,1995.0,1,1570.0,136,Euro 5,Diesel,5.0,132.0
+Pas d'information,162083,Diesel,Professionnel,5.0,5.0,LAND ROVER-DISCOVERY SPORT,11950,0,6.0,2016.0,110,Boîte manuelle,1999.0,1,1775.0,150,Euro 6b,Diesel,5.1,134.0
+Prix correct,65000,Essence,Professionnel,5.0,4.0,AUDI-S4,37900,1,7.0,2019.0,260,Boîte automatique,2995.0,2,1705.0,354,Euro 6d,Essence,7.5,
+Bon prix,145000,Diesel,Professionnel,5.0,5.0,VOLKSWAGEN-POLO,10450,2,6.0,2018.0,70,Boîte manuelle,1598.0,7,1280.0,95,Euro 6b,Diesel,3.8,99.0
+Pas d'information,18415,LPG,Professionnel,,5.0,DACIA-JOGGER,14500,0,5.0,2022.0,81,Boîte manuelle,990.0,8,,110,,,5.6,127.0
+Bon prix,73000,Essence,Professionnel,5.0,5.0,CITROEN-C4,7300,2,5.0,2015.0,70,Boîte manuelle,1397.0,7,1275.0,95,Euro 5,Essence,6.1,140.0
+Très bon prix,42930,Essence,Professionnel,5.0,5.0,AUDI-A3,169991,3,5.0,2019.0,85,Boîte automatique,999.0,8,1275.0,116,Euro 6d,,5.1,117.0
+Bon prix,74201,Essence,Professionnel,5.0,5.0,HYUNDAI-I10,6999,2,1.0,2014.0,49,Boîte manuelle,1000.0,4,,67,Euro 5,Essence,,108.0
+Très bon prix,14104,Electrique,Professionnel,,,POLESTAR-2,349001,3,7.0,2023.0,170,,,1,,231,,,,0.0
+Prix correct,168800,Diesel,Professionnel,5.0,5.0,VOLKSWAGEN-GOLF,10950,1,10.0,2015.0,77,Boîte manuelle,1598.0,7,1295.0,105,Euro 5,Diesel,3.8,99.0
+Très bon prix,0,Electrique,Professionnel,5.0,5.0,MERCEDES-BENZ-EQA,469901,3,1.0,2025.0,168,,,1,,228,,,,0.0
+Très bon prix,66523,Essence,Professionnel,5.0,5.0,PEUGEOT-208,135001,3,2.0,2023.0,75,Boîte manuelle,1199.0,7,,102,Euro 6,Essence,5.0,113.0
+Bon prix,69950,Diesel,Professionnel,4.0,2.0,JEEP-WRANGLER,299501,2,4.0,2017.0,147,Boîte automatique,2777.0,1,1945.0,200,,Diesel,8.8,
+Très bon prix,22193,Essence,Professionnel,5.0,5.0,VOLKSWAGEN-T-ROC,20995,3,5.0,2021.0,110,Boîte manuelle,1498.0,1,1330.0,150,Euro 6d,Essence,5.2,119.0
+Bon prix,50549,Diesel,Professionnel,5.0,5.0,BMW-X1,239951,2,6.0,2019.0,140,Boîte automatique,1995.0,1,1690.0,190,Euro 6e,Diesel,4.8,126.0
+Bon prix,91717,Diesel,Professionnel,5.0,5.0,VOLVO-V40,124501,2,1.0,2019.0,88,Boîte manuelle,1969.0,8,1532.0,120,Euro 6d,Diesel,3.4,89.0
+Prix correct,175600,Diesel,Professionnel,5.0,3.0,FORD-FIESTA,2290,1,4.0,2008.0,50,Boîte manuelle,1399.0,5,1132.0,68,Euro 4,Diesel,4.5,119.0
+Prix correct,131000,Diesel,Professionnel,5.0,5.0,VOLKSWAGEN-TIGUAN,16950,1,2.0,2017.0,110,Boîte manuelle,1968.0,1,1568.0,150,Euro 6b,Diesel,4.7,123.0
+Pas d'information,128825,Diesel,Professionnel,5.0,5.0,AUDI-A6,26999,0,1.0,2017.0,140,Boîte automatique,1968.0,1,1800.0,190,Euro 6b,Diesel,4.4,115.0
+Bon prix,96000,Essence,Professionnel,5.0,5.0,CITROEN-C3,5250,2,5.0,2013.0,50,Boîte manuelle,999.0,5,1048.0,68,Euro 5,Essence,4.3,99.0
+Prix correct,110077,Essence,Professionnel,5.0,5.0,NISSAN-X-TRAIL,13400,1,1.0,2016.0,120,Boîte manuelle,1600.0,1,1430.0,163,,Essence,,149.0
+Pas d'information,109100,Essence,Professionnel,4.0,2.0,PEUGEOT-207,6750,0,1.0,2013.0,88,Boîte manuelle,1598.0,8,1417.0,120,Euro 5,Essence,6.4,149.0
+Très bon prix,175000,Essence,Professionnel,5.0,5.0,BMW-X3,19900,3,1.0,2019.0,135,Boîte automatique,1998.0,1,1810.0,184,Euro 6d,Essence,6.6,151.0
+Très bon prix,104110,Electrique/Essence,Professionnel,4.0,5.0,PORSCHE-PANAMERA,55995,3,8.0,2018.0,340,Boîte automatique,2894.0,3,2245.0,462,Euro 6b,Électrique,2.5,56.0
+Bon prix,111000,Diesel,Professionnel,5.0,4.0,BMW-116,169001,2,11.0,2021.0,85,Boîte manuelle,1496.0,8,1450.0,116,Euro 6d,Diesel,,120.0
+Pas d'information,129568,Diesel,Professionnel,7.0,5.0,LAND ROVER-DISCOVERY SPORT,17990,0,11.0,2018.0,110,Boîte automatique,1999.0,1,1785.0,150,Euro 6d,Diesel,6.4,169.0
+Bon prix,105238,Diesel,Professionnel,5.0,5.0,VOLKSWAGEN-PASSAT VARIANT,14950,2,6.0,2018.0,88,Boîte automatique,1598.0,8,1500.0,120,Euro 6b,Diesel,4.0,103.0
+Pas d'information,100570,Essence,Professionnel,5.0,5.0,OPEL-CORSA,7950,0,5.0,2019.0,74,Boîte manuelle,1364.0,7,1163.0,101,Euro 6d,,5.2,122.0
+Bon prix,88223,Essence,Professionnel,5.0,4.0,MERCEDES-BENZ-CLA 180,17250,2,12.0,2018.0,90,Boîte manuelle,1595.0,9,1295.0,122,Euro 6d,,6.7,152.0
+Pas d'information,74343,Essence,Professionnel,5.0,5.0,CITROEN-C4 X,17700,0,1.0,2021.0,96,Boîte automatique,1199.0,9,1353.0,131,Euro 6d,Essence,,132.0
+Prix correct,112120,Diesel,Professionnel,5.0,5.0,HYUNDAI-TUCSON,16990,1,9.0,2017.0,100,Boîte manuelle,1995.0,1,1587.0,136,Euro 6,Diesel,5.2,120.0
+Prix correct,185607,Diesel,Professionnel,5.0,5.0,AUDI-A3,10990,1,11.0,2016.0,81,Boîte manuelle,1598.0,8,1350.0,110,Euro 6b,Diesel,4.0,107.0
+Bon prix,34780,Electrique/Essence,Professionnel,5.0,5.0,AUDI-Q5,359951,2,11.0,2020.0,185,Boîte automatique,1984.0,1,2105.0,252,Euro 6d,Électrique,2.0,46.0
+Bon prix,74000,Essence,Professionnel,5.0,5.0,BMW-X1,219501,2,9.0,2020.0,100,Boîte automatique,1499.0,1,1510.0,136,Euro 6d,,5.6,127.0
+Très bon prix,52230,Essence,Professionnel,5.0,5.0,AUDI-A1,159901,3,10.0,2019.0,70,Boîte manuelle,999.0,7,,95,Euro 6d,Essence,,128.0
+Pas d'information,79000,Essence,Professionnel,4.0,5.0,MERCEDES-BENZ-AMG GT,84900,0,6.0,2019.0,470,Boîte automatique,3982.0,4,2120.0,639,,Essence,11.3,
+Bon prix,133808,Diesel,Professionnel,5.0,5.0,VOLKSWAGEN-POLO,8950,2,6.0,2017.0,55,Boîte manuelle,1422.0,5,1152.0,75,Euro 6b,Diesel,,88.0
+Prix correct,160000,Diesel,Professionnel,5.0,5.0,BMW-X3,6950,1,11.0,2009.0,100,Boîte manuelle,1995.0,1,1815.0,136,Euro 5,Diesel,6.2,165.0
+Pas d'information,2450,Essence,Professionnel,5.0,5.0,OMODA-5,292001,0,10.0,2024.0,107,Boîte automatique,1598.0,1,,145,Euro 6,Essence,,168.0
+Très bon prix,122000,Essence,Professionnel,5.0,5.0,MINI-COOPER S COUNTRYMAN,9400,3,10.0,2012.0,135,Boîte manuelle,1598.0,1,1455.0,184,Euro 5,,6.7,157.0
+Bon prix,9,Essence,Professionnel,5.0,5.0,CUPRA-LEON,31950,2,10.0,2024.0,110,Boîte automatique,1498.0,1,1416.0,150,Euro 6d,Essence,5.0,115.0
+Très bon prix,96500,Diesel,Professionnel,5.0,5.0,VOLKSWAGEN-PASSAT VARIANT,14990,3,3.0,2018.0,88,Boîte manuelle,1598.0,8,1485.0,120,,Diesel,,105.0
+Pas d'information,125000,Diesel,Professionnel,5.0,5.0,KIA-CEED SW / CEE'D SW,8990,0,11.0,2015.0,81,Boîte manuelle,1582.0,8,1420.0,110,Euro 6b,Diesel,3.9,102.0
+Pas d'information,131929,Electrique/Essence,Professionnel,4.0,5.0,OPEL-AMPERA,79501,0,3.0,2012.0,111,Boîte automatique,1398.0,1,1732.0,151,Euro 5,Électrique,1.2,27.0
+Bon prix,10,Essence,Professionnel,5.0,5.0,MG-ZS,194901,2,11.0,2024.0,78,Boîte manuelle,1498.0,7,,106,Euro 6d,Essence,,156.0
+Prix correct,176876,Essence,Professionnel,5.0,4.0,VOLKSWAGEN-TIGUAN,8990,1,6.0,2012.0,118,Boîte manuelle,1390.0,1,,160,Euro 5,Essence,,178.0
+Très bon prix,154886,Essence,Professionnel,5.0,5.0,BMW-X3,14900,3,2.0,2017.0,135,Boîte manuelle,1997.0,1,1795.0,184,Euro 6b,Essence,7.7,180.0
+Bon prix,136061,Diesel,Professionnel,3.0,5.0,FORD-TRANSIT CUSTOM,139901,2,3.0,2018.0,96,Boîte manuelle,1997.0,9,2070.0,131,Euro 6b,Diesel,6.4,167.0
+Très bon prix,15000,Essence,Professionnel,4.0,2.0,BMW-M2,64990,3,3.0,2024.0,353,Boîte automatique,2993.0,3,1805.0,480,Euro 6e,Essence,,
+Bon prix,189840,Essence,Professionnel,5.0,5.0,TOYOTA-YARIS,4000,2,4.0,2011.0,51,Boîte manuelle,998.0,5,3960.0,69,Euro 5,Essence,5.0,115.0
+Prix correct,121768,Diesel,Professionnel,5.0,5.0,TOYOTA-RAV 4,13999,1,5.0,2015.0,91,Boîte manuelle,1998.0,9,1535.0,124,Euro 5,Diesel,5.2,137.0
+Bon prix,66000,Essence,Professionnel,5.0,5.0,MAZDA-CX-3,14499,2,1.0,2017.0,88,Boîte manuelle,1998.0,8,1155.0,120,Euro 6b,Essence,5.9,137.0
+Pas d'information,34932,Electrique/Essence,Professionnel,5.0,4.0,DS AUTOMOBILES-DS 9,299951,0,7.0,2022.0,165,Boîte automatique,1598.0,1,1839.0,224,Euro 6d,Électrique,1.6,37.0
+Pas d'information,249000,Diesel,Professionnel,5.0,3.0,FORD-FIESTA,2950,0,12.0,2009.0,66,Boîte manuelle,1560.0,6,1149.0,90,Euro 4,Diesel,4.2,110.0
+Bon prix,15,Diesel,Professionnel,5.0,4.0,FORD-RANGER RAPTOR,604481,2,1.0,2025.0,154,Boîte automatique,1996.0,1,2511.0,209,Euro 6d,Diesel,,278.0
+Prix correct,175000,Diesel,Professionnel,4.0,2.0,AUDI-A5,9250,1,4.0,2009.0,140,Boîte manuelle,2698.0,1,1550.0,190,Euro 5,Diesel,1.8,159.0
+Bon prix,96000,Diesel,Professionnel,5.0,5.0,MERCEDES-BENZ-CLA 180,17950,2,8.0,2018.0,90,Boîte automatique,1595.0,9,1330.0,122,Euro 6d,Diesel,6.3,146.0
+Prix correct,147837,Essence,Professionnel,5.0,3.0,TOYOTA-AYGO,2750,1,2.0,2006.0,50,Boîte manuelle,998.0,5,3790.0,68,Euro 4,Essence,4.6,109.0
+Bon prix,12590,Diesel,Professionnel,5.0,5.0,MAZDA-CX-60,45500,2,2.0,2024.0,147,Boîte automatique,3283.0,1,1980.0,200,Euro 6,Diesel,,130.0
+Pas d'information,48489,Essence,Professionnel,2.0,2.0,ASTON MARTIN-VANTAGE,99950,0,5.0,2015.0,321,Boîte automatique,4735.0,3,1630.0,436,Euro 6,Essence,,296.0
+Très bon prix,36395,Essence,Professionnel,5.0,5.0,RENAULT-GRAND SCENIC,14990,3,12.0,2020.0,85,Boîte manuelle,1332.0,8,1565.0,116,Euro 6d,Essence,6.0,137.0
+Prix correct,125000,Essence,Professionnel,5.0,5.0,OPEL-INSIGNIA,6450,1,2.0,2009.0,103,Boîte manuelle,1796.0,1,1503.0,140,Euro 5,Essence,7.6,179.0
+Très bon prix,39418,Essence,Professionnel,5.0,4.0,JAGUAR-XE,18990,3,6.0,2017.0,147,Boîte automatique,1997.0,1,,200,Euro 6,Essence,,144.0
+Très bon prix,30315,Electrique,Professionnel,5.0,5.0,MERCEDES-BENZ-EQA 250,32990,3,1.0,2022.0,140,,,1,,190,Euro 6,,,0.0
+Prix correct,125099,Diesel,Professionnel,5.0,4.0,BMW-318,12990,1,1.0,2015.0,105,Boîte manuelle,1995.0,1,1485.0,143,Euro 5,Diesel,4.3,118.0
+Très bon prix,124990,Essence,Professionnel,5.0,5.0,BMW-116,10990,3,6.0,2016.0,80,Boîte manuelle,1499.0,8,1380.0,109,Euro 6b,,5.3,116.0
+Pas d'information,90208,Diesel,Professionnel,7.0,5.0,VOLKSWAGEN-TIGUAN ALLSPACE,239951,0,2.0,2020.0,110,Boîte manuelle,1968.0,1,,150,Euro 6d,Diesel,,
+Bon prix,107000,Diesel,Professionnel,5.0,5.0,HYUNDAI-I40,10990,2,1.0,2017.0,85,Boîte manuelle,1685.0,8,1530.0,116,Euro 6b,Diesel,5.0,118.0
+Prix correct,45000,Diesel,Professionnel,5.0,5.0,BMW-X1,189501,1,11.0,2018.0,85,Boîte manuelle,1496.0,8,1555.0,116,Euro 6d,Diesel,4.5,118.0
+Bon prix,214805,Diesel,Professionnel,5.0,5.0,HYUNDAI-I40,4990,2,2.0,2012.0,85,Boîte manuelle,1685.0,8,1485.0,116,Euro 5,Diesel,4.6,113.0
+Bon prix,66000,Essence,Professionnel,5.0,5.0,MAZDA-CX-3,14499,2,1.0,2017.0,88,Boîte manuelle,1998.0,8,1155.0,120,Euro 6b,Essence,5.9,137.0
+Prix correct,70516,Essence,Professionnel,5.0,5.0,OPEL-CORSA,7999,1,4.0,2017.0,51,Boîte manuelle,1229.0,5,,69,Euro 6,Essence,5.4,126.0
+Bon prix,60751,Essence,Professionnel,5.0,5.0,AUDI-Q2,22990,2,8.0,2020.0,110,Boîte automatique,1498.0,1,1365.0,150,Euro 6d,,5.2,119.0
+Prix correct,162500,Essence,Professionnel,4.0,3.0,MINI-COOPER S,6900,1,7.0,2003.0,120,Boîte manuelle,1598.0,1,1215.0,163,Euro 4,,,
+Bon prix,24190,Essence,Professionnel,5.0,5.0,NISSAN-MICRA,11940,2,6.0,2020.0,74,Boîte manuelle,999.0,7,1135.0,101,Euro 6,Essence,4.5,103.0
+Très bon prix,20250,Essence,Professionnel,4.0,2.0,AUDI-A5,15990,3,2.0,2011.0,118,Boîte automatique,1798.0,1,1655.0,160,Euro 5,Essence,7.5,174.0
+Très bon prix,74825,Electrique/Essence,Professionnel,5.0,5.0,PORSCHE-PANAMERA,59995,3,1.0,2018.0,340,Boîte automatique,2894.0,3,2265.0,462,Euro 6b,Électrique,2.5,59.0
+Bon prix,167000,Diesel,Professionnel,5.0,5.0,BMW-318,10990,2,10.0,2015.0,100,Boîte manuelle,1995.0,1,1645.0,136,Euro 6b,Diesel,4.5,117.0
+Très bon prix,20250,Essence,Professionnel,4.0,2.0,AUDI-A5,15990,3,2.0,2011.0,118,Boîte automatique,1798.0,1,1655.0,160,Euro 5,Essence,7.5,174.0
+Très bon prix,74825,Electrique/Essence,Professionnel,5.0,5.0,PORSCHE-PANAMERA,59995,3,1.0,2018.0,340,Boîte automatique,2894.0,3,2265.0,462,Euro 6b,Électrique,2.5,59.0
+Très bon prix,30705,Electrique,Professionnel,4.0,5.0,DACIA-SPRING,107401,3,11.0,2022.0,33,,,3,,45,Euro 6,Électrique,,0.0
+Très bon prix,70000,Essence,Professionnel,5.0,5.0,AUDI-A3,15990,3,3.0,2020.0,85,Boîte manuelle,999.0,8,1265.0,116,,Essence,5.0,
+Prix correct,145828,Diesel,Professionnel,5.0,5.0,RENAULT-KANGOO,69991,1,9.0,2014.0,55,Boîte manuelle,1461.0,5,1395.0,75,Euro 5,Diesel,4.6,119.0
+Très bon prix,79452,Essence,Professionnel,5.0,5.0,AUDI-Q2,15950,3,8.0,2018.0,85,Boîte manuelle,999.0,8,1205.0,116,Euro 6,Essence,5.3,
+Pas d'information,136832,Essence,Professionnel,5.0,5.0,ALFA ROMEO-GIULIETTA,9950,0,3.0,2013.0,125,Boîte automatique,1368.0,1,1310.0,170,Euro 5,,5.2,121.0
+Prix correct,120000,Diesel,Professionnel,5.0,5.0,VOLKSWAGEN-TIGUAN,24990,1,11.0,2018.0,110,Boîte automatique,1968.0,1,1635.0,150,Euro 6,Diesel,4.8,126.0
+Bon prix,54254,Essence,Professionnel,5.0,5.0,VOLVO-V40,12990,2,9.0,2014.0,132,Boîte automatique,1596.0,1,1375.0,179,Euro 5,,6.1,143.0
+Très bon prix,43000,Essence,Professionnel,5.0,5.0,VOLVO-XC40,23999,3,1.0,2022.0,95,Boîte manuelle,1477.0,9,1509.0,129,Euro 6d,Essence,6.3,142.0
+Prix correct,100000,Diesel,Professionnel,5.0,5.0,AUDI-A4,189001,1,1.0,2018.0,110,Boîte automatique,1968.0,1,1600.0,150,Euro 6b,Diesel,4.1,102.0
+Pas d'information,74993,Essence,Professionnel,5.0,4.0,BMW-114,9990,0,12.0,2012.0,75,Boîte manuelle,1598.0,7,,102,Euro 5,Essence,,129.0
+Prix correct,198000,Essence,Professionnel,5.0,5.0,FORD-C-MAX,3950,1,1.0,2013.0,74,Boîte manuelle,998.0,7,1391.0,101,Euro 5,Essence,5.1,117.0
+Très bon prix,14000,Essence,Professionnel,4.0,5.0,OPEL-KARL,8450,3,9.0,2019.0,54,Boîte manuelle,999.0,5,1038.0,73,Euro 6d,,4.8,110.0
+Bon prix,15,Electrique/Essence,Professionnel,7.0,5.0,PEUGEOT-5008,349001,2,1.0,2025.0,100,Boîte automatique,1199.0,1,1780.0,136,Euro 6d,Électrique,5.7,130.0
+Bon prix,106221,Diesel,Professionnel,5.0,5.0,MERCEDES-BENZ-GLC 220,31250,2,6.0,2019.0,120,Boîte automatique,2143.0,1,1865.0,163,Euro 6c,Diesel,6.1,161.0
+Très bon prix,24000,Essence,Professionnel,4.0,2.0,FIAT-500C,7999,3,10.0,2016.0,51,Boîte manuelle,1242.0,5,4905.0,69,Euro 6b,,4.9,115.0
+Bon prix,90369,Diesel,Professionnel,5.0,5.0,HONDA-HR-V,12995,2,3.0,2017.0,88,Boîte manuelle,1597.0,8,1324.0,120,Euro 6b,Diesel,4.1,108.0
+Bon prix,26500,Electrique/Essence,Professionnel,5.0,5.0,BMW-X1,279001,2,5.0,2021.0,162,Boîte automatique,1499.0,1,1820.0,220,Euro 6,Électrique,1.9,43.0
+Très bon prix,118000,Essence,Professionnel,5.0,5.0,CITROEN-BERLINGO,7450,3,4.0,2018.0,81,Boîte manuelle,1199.0,8,1395.0,110,Euro 6,Essence,5.1,
+Prix correct,30000,Essence,Professionnel,5.0,5.0,VOLKSWAGEN-POLO,14950,1,9.0,2020.0,59,Boîte manuelle,999.0,5,1130.0,80,Euro 6d,Essence,4.7,106.0
+Bon prix,110519,Diesel,Professionnel,5.0,5.0,AUDI-A3,15799,2,2.0,2019.0,85,Boîte manuelle,1598.0,8,,116,Euro 6,Diesel,,
+Très bon prix,40372,Electrique/Essence,Professionnel,5.0,5.0,RENAULT-ARKANA,22995,3,4.0,2022.0,103,Boîte automatique,1598.0,1,1477.0,140,Euro 6d,Essence,,110.0
+Prix correct,223256,Essence,Professionnel,5.0,5.0,AUDI-A4,75021,1,3.0,2014.0,125,Boîte manuelle,1798.0,1,1470.0,170,Euro 6b,Essence,6.1,141.0
+Très bon prix,177456,Diesel,Professionnel,5.0,5.0,MERCEDES-BENZ-B 180,14950,3,3.0,2019.0,85,Boîte automatique,1461.0,8,1485.0,116,Euro 6d,Diesel,3.8,104.0
+Bon prix,82079,Essence,Professionnel,5.0,5.0,AUDI-A1,169901,2,4.0,2020.0,70,Boîte automatique,999.0,7,,95,Euro 6d,Essence,4.8,139.0
+Prix correct,71300,Electrique/Essence,Professionnel,5.0,5.0,BMW-530,38250,1,5.0,2021.0,215,Boîte automatique,1998.0,2,1845.0,292,Euro 6d,Essence,,33.0
+Bon prix,115803,Diesel,Professionnel,5.0,5.0,AUDI-Q3,24990,2,8.0,2020.0,110,Boîte automatique,1968.0,1,,150,Euro 6,Diesel,,153.0
+Bon prix,55001,Diesel,Professionnel,5.0,5.0,SKODA-SCALA,179901,2,11.0,2020.0,85,Boîte automatique,1598.0,8,,116,Euro 6d,Diesel,4.1,106.0
+Pas d'information,212159,Diesel,Professionnel,5.0,5.0,VOLKSWAGEN-GOLF,4750,0,9.0,2007.0,77,Boîte manuelle,1896.0,7,1549.0,105,,Diesel,,135.0
+Prix correct,48558,Essence,Professionnel,5.0,5.0,FIAT-TIPO,9790,1,3.0,2018.0,70,Boîte manuelle,1368.0,7,1270.0,95,Euro 6b,,5.7,132.0
+Bon prix,83700,Essence,Professionnel,5.0,5.0,KIA-CEED / CEE'D,12250,2,9.0,2019.0,74,Boîte manuelle,1368.0,7,1352.0,101,Euro 6d,,5.4,126.0
+Bon prix,53800,Essence,Professionnel,5.0,4.0,MERCEDES-BENZ-CLA 180,17700,2,10.0,2016.0,90,Boîte manuelle,1595.0,9,1395.0,122,Euro 6b,Essence,5.4,128.0
+Prix correct,112159,Diesel,Professionnel,5.0,5.0,VOLKSWAGEN-ARTEON,219501,1,8.0,2019.0,110,Boîte manuelle,1968.0,1,,150,Euro 6c,Diesel,3.9,115.0
+Très bon prix,23819,Essence,Professionnel,5.0,5.0,AUDI-A1,189901,3,1.0,2023.0,70,Boîte manuelle,999.0,7,,95,Euro 6d,Essence,4.7,124.0
+Très bon prix,61317,Essence,Professionnel,5.0,5.0,OPEL-CROSSLAND X,11989,3,6.0,2020.0,81,Boîte manuelle,1199.0,8,1245.0,110,Euro 6,Essence,4.7,108.0
+Bon prix,77535,Diesel,Professionnel,5.0,4.0,MERCEDES-BENZ-E 220,23500,2,1.0,2016.0,120,Boîte automatique,2143.0,1,1735.0,163,Euro 6b,Diesel,4.3,110.0
+Prix correct,122000,Essence,Professionnel,5.0,5.0,KIA-CEED SW / CEE'D SW,6950,1,4.0,2013.0,73,Boîte manuelle,1396.0,7,1308.0,99,,Essence,6.5,
+Très bon prix,59000,Essence,Professionnel,5.0,4.0,VOLKSWAGEN-GOLF SPORTSVAN,14750,3,10.0,2017.0,81,Boîte automatique,1197.0,8,,110,Euro 6,Essence,,119.0
+Très bon prix,115000,Diesel,Professionnel,2.0,4.0,FORD-TRANSIT CONNECT,4500,3,11.0,2012.0,55,Boîte manuelle,1753.0,5,1529.0,75,Euro 5,Diesel,6.0,159.0
+Bon prix,47126,Essence,Professionnel,5.0,5.0,PEUGEOT-408,23900,2,3.0,2023.0,96,Boîte automatique,1199.0,9,1512.0,131,Euro 6d,Essence,4.0,
+Bon prix,170164,Diesel,Professionnel,5.0,5.0,RENAULT-KADJAR,10450,2,9.0,2016.0,81,Boîte manuelle,1461.0,8,1455.0,110,Euro 6b,Diesel,3.8,99.0
+Prix correct,133100,Essence,Professionnel,5.0,5.0,VOLKSWAGEN-POLO GTI,16900,1,4.0,2018.0,147,Boîte automatique,1984.0,1,1355.0,200,Euro 6b,Essence,5.9,134.0
+Prix correct,197856,Diesel,Professionnel,4.0,5.0,AUDI-A7,15890,1,1.0,2013.0,150,Boîte automatique,2967.0,1,1770.0,204,Euro 5,Diesel,5.1,135.0
+Bon prix,141862,Diesel,Professionnel,5.0,5.0,BMW-318,189501,2,1.0,2020.0,100,Boîte manuelle,1995.0,1,1650.0,136,Euro 6d,Diesel,,136.0
+Pas d'information,165000,Essence,Professionnel,5.0,5.0,BMW-435,21900,0,5.0,2014.0,225,Boîte automatique,2979.0,2,1585.0,306,Euro 6d,Essence,7.6,
+Très bon prix,91350,Diesel,Professionnel,4.0,5.0,AUDI-A5,26500,3,8.0,2020.0,120,Boîte automatique,1968.0,1,1595.0,163,Euro 6d,Diesel,3.7,98.0
+Bon prix,97519,Essence,Professionnel,5.0,5.0,AUDI-A1,147501,2,9.0,2019.0,85,Boîte manuelle,999.0,8,,116,Euro 6,Essence,,124.0
+Pas d'information,196120,Diesel,Professionnel,5.0,5.0,VOLKSWAGEN-GOLF,14990,0,9.0,2017.0,85,Boîte manuelle,1598.0,8,1301.0,116,Euro 6b,Diesel,4.1,109.0
+Très bon prix,129000,Diesel,Professionnel,5.0,5.0,SKODA-SUPERB,11490,3,7.0,2014.0,103,Boîte manuelle,1968.0,1,1569.0,140,Euro 5,Diesel,,134.0
+Bon prix,134980,Essence,Professionnel,5.0,4.0,BMW-320,12700,2,3.0,2014.0,135,Boîte manuelle,1997.0,1,1475.0,184,Euro 6b,Essence,6.1,144.0
+Prix correct,135283,Diesel,Professionnel,5.0,5.0,VOLVO-V60,169501,1,1.0,2019.0,110,Boîte automatique,1969.0,1,1695.0,150,Euro 6d,Diesel,4.4,117.0
+Très bon prix,91000,Essence,Professionnel,5.0,5.0,OPEL-ZAFIRA,12990,3,3.0,2018.0,103,Boîte manuelle,1364.0,1,1628.0,140,Euro 6b,Essence,6.4,148.0
+Bon prix,99196,Essence,Professionnel,,5.0,BMW-118,169501,2,10.0,2020.0,103,Boîte manuelle,1499.0,1,,140,Euro 6,Essence,,
+Bon prix,78444,Essence,Professionnel,5.0,4.0,AUDI-A3,23990,2,7.0,2021.0,81,Boîte automatique,999.0,8,1360.0,110,Euro 6d,Essence,4.3,98.0
+Très bon prix,5333,Essence,Professionnel,5.0,5.0,CITROEN-C3,155501,3,1.0,2025.0,75,Boîte manuelle,1199.0,7,1151.0,102,Euro 6,Essence,5.6,124.0
+Bon prix,85546,Diesel,Professionnel,7.0,4.0,OPEL-ZAFIRA LIFE,24990,2,1.0,2021.0,104,Boîte manuelle,1997.0,1,1823.0,141,Euro 6d,Diesel,5.3,139.0
+Très bon prix,52000,Essence,Professionnel,5.0,5.0,SEAT-ATECA,14490,3,8.0,2017.0,85,Boîte manuelle,999.0,8,,116,Euro 6,Essence,5.2,119.0
+Très bon prix,70000,Diesel,Professionnel,5.0,4.0,MERCEDES-BENZ-CLA 180,27490,3,1.0,2020.0,85,Boîte automatique,1461.0,8,1490.0,116,Euro 6d,Diesel,3.8,100.0
+Très bon prix,127000,Diesel,Professionnel,5.0,5.0,SEAT-LEON,7999,3,12.0,2014.0,77,Boîte manuelle,1598.0,7,1331.0,105,Euro 5,Diesel,3.8,99.0
+Bon prix,112002,Diesel,Professionnel,5.0,5.0,NISSAN-QASHQAI,15400,2,1.0,2018.0,96,Boîte automatique,1600.0,9,1419.0,131,,Diesel,,128.0
+Prix correct,129613,Essence,Professionnel,5.0,4.0,BMW-318,7499,1,3.0,2006.0,95,Boîte manuelle,1995.0,9,1435.0,129,Euro 4,Essence,7.3,175.0
+Bon prix,73763,Electrique/Essence,Professionnel,5.0,5.0,MG-EHS,199901,2,5.0,2022.0,119,Boîte automatique,1490.0,1,1775.0,162,,Électrique,,43.0
+Prix correct,24200,Essence,Professionnel,5.0,4.0,BMW-320,438901,1,10.0,2023.0,135,Boîte automatique,1998.0,1,1590.0,184,Euro 6e,,6.2,155.0
+Très bon prix,129000,Essence,Professionnel,5.0,5.0,VOLKSWAGEN-POLO,3650,3,7.0,2008.0,44,Boîte manuelle,1198.0,4,1014.0,60,Euro 4,Essence,5.8,138.0
+Bon prix,98630,Electrique/Essence,Professionnel,5.0,5.0,MERCEDES-BENZ-GLC 350,329901,2,12.0,2017.0,155,Boîte automatique,1991.0,1,2040.0,211,Euro 6b,Électrique,2.5,64.0
+Bon prix,72000,Essence,Professionnel,5.0,5.0,AUDI-A3,163991,2,5.0,2017.0,85,Boîte automatique,999.0,8,1315.0,116,Euro 6b,Essence,4.7,107.0
+Très bon prix,131931,Diesel,Professionnel,5.0,5.0,MITSUBISHI-OUTLANDER,9990,3,3.0,2013.0,103,Boîte manuelle,2268.0,1,,140,Euro 5,Diesel,,163.0
+Bon prix,90350,Essence,Professionnel,5.0,5.0,FIAT-TIPO,9499,2,10.0,2019.0,70,Boîte manuelle,1368.0,7,1280.0,95,Euro 6d,Essence,5.8,132.0
+Très bon prix,35801,Essence,Professionnel,4.0,5.0,PEUGEOT-108,8900,3,3.0,2021.0,53,Boîte manuelle,998.0,5,3942.0,72,Euro 6,Essence,3.7,85.0
+Prix correct,169000,Essence,Professionnel,5.0,5.0,AUDI-A3,7990,1,1.0,2010.0,92,Boîte manuelle,1390.0,9,1300.0,125,Euro 5,,5.8,119.0
+Très bon prix,67570,Electrique/Essence,Professionnel,5.0,4.0,BMW-530,419501,3,3.0,2022.0,135,Boîte automatique,1998.0,1,,184,Euro 6,Électrique,,39.0
+Très bon prix,30000,Essence,Professionnel,5.0,5.0,CITROEN-C3,14990,3,11.0,2023.0,81,Boîte automatique,1199.0,8,1090.0,110,Euro 6d,Essence,,
+Très bon prix,108598,Diesel,Professionnel,5.0,5.0,AUDI-Q5,244951,3,1.0,2020.0,110,Boîte manuelle,1968.0,1,,150,Euro 6d,Diesel,,
+Prix correct,74801,Essence,Professionnel,5.0,5.0,PEUGEOT-2008,84901,1,2.0,2017.0,60,Boîte manuelle,1199.0,6,1120.0,82,Euro 6b,Essence,4.9,114.0
+Prix correct,49000,Essence,Professionnel,5.0,4.0,BMW-218,299501,1,6.0,2022.0,100,Boîte automatique,1499.0,1,1450.0,136,Euro 6e,,5.0,
+Prix correct,88000,Essence,Professionnel,5.0,4.0,MERCEDES-BENZ-CLA 180,18490,1,3.0,2017.0,90,Boîte manuelle,1595.0,9,1395.0,122,Euro 6b,Essence,5.0,128.0
+Bon prix,14543,Essence,Professionnel,5.0,4.0,MERCEDES-BENZ-CLA 180,234901,2,9.0,2019.0,100,Boîte manuelle,1332.0,1,,136,Euro 6d,Essence,,123.0
+Prix correct,89500,Diesel,Professionnel,5.0,4.0,BMW-116,16450,1,10.0,2018.0,85,Boîte manuelle,1496.0,8,,116,Euro 6,Diesel,,114.0
+Très bon prix,148000,Diesel,Professionnel,5.0,5.0,HYUNDAI-I20,7890,3,11.0,2017.0,55,Boîte manuelle,1120.0,5,1143.0,75,Euro 6b,Diesel,,
+Bon prix,0,Electrique/Essence,Professionnel,5.0,5.0,MG-ZS,249851,2,,,143,Boîte automatique,1500.0,1,,194,Euro 6,Électrique,,115.0
+Très bon prix,41559,Essence,Professionnel,5.0,5.0,VOLKSWAGEN-GOLF,13990,3,3.0,2017.0,92,Boîte manuelle,1395.0,9,1225.0,125,Euro 6b,,5.2,120.0
+Bon prix,57351,Essence,Professionnel,5.0,5.0,ALFA ROMEO-GIULIETTA,15990,2,2.0,2021.0,88,Boîte manuelle,1368.0,8,1280.0,120,Euro 6d,Essence,,
+Très bon prix,40958,Essence,Professionnel,5.0,5.0,AUDI-Q3,259901,3,2.0,2020.0,110,Boîte automatique,1498.0,1,,150,Euro 6d,Essence,,154.0
+Bon prix,89990,Diesel,Professionnel,5.0,4.0,ALFA ROMEO-GIULIA,17999,2,3.0,2018.0,110,Boîte automatique,2143.0,1,1520.0,150,Euro 6b,Diesel,4.2,109.0
+Bon prix,58000,Electrique/Essence,Professionnel,5.0,5.0,BMW-530,379001,2,11.0,2021.0,215,Boîte automatique,1998.0,2,1975.0,292,Euro 6,Électrique,1.8,42.0
+Très bon prix,152900,Essence,Professionnel,5.0,5.0,VOLKSWAGEN-GOLF R,17500,3,12.0,2009.0,199,Boîte automatique,1984.0,1,1541.0,271,Euro 6,Essence,8.4,195.0
+Très bon prix,16199,Essence,Professionnel,5.0,5.0,BMW-M3,869001,3,4.0,2024.0,375,Boîte automatique,3000.0,3,,510,Euro 6d,Essence,,233.0
+Bon prix,187000,Electrique,Professionnel,5.0,5.0,TESLA-MODEL S,21950,2,6.0,2015.0,278,Boîte automatique,,2,1900.0,378,Euro 6d,Électrique,,0.0
+Bon prix,59910,Essence,Professionnel,5.0,5.0,AUDI-RS Q3,57990,2,2.0,2022.0,294,Boîte automatique,2480.0,2,1775.0,400,Euro 6d,Essence,8.8,201.0
+Très bon prix,3086,Electrique/Essence,Professionnel,5.0,5.0,PEUGEOT-3008,339901,3,5.0,2024.0,100,Boîte automatique,1199.0,1,,136,Euro 6d,Essence,,125.0
+Très bon prix,30604,Essence,Professionnel,5.0,5.0,OPEL-CROSSLAND,139691,3,8.0,2022.0,81,Boîte manuelle,1199.0,8,1254.0,110,Euro 6,Essence,5.8,108.0
+Bon prix,10731,Essence,Professionnel,2.0,2.0,MAZDA-MX-5,22990,2,4.0,2018.0,118,Boîte manuelle,1998.0,1,1065.0,160,Euro 6b,Essence,,154.0
+Pas d'information,153000,Essence,Professionnel,4.0,3.0,RENAULT-TWINGO,4950,0,2.0,2008.0,56,Boîte automatique,1149.0,5,1025.0,76,Euro 4,Essence,5.7,135.0
+Prix correct,67544,Essence,Professionnel,5.0,5.0,RENAULT-MEGANE,11850,1,5.0,2017.0,97,Boîte manuelle,1197.0,9,1368.0,132,Euro 6b,Essence,5.3,119.0
+Prix correct,25866,Essence,Professionnel,5.0,5.0,BMW-X1,384991,1,5.0,2023.0,100,Boîte automatique,1499.0,1,1575.0,136,Euro 6e,Essence,,145.0
+Prix correct,66729,Essence,Professionnel,5.0,5.0,HYUNDAI-TUCSON,19995,1,8.0,2020.0,97,Boîte manuelle,1591.0,9,,132,Euro 6d,Essence,6.8,153.0
+Prix correct,138088,Diesel,Professionnel,5.0,5.0,VOLKSWAGEN-SHARAN,10499,1,2.0,2012.0,100,Boîte manuelle,1968.0,1,1774.0,136,Euro 5,Diesel,5.5,143.0
+Très bon prix,286509,Diesel,Professionnel,5.0,5.0,MERCEDES-BENZ-C 200,2900,3,4.0,2008.0,100,Boîte manuelle,2148.0,1,1605.0,136,Euro 4,Diesel,5.9,154.0
+Prix correct,70000,Essence,Professionnel,4.0,5.0,PEUGEOT-107,3490,1,12.0,2008.0,50,Boîte manuelle,998.0,5,3875.0,68,Euro 4,Essence,4.5,
+Pas d'information,133000,Diesel,Professionnel,5.0,5.0,AUDI-A3,13750,0,3.0,2016.0,81,Boîte manuelle,1598.0,8,1385.0,110,Euro 6b,Diesel,4.0,105.0
+Bon prix,77000,Essence,Professionnel,5.0,5.0,VOLKSWAGEN-ARTEON,229951,2,7.0,2019.0,110,Boîte automatique,1498.0,1,1556.0,150,Euro 6d,Essence,6.1,139.0
+Très bon prix,56678,Diesel,Professionnel,5.0,5.0,VOLKSWAGEN-GOLF VARIANT,149901,3,3.0,2020.0,85,Boîte manuelle,1598.0,8,,116,Euro 6d,Diesel,,133.0
+Très bon prix,37389,Essence,Professionnel,5.0,5.0,VOLKSWAGEN-GOLF,237901,3,1.0,2022.0,110,Boîte automatique,1498.0,1,,150,Euro 6,Essence,,126.0
+Bon prix,61162,Diesel,Professionnel,5.0,5.0,DS AUTOMOBILES-DS 7 CROSSBACK,20950,2,10.0,2019.0,96,Boîte automatique,1499.0,9,,131,Euro 6,Diesel,,105.0
+Pas d'information,46736,Essence,Professionnel,5.0,5.0,MERCEDES-BENZ-GLA 180,268901,0,6.0,2022.0,100,Boîte automatique,1332.0,1,,136,Euro 6d,Essence,,152.0
+Prix correct,63000,Essence,Professionnel,5.0,5.0,VOLKSWAGEN-GOLF GTI,22490,1,8.0,2017.0,169,Boîte automatique,1984.0,1,1364.0,230,Euro 6b,Essence,6.4,148.0
+Prix correct,101000,Essence,Professionnel,5.0,5.0,MERCEDES-BENZ-A 180,16990,1,1.0,2017.0,90,Boîte manuelle,1595.0,9,1360.0,122,Euro 6,Essence,5.2,
+Pas d'information,5,Essence,Professionnel,,,PEUGEOT-208,149901,0,,,74,Boîte manuelle,1199.0,7,,101,Euro 6,Essence,,117.0
+Bon prix,111526,Essence,Professionnel,5.0,5.0,PEUGEOT-308,10995,2,9.0,2018.0,96,Boîte manuelle,1199.0,9,1164.0,131,Euro 6d,Essence,,120.0
+Très bon prix,206798,Diesel,Professionnel,5.0,5.0,RENAULT-SCENIC,1650,3,5.0,2009.0,96,Boîte manuelle,1870.0,9,1505.0,131,Euro 4,Diesel,6.0,160.0
+Très bon prix,190000,Diesel,Professionnel,5.0,5.0,AUDI-A7,199501,3,3.0,2017.0,140,Boîte automatique,2967.0,1,1900.0,190,Euro 6,Diesel,5.3,138.0
+Prix correct,108000,Diesel,Professionnel,5.0,4.0,AUDI-A4,13490,1,1.0,2014.0,100,Boîte manuelle,1968.0,1,1500.0,136,Euro 5,Diesel,,104.0
+Prix correct,139880,Diesel,Professionnel,5.0,5.0,KIA-OPTIMA,139901,1,7.0,2017.0,99,Boîte automatique,1685.0,9,,135,Euro 6,Diesel,,120.0
+Pas d'information,5468,Essence,Professionnel,2.0,2.0,HONDA-NSX,237500,0,1.0,2019.0,373,Boîte automatique,3493.0,3,1725.0,507,Euro 6b,Essence,5.7,130.0
+Très bon prix,54176,Essence,Professionnel,2.0,2.0,TOYOTA-SUPRA,59995,3,11.0,2019.0,375,Boîte automatique,2998.0,3,,510,Euro 6d,Essence,,170.0
+Bon prix,51000,Essence,Professionnel,5.0,2.0,BMW-220,35950,2,2.0,2022.0,135,Boîte automatique,1998.0,1,,184,Euro 6,Essence,,
+Prix correct,34265,Essence,Professionnel,5.0,5.0,DACIA-SANDERO,13990,1,11.0,2022.0,67,Boîte manuelle,999.0,6,,91,,Essence,,128.0
+Bon prix,57227,Essence,Professionnel,5.0,5.0,BMW-216,17995,2,3.0,2020.0,80,Boîte manuelle,1499.0,8,1490.0,109,Euro 6d,Essence,,150.0
+Très bon prix,150000,Diesel,Professionnel,5.0,5.0,TOYOTA-RAV 4,12700,3,2.0,2016.0,105,Boîte manuelle,1995.0,1,1535.0,143,Euro 6c,Diesel,4.7,
+Bon prix,166000,Diesel,Professionnel,5.0,5.0,CITROEN-GRAND C4 PICASSO,11000,2,5.0,2019.0,110,Boîte manuelle,1997.0,1,1560.0,150,,Diesel,4.1,107.0
+Prix correct,82590,Diesel,Professionnel,5.0,5.0,MERCEDES-BENZ-GLC 220,32000,1,3.0,2019.0,125,Boîte automatique,2143.0,1,1845.0,170,Euro 6c,Diesel,6.2,165.0
+Bon prix,237000,Essence,Professionnel,5.0,5.0,MERCEDES-BENZ-GLA 180,13750,2,11.0,2018.0,90,Boîte manuelle,1595.0,9,1395.0,122,Euro 6d,Essence,6.9,158.0
+Très bon prix,286509,Diesel,Professionnel,5.0,5.0,MERCEDES-BENZ-C 200,2900,3,4.0,2008.0,100,Boîte manuelle,2148.0,1,1605.0,136,Euro 4,Diesel,5.9,154.0
+Pas d'information,210000,Diesel,Professionnel,5.0,5.0,PEUGEOT-PARTNER,4990,0,4.0,2013.0,68,Boîte manuelle,1560.0,6,1395.0,92,Euro 5,Diesel,4.7,
+Bon prix,101475,Essence,Professionnel,5.0,5.0,JEEP-RENEGADE,12890,2,3.0,2019.0,88,Boîte manuelle,1000.0,8,1320.0,120,,Essence,,138.0
+Bon prix,87500,Essence,Professionnel,5.0,4.0,BMW-218,23490,2,4.0,2021.0,100,Boîte automatique,1499.0,1,1450.0,136,Euro 6d,,6.0,114.0
+Pas d'information,104925,Electrique/Diesel,Professionnel,5.0,4.0,MERCEDES-BENZ-S 300,36890,0,4.0,2015.0,150,Boîte automatique,2143.0,1,,204,,Électrique,,99.0
+Prix correct,119000,Diesel,Professionnel,5.0,5.0,BMW-X1,189501,1,1.0,2020.0,85,Boîte manuelle,1496.0,8,1555.0,116,Euro 6d,Diesel,4.1,107.0
+Très bon prix,42219,Essence,Professionnel,5.0,5.0,PEUGEOT-2008,18990,3,2.0,2021.0,96,Boîte automatique,1199.0,9,,131,Euro 6d,Essence,,133.0
+Bon prix,57227,Essence,Professionnel,5.0,5.0,BMW-216,17995,2,3.0,2020.0,80,Boîte manuelle,1499.0,8,1490.0,109,Euro 6d,Essence,,150.0
+Prix correct,310154,Electrique/Essence,Professionnel,5.0,5.0,TOYOTA-AURIS,6950,1,3.0,2014.0,73,Boîte automatique,1798.0,7,1535.0,99,Euro 5,Électrique,3.9,92.0
+Bon prix,10064,Essence,Professionnel,5.0,5.0,VOLKSWAGEN-GOLF R,43950,2,10.0,2023.0,235,Boîte automatique,1984.0,2,,320,Euro 6d,Essence,,
+Très bon prix,45610,Essence,Professionnel,4.0,2.0,FORD-MUSTANG,298901,3,2.0,2020.0,213,Boîte manuelle,2261.0,2,1737.0,290,Euro 6d,Essence,9.0,199.0
+Très bon prix,37120,Electrique/Essence,Professionnel,5.0,5.0,TOYOTA-C-HR,22990,3,8.0,2023.0,72,Boîte automatique,1798.0,7,,98,Euro 6d,Essence,,55.0
+Bon prix,99771,Diesel,Professionnel,5.0,5.0,VOLKSWAGEN-T-CROSS,18950,2,10.0,2020.0,70,Boîte automatique,1598.0,7,,95,Euro 6d,Diesel,4.2,110.0
+Très bon prix,34877,Essence,Professionnel,5.0,4.0,PEUGEOT-208,14490,3,1.0,2022.0,74,Boîte manuelle,1199.0,7,,101,Euro 6d,Essence,,118.0
+Bon prix,39000,Diesel,Professionnel,5.0,4.0,AUDI-A3,209991,2,1.0,2020.0,85,Boîte automatique,1598.0,8,1365.0,116,Euro 6d,Diesel,3.9,103.0
+Très bon prix,50838,Essence,Professionnel,,5.0,AUDI-Q2,24990,3,3.0,2023.0,110,Boîte automatique,1498.0,1,1305.0,150,,Essence,,
+Très bon prix,45835,Essence,Professionnel,5.0,4.0,BMW-M3,69900,3,8.0,2021.0,375,Boîte automatique,2993.0,3,,510,Euro 6d,Essence,,229.0
+Bon prix,39000,Diesel,Professionnel,5.0,4.0,AUDI-A3,209991,2,1.0,2020.0,85,Boîte automatique,1598.0,8,1365.0,116,Euro 6d,Diesel,3.9,103.0
+Très bon prix,50838,Essence,Professionnel,,5.0,AUDI-Q2,24990,3,3.0,2023.0,110,Boîte automatique,1498.0,1,1305.0,150,,Essence,,
+Bon prix,265579,Essence,Professionnel,5.0,5.0,VOLVO-V90,16400,2,5.0,2018.0,223,Boîte automatique,1969.0,2,2050.0,303,Euro 6d,Essence,2.2,49.0
+Bon prix,62497,Diesel,Professionnel,5.0,4.0,MERCEDES-BENZ-CLA 180,295001,2,6.0,2020.0,85,Boîte automatique,1461.0,8,1400.0,116,Euro 6d,Diesel,4.5,100.0
+Bon prix,75995,Essence,Professionnel,7.0,5.0,PEUGEOT-5008,21250,2,2.0,2021.0,96,Boîte automatique,1199.0,9,1578.0,131,Euro 6d,Essence,5.2,120.0
+Prix correct,43000,Essence,Professionnel,5.0,5.0,PEUGEOT-208,14500,1,8.0,2020.0,74,Boîte manuelle,1199.0,7,1165.0,101,Euro 6d,Essence,4.3,98.0
+Très bon prix,147910,CNG,Professionnel,5.0,5.0,VOLKSWAGEN-CADDY,10999,3,6.0,2017.0,81,Boîte automatique,1395.0,8,1576.0,110,Euro 6b,,6.8,120.0
+Bon prix,17251,Essence,Professionnel,5.0,5.0,VOLKSWAGEN-TAIGO,184901,2,2.0,2023.0,70,Boîte manuelle,999.0,7,,95,Euro 6d,Essence,,123.0
+Prix correct,41960,Electrique/Essence,Professionnel,,5.0,RENAULT-AUSTRAL,299501,1,2.0,2023.0,147,Boîte automatique,1199.0,1,,200,,Électrique,,
+Bon prix,72451,Essence,Professionnel,5.0,4.0,JAGUAR-XE,219991,2,3.0,2019.0,147,Boîte automatique,1997.0,1,1540.0,200,Euro 6b,,6.3,144.0
+Bon prix,84000,Diesel,Professionnel,5.0,5.0,HYUNDAI-KONA,14990,2,10.0,2020.0,85,Boîte manuelle,1598.0,8,1318.0,116,Euro 6d,Diesel,4.1,111.0
+Prix correct,159000,Diesel,Professionnel,5.0,5.0,VOLKSWAGEN-TIGUAN,22500,1,2.0,2018.0,110,Boîte automatique,1968.0,1,1673.0,150,Euro 6b,Diesel,5.7,149.0
+Très bon prix,64685,Essence,Professionnel,5.0,5.0,FORD-KUGA,19490,3,5.0,2022.0,110,Boîte manuelle,1499.0,1,1493.0,150,Euro 6,Essence,5.5,119.0
+Très bon prix,55401,Electrique/Essence,Professionnel,5.0,5.0,AUDI-Q5,429991,3,10.0,2021.0,195,Boîte automatique,1984.0,1,2150.0,265,Euro 6d,Électrique,1.8,36.0
+Très bon prix,158364,Essence,Professionnel,5.0,5.0,BMW-X3,9980,3,12.0,2011.0,135,Boîte manuelle,1995.0,1,1790.0,184,Euro 5,Essence,5.6,149.0
+Prix correct,100482,Essence,Professionnel,5.0,5.0,VOLKSWAGEN-ARTEON,19450,1,8.0,2018.0,110,Boîte manuelle,1498.0,1,1556.0,150,Euro 6d,,6.0,136.0
+Très bon prix,15000,Essence,Professionnel,5.0,5.0,PEUGEOT-3008,22990,3,9.0,2022.0,96,Boîte automatique,1199.0,9,1478.0,131,Euro 6d,Essence,5.1,146.0
+Prix correct,115000,Essence,Professionnel,5.0,3.0,TOYOTA-YARIS,4490,1,8.0,2009.0,69,Boîte manuelle,998.0,6,1010.0,94,Euro 4,Essence,5.0,119.0
+Très bon prix,55178,Essence,Professionnel,5.0,5.0,OPEL-CROSSLAND,129901,3,9.0,2022.0,61,Boîte manuelle,1199.0,6,,83,Euro 6d,Essence,,106.0
+Prix correct,124372,Diesel,Professionnel,5.0,4.0,BMW-118,129901,1,9.0,2015.0,110,Boîte automatique,1995.0,1,,150,Euro 6,Diesel,,99.0
+Très bon prix,55178,Essence,Professionnel,5.0,5.0,OPEL-CROSSLAND,129901,3,9.0,2022.0,61,Boîte manuelle,1199.0,6,,83,Euro 6d,Essence,,106.0
+Pas d'information,161,Essence,Professionnel,5.0,5.0,AUDI-RS6,1520001,0,6.0,2024.0,463,Boîte automatique,3996.0,4,2150.0,630,Euro 6d,,12.3,280.0
+Très bon prix,99800,Electrique/Essence,Professionnel,5.0,5.0,LAND ROVER-RANGE ROVER,49950,3,5.0,2019.0,221,Boîte automatique,1997.0,2,2342.0,300,Euro 6d,Électrique,5.0,79.0
+Bon prix,28027,Essence,Professionnel,5.0,5.0,FORD-FIESTA,23890,2,9.0,2023.0,147,Boîte manuelle,1499.0,1,1164.0,200,Euro 6,Essence,6.4,145.0
+Très bon prix,96000,Diesel,Professionnel,5.0,5.0,VOLVO-V60 CROSS COUNTRY,259991,3,5.0,2020.0,110,Boîte automatique,1969.0,1,1867.0,150,Euro 6d,Diesel,5.1,135.0
+Très bon prix,73399,Essence,Professionnel,5.0,5.0,RENAULT-CLIO,114501,3,1.0,2021.0,67,Boîte manuelle,999.0,6,1165.0,91,Euro 6d,Essence,,100.0
+Très bon prix,63581,Diesel,Professionnel,5.0,4.0,BMW-518,259901,3,5.0,2020.0,110,Boîte automatique,1995.0,1,,150,Euro 6d,Diesel,,
+Bon prix,66318,Essence,Professionnel,5.0,5.0,OPEL-CROSSLAND X,12999,2,7.0,2018.0,81,Boîte automatique,1199.0,8,1289.0,110,Euro 6,Essence,5.5,125.0
+Prix correct,174250,Essence,Professionnel,5.0,5.0,BMW-118,6490,1,6.0,2010.0,105,Boîte manuelle,1995.0,1,1350.0,143,Euro 5,Essence,6.1,143.0
+Bon prix,77000,Essence,Professionnel,5.0,5.0,SEAT-IBIZA,119901,2,11.0,2020.0,70,Boîte manuelle,999.0,7,1134.0,95,Euro 6d,Essence,4.6,104.0
+Bon prix,90000,Diesel,Professionnel,5.0,4.0,MERCEDES-BENZ-E 220,21990,2,11.0,2015.0,125,Boîte automatique,2143.0,1,1735.0,170,Euro 6b,Diesel,5.1,135.0
+Bon prix,32101,Essence,Professionnel,5.0,5.0,NISSAN-QASHQAI,18900,2,1.0,2020.0,103,Boîte manuelle,1300.0,1,1375.0,140,,Essence,,130.0
+Très bon prix,58000,Diesel,Professionnel,5.0,5.0,BMW-318,249991,3,11.0,2020.0,110,Boîte automatique,1995.0,1,1660.0,150,Euro 6d,Diesel,4.2,111.0
+Prix correct,193273,Diesel,Professionnel,5.0,5.0,MERCEDES-BENZ-B 180,9850,1,4.0,2016.0,80,Boîte manuelle,1461.0,8,1395.0,109,Euro 6b,Diesel,3.6,107.0
+Pas d'information,31820,Essence,Professionnel,5.0,5.0,MERCEDES-BENZ-GLB 180,282901,0,11.0,2022.0,100,Boîte automatique,1332.0,1,,136,Euro 6d,Essence,,159.0
+Pas d'information,118226,Essence,Professionnel,5.0,5.0,AUDI-RS6,79999,0,9.0,2020.0,441,Boîte automatique,3996.0,4,2150.0,600,Euro 6d,Essence,11.5,263.0
+Très bon prix,86802,Diesel,Professionnel,5.0,,OPEL-INSIGNIA,169501,3,8.0,2021.0,90,Boîte automatique,1496.0,9,,122,Euro 6,Diesel,4.1,109.0
+Bon prix,50163,Diesel,Professionnel,5.0,5.0,RENAULT-MEGANE,17900,2,4.0,2021.0,85,Boîte automatique,1461.0,8,1422.0,116,Euro 6,Diesel,3.9,104.0
+Très bon prix,43968,Electrique/Essence,Professionnel,5.0,5.0,VOLVO-XC40,279951,3,6.0,2020.0,192,,,1,,261,,Électrique,,41.0
