@@ -1,0 +1,41 @@
+[2025-02-20T09:03:15.364+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-02-20T09:03:15.390+0000] {taskinstance.py:2603} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: ETL.extract_data scheduled__2025-02-18T00:00:00+00:00 [queued]>
+[2025-02-20T09:03:15.403+0000] {taskinstance.py:2603} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: ETL.extract_data scheduled__2025-02-18T00:00:00+00:00 [queued]>
+[2025-02-20T09:03:15.404+0000] {taskinstance.py:2856} INFO - Starting attempt 1 of 2
+[2025-02-20T09:03:15.428+0000] {taskinstance.py:2879} INFO - Executing <Task(PythonOperator): extract_data> on 2025-02-18 00:00:00+00:00
+[2025-02-20T09:03:15.448+0000] {warnings.py:112} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:70: DeprecationWarning: This process (pid=78) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2025-02-20T09:03:15.453+0000] {standard_task_runner.py:72} INFO - Started process 100 to run task
+[2025-02-20T09:03:15.454+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'ETL', 'extract_data', 'scheduled__2025-02-18T00:00:00+00:00', '--job-id', '27', '--raw', '--subdir', 'DAGS_FOLDER/etl.py', '--cfg-path', '/tmp/tmp3rwcw82a']
+[2025-02-20T09:03:15.460+0000] {standard_task_runner.py:105} INFO - Job 27: Subtask extract_data
+[2025-02-20T09:03:15.570+0000] {task_command.py:467} INFO - Running <TaskInstance: ETL.extract_data scheduled__2025-02-18T00:00:00+00:00 [running]> on host b33347fa3e64
+[2025-02-20T09:03:15.761+0000] {taskinstance.py:3122} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='ETL' AIRFLOW_CTX_TASK_ID='extract_data' AIRFLOW_CTX_EXECUTION_DATE='2025-02-18T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-02-18T00:00:00+00:00'
+[2025-02-20T09:03:15.764+0000] {logging_mixin.py:190} INFO - Task instance is in running state
+[2025-02-20T09:03:15.765+0000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2025-02-20T09:03:15.765+0000] {logging_mixin.py:190} INFO - Current task name:extract_data state:running start_date:2025-02-20 09:03:15.391636+00:00
+[2025-02-20T09:03:15.766+0000] {logging_mixin.py:190} INFO - Dag name:ETL and current dag run status:running
+[2025-02-20T09:03:15.767+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2025-02-20T09:03:15.808+0000] {python.py:240} INFO - Done. Returned value was:            CarName  ...                                               link
+0             Fiat  ...  https://www.autoscout24.be/fr/offres/fiat-fior...
+1             Audi  ...  https://www.autoscout24.be/fr/offres/audi-e-tr...
+2       Volkswagen  ...  https://www.autoscout24.be/fr/offres/volkswage...
+3          Citroen  ...  https://www.autoscout24.be/fr/offres/citroen-c...
+4             Audi  ...  https://www.autoscout24.be/fr/offres/audi-q8-e...
+..             ...  ...                                                ...
+392  Mercedes-Benz  ...  https://www.autoscout24.be/fr/offres/mercedes-...
+393           Audi  ...  https://www.autoscout24.be/fr/offres/audi-rs6-...
+394           Opel  ...  https://www.autoscout24.be/fr/offres/opel-insi...
+395        Renault  ...  https://www.autoscout24.be/fr/offres/renault-m...
+396          Volvo  ...  https://www.autoscout24.be/fr/offres/volvo-xc4...
+
+[397 rows x 16 columns]
+[2025-02-20T09:03:16.285+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2025-02-20T09:03:16.287+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=ETL, task_id=extract_data, run_id=scheduled__2025-02-18T00:00:00+00:00, execution_date=20250218T000000, start_date=20250220T090315, end_date=20250220T090316
+[2025-02-20T09:03:16.323+0000] {logging_mixin.py:190} INFO - Task instance in success state
+[2025-02-20T09:03:16.326+0000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: running
+[2025-02-20T09:03:16.332+0000] {logging_mixin.py:190} INFO - Dag name:ETL queued_at:2025-02-20 09:03:10.856708+00:00
+[2025-02-20T09:03:16.335+0000] {logging_mixin.py:190} INFO - Task hostname:b33347fa3e64 operator:PythonOperator
+[2025-02-20T09:03:16.416+0000] {local_task_job_runner.py:261} INFO - Task exited with return code 0
+[2025-02-20T09:03:16.475+0000] {taskinstance.py:3891} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2025-02-20T09:03:16.489+0000] {local_task_job_runner.py:240} INFO - ::endgroup::

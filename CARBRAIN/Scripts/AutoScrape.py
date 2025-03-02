@@ -27,7 +27,7 @@ class CarScraper:
     
     def extract_car_links(self, page_number):
         """Extract car links from a given page."""
-        website = f"https://www.autoscout24.be/fr/lst?atype=C&cy=B&desc=0&page={page_number}&search_id=a5i2bcp2m1&sort=standard&source=listpage_pagination&ustate=N%2CU"
+        website = f"https://www.autoscout24.be/fr/lst/volkswagen?atype=C&cy=B&desc=0&page={page_number}&search_id=1jjxdi02ha&sort=standard&source=listpage_pagination&ustate=N%2CU"
         self.open_page(website)
         cars_sections = self.driver.find_elements(By.CLASS_NAME, "ListItem_wrapper__TxHWu")
         links = []
@@ -62,9 +62,9 @@ class CarScraper:
 
         # Extract car model
         WebDriverWait(self.driver, 30).until(         
-            EC.presence_of_element_located((By.XPATH, '//*[@id="__next"]/div/div/main/div[3]/div[2]/div[1]/div[2]/h1/div[1]/span[2]'))
+            EC.presence_of_element_located((By.XPATH, '//*[@id="__next"]/div/div/main/div[3]/div[2]/div[1]/div[2]/h1/div[2]'))
         )
-        CarModele = self.driver.find_element(By.XPATH, '//*[@id="__next"]/div/div/main/div[3]/div[2]/div[1]/div[2]/h1/div[1]/span[2]')
+        CarModele = self.driver.find_element(By.XPATH, '//*[@id="__next"]/div/div/main/div[3]/div[2]/div[1]/div[2]/h1/div[2]')
 
         # Extract car price
         WebDriverWait(self.driver, 30).until(
@@ -130,12 +130,12 @@ class CarScraper:
                 os.remove(path)  # Supprimer le fichier corrompu
                 wb = Workbook()
                 ws = wb.active
-                ws.append(["CarName", "carModele", "CarPrice", "Etat", "Milieage", "Transmission", 
+                ws.append(["CarName", "carDetails", "CarPrice", "Etat", "Milieage", "Transmission", 
                                 "Annee", "Carburant", "CarPuissance", "CarVendeur", "Portes", "seats", "Options", "ConsommationEnergétique","CouleurGarnissageIntérieur","link"])
         else:
             wb = Workbook()
             ws = wb.active
-            ws.append(["CarName", "carModele", "CarPrice", "Etat", "Milieage", "Transmission", 
+            ws.append(["CarName", "carDetails", "CarPrice", "Etat", "Milieage", "Transmission", 
                                 "Annee", "Carburant", "CarPuissance", "CarVendeur", "Portes", "seats", "Options", "ConsommationEnergétique","CouleurGarnissageIntérieur","link"])
             wb.save(path)
 
@@ -144,7 +144,7 @@ class CarScraper:
         if not os.path.exists(path):
             with open(path, mode='w', newline='', encoding='utf-8') as file:
                 writer = csv.writer(file)
-                writer.writerow(["CarName", "carModele", "CarPrice", "Etat", "Milieage", "Transmission", 
+                writer.writerow(["CarName", "carDetails", "CarPrice", "Etat", "Milieage", "Transmission", 
                                 "Annee", "Carburant", "CarPuissance", "CarVendeur", "Portes", "seats", "Options", "ConsommationEnergétique","CouleurGarnissageIntérieur","link"])
 
 
